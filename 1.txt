@@ -1,4 +1,5 @@
-#№
+[Group]
+groupName=№
 
 J2,https://s2.pub/22p
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
@@ -188,7 +189,8 @@ History 频道,https://s2.pub/22j
 TLC 旅游生活頻道,https://s2.pub/22l
 客家电视台,https://s2.pub/22m
 
-#替换咪咕
+[Group]
+groupName=替换咪咕
 
 CCTV1,http://gongzhuling.lnott.top:58000/hls/1/index.m3u8
 CCTV2,http://gongzhuling.lnott.top:58000/hls/2/index.m3u8
@@ -290,7 +292,8 @@ ELTA体育1,rtmp://9sv2.mine.nu/sat/md051
 ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
 
 
-#广东组播
+[Group]
+groupName=广东组播
 
 广东卫视,http://113.116.104.247:10000/rtp/239.77.0.2:5146
 广东卫视,http://113.116.104.247:10000/rtp/239.77.1.2:5146
@@ -866,7 +869,8 @@ PPTV-4,http://113.116.104.247:10000/rtp/239.77.1.186:5146
 频道已停止播出,http://113.116.104.247:10000/rtp/239.77.1.122:5146
 频道已停止播出,http://113.116.104.247:10000/rtp/239.77.1.114:5146
 
-#shaonv
+[Group]
+groupName=shaonv
 
 兵器科技,http://tvphp1.rbq.plus/ysp.php?id=bqkj
 风云剧场,http://tvphp1.rbq.plus/ysp.php?id=fyjc
@@ -1004,7 +1008,8 @@ CETV4,http://tvpo2.rbq.plus/p3/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 安徽卫视,http://cfss.cc/api/ysp/ahws.m3u8
 
 
-#广东谷豆
+[Group]
+groupName=广东谷豆
 
 凤凰中文,http://47.109.29.60/php/gudo.php?id=fhzw
 翡翠台,http://47.109.29.60/php/gudo.php?id=fcthd
@@ -1035,7 +1040,8 @@ CETV4,http://tvpo2.rbq.plus/p3/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 佛山顺德,http://47.109.29.60/php/gudo.php?id=fssd
 佛山南海,http://47.109.29.60/php/gudo.php?id=fsnh
 
-#1
+[Group]
+groupName=1
 
 CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -1054,7 +1060,8 @@ CCTV14,http://tvphp1.rbq.plus/ysp.php?id=cctv14
 CCTV15,http://tvphp1.rbq.plus/ysp.php?id=cctv15
 CCTV16,http://tvphp1.rbq.plus/ysp.php?id=cctv16
 
-#广东联通
+[Group]
+groupName=广东联通
 
 CCTV1,http://112.91.153.50:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://112.91.153.50:9901/tsfile/live/0002_1.m3u8
@@ -1097,7 +1104,8 @@ CCTV15,http://112.91.153.50:9901/tsfile/live/0015_1.m3u8
 广东珠江,http://112.91.153.50:9901/tsfile/live/0109_1.m3u8
 嘉佳卡通,http://112.91.153.50:9901/tsfile/live/0016_1.m3u8
 
-#HK
+[Group]
+groupName=HK
 
 翡翠台,http://feng163.com:9000/bysid/1
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -1135,7 +1143,8 @@ HOY TV,http://feng163.com:9003/bysid/77
 凤凰卫视,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
-#GD
+[Group]
+groupName=GD
 
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
@@ -1242,7 +1251,8 @@ CETV4,http://42.57.169.57:8888/rtp/232.0.0.46:1234
 CCTV-4欧洲,http://42.57.169.57:8888/rtp/232.0.0.53:1234
 CCTV-4美洲,http://42.57.169.57:8888/rtp/232.0.0.59:1234
 
-#Yoursmile7
+[Group]
+groupName=Yoursmile7
 
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -1463,7 +1473,8 @@ CCTV17,http://159.75.85.63:5678/zb.php?id=douyin
 CCTV娱乐,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156405&extension=ts
 TVBs,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
-#12.04
+[Group]
+groupName=12.04
 
 CCTV1,http://91tv.top:9901/hls/1/index.m3u8
 CCTV2,http://91tv.top:9901/hls/2/index.m3u8
@@ -1579,7 +1590,8 @@ CCTV15,http://ftxz.7766.org:808/hls/15/index.m3u8
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
 
-#卫视
+[Group]
+groupName=卫视
 
 山西卫视,http://218.17.196.234:9901/tsfile/live/0118_1.m3u8
 安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
