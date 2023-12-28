@@ -250,7 +250,10 @@ CCTV17,http://gongzhuling.lnott.top:58000/hls/17/index.m3u8
 大湾区卫视,http://111.180.199.137:9895/php/触电.php?id=nfws
 广东经济科教,http://111.180.199.137:9895/php/触电.php?id=gdjjkj
 
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
+星河台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 翡翠台,http://r.jdshipin.com/Gtx1R?id=fcthd
