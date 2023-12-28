@@ -7,7 +7,7 @@ J2,https://s2.pub/22p
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 星河台,https://s2.pub/22s
-翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -250,9 +250,7 @@ CCTV17,http://gongzhuling.lnott.top:58000/hls/17/index.m3u8
 大湾区卫视,http://111.180.199.137:9895/php/触电.php?id=nfws
 广东经济科教,http://111.180.199.137:9895/php/触电.php?id=gdjjkj
 
-翡翠台,https://s2.pub/23e
-翡翠台,https://s2.pub/22q
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 翡翠台,http://r.jdshipin.com/Gtx1R?id=fcthd
