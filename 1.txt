@@ -1,13 +1,13 @@
 #№
 
-J2,https://s2.pub/22p
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-星河台,https://s2.pub/22s
-翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+星河台,http://113.117.74.17:8081/hls/135/index.m3u8
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -258,11 +258,10 @@ CCTV17,http://gongzhuling.lnott.top:58000/hls/17/index.m3u8
 
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://r.jdshipin.com/qClQf
-星河台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+
 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-翡翠台,http://r.jdshipin.com/Gtx1R?id=fcthd
+J2,https://s2.pub/22p
 凤凰中文,https://s2.pub/22n
 凤凰资讯,https://s2.pub/22o
 翡翠台,https://s2.pub/22r
@@ -280,21 +279,7 @@ HOY 资讯台,https://s2.pub/237
 港台电视1,https://s2.pub/238
 港台电视2,https://s2.pub/239
 
-民视,rtmp://9sv2.mine.nu/sat/tv051
-台视,rtmp://9sv2.mine.nu/sat/tv071
-中视,rtmp://9sv2.mine.nu/sat/tv091
-华视,rtmp://9sv2.mine.nu/sat/tv111
-东森超视,rtmp://9sv2.mine.nu/sat/tv331
-东森财经,rtmp://9sv2.mine.nu/sat/tv571
-纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
-纬来体育,rtmp://9sv2.mine.nu/sat/tv721
-纬来日本,rtmp://9sv2.mine.nu/sat/tv771
-TVBS欢乐台,rtmp://9sv2.mine.nu/sat/tv421
-TVBS新闻台,rtmp://9sv2.mine.nu/sat/tv551
-ELEVEN体育1,rtmp://9sv2.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://9sv2.mine.nu/sat/tv741
-ELTA体育1,rtmp://9sv2.mine.nu/sat/md051
-ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
+
 
 #广东组播
 
@@ -1104,21 +1089,15 @@ CCTV15,http://112.91.153.50:9901/tsfile/live/0015_1.m3u8
 
 #HK
 
-翡翠台,http://feng163.com:9000/bysid/1
-翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://feng163.com:9000/bysid/
 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 ViuTV6,http://feng163.com:9000/bysid/96
 J2,http://r.jdshipin.com/Nr5jq
-J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
-J2,http://feng163.com:9001/bysid/82
 ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 ViuTV,http://feng163.com:9000/bysid/99
 星河台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
@@ -1129,7 +1108,7 @@ HOY資訊台,http://feng163.com:9003/bysid/78
 HOY TV,http://feng163.com:9003/bysid/77
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
-星河台,http://r.jdshipin.com/sXuuD
+
 凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=30015
 凤凰香港,http://193.233.206.48:8090/live/rx1/358/42de93423dc0f0062a60a09afff70d11/index.m3u8
 凤凰卫视,http://193.233.206.48:8090/live/rx3/2291/1f879248cae6ded1cbb4aa43daa15cba/index.m3u8
