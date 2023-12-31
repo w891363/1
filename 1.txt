@@ -459,6 +459,19 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 大湾区卫视,http://111.180.199.137:9895/php/触电.php?id=nfws
 广东经济科教,http://111.180.199.137:9895/php/触电.php?id=gdjjkj
 
+HOY 财经台,http://headscale.wisdomitc.com:9981/stream/channelid/158862790?profile=pass
+HOY 资讯台,http://headscale.wisdomitc.com:9981/stream/channelid/1606530006?profile=pass
+HOY TV,http://headscale.wisdomitc.com:9981/stream/channelid/248468139?profile=pass
+J2,http://headscale.wisdomitc.com:9981/stream/channelid/1643031328?profile=pass
+翡翠台,http://headscale.wisdomitc.com:9981/stream/channelid/389954355?profile=pass
+TVB  Pearl,http://headscale.wisdomitc.com:9981/stream/channelid/1442314365?profile=pass
+RTHK TV1,http://headscale.wisdomitc.com:9981/stream/channelid/1452314939?profile=pass
+RTHK TV2,http://headscale.wisdomitc.com:9981/stream/channelid/861105239?profile=pass
+TVB 财经体育台,http://headscale.wisdomitc.com:9981/stream/channelid/1813900247?profile=pass
+TVB 新闻台,http://headscale.wisdomitc.com:9981/stream/channelid/1409177603?profile=pass
+Viu TV,http://headscale.wisdomitc.com:9981/stream/channelid/336818267?profile=pass
+
+
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
