@@ -41,7 +41,7 @@ CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
 广东体育,http://r.jdshipin.com/Gtx1R?id=gdty
 广东珠江,http://119.130.243.111:9901/tsfile/live/0133_1.m3u8
 广东卫视,http://tvphp1.rbq.plus/migu.php?id=gdws
-凤凰卫视,http://113.117.74.28:8081/hls/37/index.m3u8
+凤凰卫视,http://livetv.skycf.eu.org/live.m3u8?c=2
 北京卫视,http://gongzhuling.lnott.top:58000/hls/30/index.m3u8
 湖南卫视,http://tvphp1.rbq.plus/migu.php?id=hunws
 东方卫视,http://tvphp1.rbq.plus/migu.php?id=dfws
@@ -138,54 +138,16 @@ CETV4,http://gongzhuling.lnott.top:58000/hls/72/index.m3u8
 TVBs,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 咪咕体育,http://r.jdshipin.com/ln4xk
-
-中视,https://s2.pub/212
-华视,https://s2.pub/213
-TVBS HD,https://s2.pub/214
-TVBS 欢乐台,https://s2.pub/215
-MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
-壹新闻,https://s2.pub/21c
-镜新闻,https://s2.pub/21d
-中天新闻,https://s2.pub/21e
-东森新闻,https://s2.pub/21f
-台视新闻,https://s2.pub/21g
-华视新闻,https://s2.pub/21h
-年代新闻,https://s2.pub/21i
-中视新闻,https://s2.pub/21j
-寰宇新闻台,https://s2.pub/21k
-东森财经新闻,https://s2.pub/21l
-TVBS 新闻台,https://s2.pub/21m
-东森综合台,https://s2.pub/21n
-星空卫视,https://s2.pub/21o
-纬来日本,https://s2.pub/21p
-纬来体育台,https://s2.pub/21q
-纬来电影台,https://s2.pub/21r
-龙华电影台,https://s2.pub/21s
-东森电影台,https://s2.pub/21t
-靖天电影台,https://s2.pub/21u
-靖天国际台,https://s2.pub/21v
-靖洋戏剧台,https://s2.pub/220
-美亚电影台,https://s2.pub/221
-龙祥电影台,https://s2.pub/223
-卫视电影台,https://s2.pub/224
-HBO HD,https://s2.pub/225
-NBA HD,https://s2.pub/226
-Euro sports,https://s2.pub/227
-博斯运动,https://s2.pub/228
-博斯网球,https://s2.pub/229
-博斯高球,https://s2.pub/22a
-博斯无限,https://s2.pub/22b
-ELTA 体育1,https://s2.pub/22c
-ELTA 体育2,https://s2.pub/22d
-ELTA 体育3,https://s2.pub/22e
-ELEVEN体育1,https://s2.pub/22f
-ELEVEN体育2,https://s2.pub/22g
-亚洲旅游台,https://s2.pub/22h
-罪案侦查频道,https://s2.pub/22i
-History 频道,https://s2.pub/22j
-美食星球频道,https://s2.pub/22k
-TLC 旅游生活頻道,https://s2.pub/22l
-客家电视台,https://s2.pub/22m
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
+东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
+镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
+民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
+三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 
 #1
 
