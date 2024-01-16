@@ -138,16 +138,74 @@ CETV4,http://gongzhuling.lnott.top:58000/hls/72/index.m3u8
 TVBs,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 咪咕体育,http://r.jdshipin.com/ln4xk
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
-台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
-TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
-中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
-公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
-东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
-镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
-民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
-三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
+凤凰咨询,http://163.197.220.179/小曾/jd.php?id=live1210
+凤凰卫视中文,http://163.197.220.179/小曾/jd.php?id=live1213
+台视,http://163.197.220.179/小曾/jd.php?id=live1047
+中视,http://163.197.220.179/小曾/jd.php?id=live1048
+華视,http://163.197.220.179/小曾/jd.php?id=live1049
+民视,http://163.197.220.179/小曾/jd.php?id=live1050
+公视,http://163.197.220.179/小曾/jd.php?id=live1201
+人間卫视,http://163.197.220.179/小曾/jd.php?id=live1198
+大愛電视,http://163.197.220.179/小曾/jd.php?id=live1216
+好消息頻道,http://163.197.220.179/小曾/jd.php?id=live1231
+Trace Sport Stars,http://163.197.220.179/小曾/jd.php?id=live1003
+DISCOVERY,http://163.197.220.179/小曾/jd.php?id=live1002
+旅遊生活,http://163.197.220.179/小曾/jd.php?id=live1005
+動物星球,http://163.197.220.179/小曾/jd.php?id=live1004
+亞洲旅遊,http://163.197.220.179/小曾/jd.php?id=live1219
+momo親子台,http://163.197.220.179/小曾/jd.php?id=live1007
+東森幼幼,http://163.197.220.179/小曾/jd.php?id=live1008
+龙华卡通台,http://163.197.220.179/小曾/jd.php?id=custom29
+纬来综合,http://163.197.220.179/小曾/jd.php?id=live1044
+八大第一,http://163.197.220.179/小曾/jd.php?id=live1043
+八大综合,http://163.197.220.179/小曾/jd.php?id=live1019
+三立台灣,http://163.197.220.179/小曾/jd.php?id=live1021
+三立都會,http://163.197.220.179/小曾/jd.php?id=live1020
+韓國娱乐台,http://163.197.220.179/小曾/jd.php?id=live1024
+東森综合,http://163.197.220.179/小曾/jd.php?id=live1041
+超视,http://163.197.220.179/小曾/jd.php?id=live1180
+中天综合,http://163.197.220.179/小曾/jd.php?id=live1022
+中天娱乐,http://163.197.220.179/小曾/jd.php?id=live1023
+東風卫视,http://163.197.220.179/小曾/jd.php?id=live1195
+MUCH TV,http://163.197.220.179/小曾/jd.php?id=live1189
+東森戏剧,http://163.197.220.179/小曾/jd.php?id=live1042
+八大戏剧,http://163.197.220.179/小曾/jd.php?id=live1057
+TVBS歡樂,http://163.197.220.179/小曾/jd.php?id=live1018
+纬来戏剧,http://163.197.220.179/小曾/jd.php?id=live1186
+龙华戏剧台,http://163.197.220.179/小曾/jd.php?id=live1009
+龙华日韓剧,http://163.197.220.179/小曾/jd.php?id=live1010
+龙华偶像剧,http://163.197.220.179/小曾/jd.php?id=live1235
+纬来日本,http://163.197.220.179/小曾/jd.php?id=live1026
+Taiwan Plus,http://163.197.220.179/小曾/jd.php?id=live1238
+年代新闻,http://163.197.220.179/小曾/jd.php?id=live1192
+東森新闻,http://163.197.220.179/小曾/jd.php?id=live1014
+中天新闻,http://163.197.220.179/小曾/jd.php?id=live1015
+民视新闻,http://163.197.220.179/小曾/jd.php?id=live1204
+三立新闻,http://163.197.220.179/小曾/jd.php?id=live1016
+TVBS新闻,http://163.197.220.179/小曾/jd.php?id=live1051
+TVBS ,http://163.197.220.179/小曾/jd.php?id=live1251
+非凡新闻,http://163.197.220.179/小曾/jd.php?id=live1013
+非凡商業,http://163.197.220.179/小曾/jd.php?id=live1012
+東森財經,http://163.197.220.179/小曾/jd.php?id=live1017
+寰宇新闻,http://163.197.220.179/小曾/jd.php?id=live1222
+壹新闻,http://163.197.220.179/小曾/jd.php?id=live1242
+Bloomberg News,http://163.197.220.179/小曾/jd.php?id=live1066
+NHK世界,http://163.197.220.179/小曾/jd.php?id=live1027
+鏡電视新闻台,http://163.197.220.179/小曾/jd.php?id=live1031
+好萊塢電影,http://163.197.220.179/小曾/jd.php?id=live1025
+纬来電影,http://163.197.220.179/小曾/jd.php?id=live1183
+龙华電影台,http://163.197.220.179/小曾/jd.php?id=live1245
+HBO,http://163.197.220.179/小曾/jd.php?id=live1029
+AXN,http://163.197.220.179/小曾/jd.php?id=live1054
+CINEMAX ,http://163.197.220.179/小曾/jd.php?id=live1030
+AMC 電影台,http://163.197.220.179/小曾/jd.php?id=live1032
+寵物頻道,http://163.197.220.179/小曾/jd.php?id=live1040
+纬来育樂,http://163.197.220.179/小曾/jd.php?id=live1045
+纬来體育,http://163.197.220.179/小曾/jd.php?id=live1011
+博斯運動一,http://163.197.220.179/小曾/jd.php?id=live1225
+momo 综合台,http://163.197.220.179/小曾/jd.php?id=live1248
+ELEVEN SPORTS 1 ,http://163.197.220.179/小曾/jd.php?id=live1069
+ELEVEN SPORTS 2 ,http://163.197.220.179/小曾/jd.php?id=live1072
 
 #1
 
@@ -554,49 +612,22 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 广东经济科教,http://111.180.199.137:9895/php/触电.php?id=gdjjkj
 
 
-翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500
-明珠台,http://42.186.64.52:5001/site/gudou.php?id=1351_4500
-凤凰中文,http://42.186.64.52:5001/site/gudou.php?id=fhzw_1500
-星空卫视,http://42.186.64.52:5001/site/gudou.php?id=xingkong_1500
-澳亚卫视,http://42.186.64.52:5001/site/gudou.php?id=aoya_1500
-翡翠台,http://tebao.cn:8088/gudou-ag.php?id=fcthd&t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=1&pid=&cid=30&d=865372026096088&sid=UvTDcUdnRi8CMlYpibFWzA==&nc=deTQQ4XdwLRh&a=7&v=2&isSuma=1&hlsSessionID=1429613102050774418&srchost=172.16.149.181:8060&gid=gr2Ru1u3u4B5KOJoPSVDFw%3D%3D
-明珠台,http://tebao.cn:8088/gudou-ag.php?id=mzthd&t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=1&pid=&cid=30&d=865372026096088&sid=UvTDcUdnRi8CMlYpibFWzA==&nc=deTQQ4XdwLRh&a=7&v=2&isSuma=1&hlsSessionID=1429613102050774418&srchost=172.16.149.181:8060&gid=gr2Ru1u3u4B5KOJoPSVDFw%3D%3D
-
-HOY 财经台,http://headscale.wisdomitc.com:9981/stream/channelid/158862790?profile=pass
-HOY 资讯台,http://headscale.wisdomitc.com:9981/stream/channelid/1606530006?profile=pass
-HOY TV,http://headscale.wisdomitc.com:9981/stream/channelid/248468139?profile=pass
-J2,http://headscale.wisdomitc.com:9981/stream/channelid/1643031328?profile=pass
-翡翠台,http://headscale.wisdomitc.com:9981/stream/channelid/389954355?profile=pass
-TVB  Pearl,http://headscale.wisdomitc.com:9981/stream/channelid/1442314365?profile=pass
-RTHK TV1,http://headscale.wisdomitc.com:9981/stream/channelid/1452314939?profile=pass
-RTHK TV2,http://headscale.wisdomitc.com:9981/stream/channelid/861105239?profile=pass
-TVB 财经体育台,http://headscale.wisdomitc.com:9981/stream/channelid/1813900247?profile=pass
-TVB 新闻台,http://headscale.wisdomitc.com:9981/stream/channelid/1409177603?profile=pass
-Viu TV,http://headscale.wisdomitc.com:9981/stream/channelid/336818267?profile=pass
-
-
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-
-翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
-J2,https://s2.pub/22p
-凤凰中文,https://s2.pub/22n
-凤凰资讯,https://s2.pub/22o
-翡翠台,https://s2.pub/22r
-星河台,http://113.117.74.17:8081/hls/135/index.m3u8
-TVB 华语台,https://s2.pub/22t
-TVB 亚洲剧台,https://s2.pub/22u
-TVB 粤语片台,https://s2.pub/22v
-TVB 经典台,https://s2.pub/230
-TVB 新闻台,https://s2.pub/231
-TVB 娱乐新闻台,https://s2.pub/232
-TVB 无线财经体育资讯台,https://s2.pub/233
-NOW 新闻台,https://s2.pub/235
-Viu TV,https://s2.pub/236
-HOY 资讯台,https://s2.pub/237
-港台电视1,https://s2.pub/238
-港台电视2,https://s2.pub/239
+廈門卫视,http://163.197.220.179/小曾/jd.php?id=live1033
+CCTV4,http://163.197.220.179/小曾/jd.php?id=live1034
+海峽卫视,http://163.197.220.179/小曾/jd.php?id=live1035
+浙江卫视,http://163.197.220.179/小曾/jd.php?id=live1036
+東方卫视,http://163.197.220.179/小曾/jd.php?id=live1037
+湖南卫视,http://163.197.220.179/小曾/jd.php?id=live1038
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
+东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
+镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
+民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
+三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 
 
 
