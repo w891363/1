@@ -14,24 +14,24 @@ J2,http://r.jdshipin.com/Nr5jq
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-CCTV1,http://tvphp1.rbq.plus/migu.php?id=cctv1
-CCTV2,http://tvphp1.rbq.plus/migu.php?id=cctv2
-CCTV3,http://tvphp1.rbq.plus/migu.php?id=cctv3
-CCTV4,http://tvphp1.rbq.plus/migu.php?id=cctv4
-CCTV5,http://tvphp1.rbq.plus/migu.php?id=cctv5
-CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
-CCTV6,http://tvphp1.rbq.plus/migu.php?id=cctv6
-CCTV7,http://tvphp1.rbq.plus/migu.php?id=cctv7
-CCTV8,http://tvphp1.rbq.plus/migu.php?id=cctv8
-CCTV9,http://tvphp1.rbq.plus/migu.php?id=cctv9
-CCTV10,http://tvphp1.rbq.plus/migu.php?id=cctv10
-CCTV11,http://tvphp1.rbq.plus/migu.php?id=cctv11
-CCTV12,http://tvphp1.rbq.plus/migu.php?id=cctv12
-CCTV13,http://tvphp1.rbq.plus/migu.php?id=cctv13
-CCTV14,http://tvphp1.rbq.plus/migu.php?id=cctv14
-CCTV15,http://tvphp1.rbq.plus/migu.php?id=cctv15
-CCTV16,http://v6po2.skycf.eu.org/hl2/PLTV/88888888/224/3221225893/index.m3u8
-CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
+CCTV1,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV1CQ/G_CCTV1CQ.m3u8
+CCTV2,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV2CQ/G_CCTV2CQ.m3u8
+CCTV3,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV3CQ/G_CCTV3CQ.m3u8
+CCTV4,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV4CQ/G_CCTV4CQ.m3u8
+CCTV5,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV5CQ/G_CCTV5CQ.m3u8
+CCTV5+,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV5PLUSCQ/G_CCTV5PLUSCQ.m3u8
+CCTV6,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV6CQ/G_CCTV6CQ.m3u8
+CCTV7,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV7CQ/G_CCTV7CQ.m3u8
+CCTV8,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV8CQ/G_CCTV8CQ.m3u8
+CCTV9,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV9HD2655M/G_CCTV9HD2655M.m3u8
+CCTV10,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV10HQ/G_CCTV10HQ.m3u8
+CCTV11,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV11HQ/G_CCTV11HQ.m3u8
+CCTV12,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV12HD2655M/G_CCTV12HD2655M.m3u8
+CCTV13,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV13CQ/G_CCTV13CQ.m3u8
+CCTV14,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV14HD/G_CCTV14HD.m3u8
+CCTV15,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV15/G_CCTV15.m3u8
+CCTV16,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV16CQ/G_CCTV16CQ.m3u8
+CCTV17,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTV17CQ/G_CCTV17CQ.m3u8
 大湾区卫视,http://tvphp1.rbq.plus/migu.php?id=dwqws
 广东影视,http://183.47.37.69:9901/tsfile/live/1002_1.m3u8
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
@@ -74,6 +74,21 @@ CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
 兵团卫视,http://gongzhuling.lnott.top:58000/hls/58/index.m3u8
 新疆卫视,http://gongzhuling.lnott.top:58000/hls/60/index.m3u8
 三沙卫视,http://gongzhuling.lnott.top:58000/hls/62/index.m3u8
+CCTV第一剧场,http://jscbn.txcdn.gitv.tv/gitv_escape/G_DIYIJCCQ/G_DIYIJCCQ.m3u8
+CCTV风云剧场,http://jscbn.txcdn.gitv.tv/gitv_escape/G_FENGYUNJCCQ/G_FENGYUNJCCQ.m3u8
+CCTV怀旧剧场,http://jscbn.txcdn.gitv.tv/gitv_escape/G_HUAIJIUJCCQ/G_HUAIJIUJCCQ.m3u8
+CCTV风云足球,http://jscbn.txcdn.gitv.tv/gitv_escape/G_FENGSHANGZQCQ/G_FENGSHANGZQCQ.m3u8
+CCTV央视台球,http://jscbn.txcdn.gitv.tv/gitv_escape/G_TAIQIUCQ/G_TAIQIUCQ.m3u8
+CCTV兵器科技,http://jscbn.txcdn.gitv.tv/gitv_escape/G_BINGQIKJCQ/G_BINGQIKJCQ.m3u8
+CCTV风云音乐,http://jscbn.txcdn.gitv.tv/gitv_escape/G_FENGYUNYYCQ/G_FENGYUNYYCQ.m3u8
+CCTV高尔夫网球,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTVGOLFCQ/G_CCTVGOLFCQ.m3u8
+CCTV女性时尚,http://jscbn.txcdn.gitv.tv/gitv_escape/G_NVXINGSSCQ/G_NVXINGSSCQ.m3u8
+央视文化精品,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CCTVWENHUACQ/G_CCTVWENHUACQ.m3u8
+CCTV世界地理,http://jscbn.txcdn.gitv.tv/gitv_escape/G_SHIJIEDLCQ/G_SHIJIEDLCQ.m3u8
+CETV1,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CETV1/G_CETV1.m3u8
+CETV2,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CETV2/G_CETV2.m3u8
+CETV3,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CETV3/G_CETV3.m3u8
+CETV4,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CETV4/G_CETV4.m3u8
 明珠台,https://s2.pub/23i
 纬来日本,https://s2.pub/21p
 TVB 亚洲武侠台,https://s2.pub/23d
@@ -83,18 +98,6 @@ NOW 新闻台,https://s2.pub/235
 ViuTv6,http://210.6.4.148:8001/bysid/96
 ViuTv,http://210.6.4.148:8001/bysid/99
 HOY 资讯台,https://s2.pub/237
-TVBJ1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
-TVBE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
-TVB 星河,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
-TVB 华语台,http://4ksuper.livlay/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
-TVB 经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
-TVB 新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
-TVB DRAMA,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
-TVB JADE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
-港台电视,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90351
-港台电视2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90352
-TVB 经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
-TVB 娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=tse/p
 北京卡酷,http://gongzhuling.lnott.top:58000/hls/63/index.m3u8
 金鹰卡通,http://gongzhuling.lnott.top:58000/hls/64/index.m3u8
 佳佳卡通,http://gongzhuling.lnott.top:58000/hls/65/index.m3u8
@@ -102,19 +105,6 @@ TVB 娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stre
 纪实人文,http://gongzhuling.lnott.top:58000/hls/67/index.m3u8
 金鹰纪实,http://gongzhuling.lnott.top:58000/hls/68/index.m3u8
 中国交通,http://gongzhuling.lnott.top:58000/hls/69/index.m3u8
-CETV1,http://gongzhuling.lnott.top:58000/hls/70/index.m3u8
-CETV2,http://gongzhuling.lnott.top:58000/hls/71/index.m3u8
-CETV4,http://gongzhuling.lnott.top:58000/hls/72/index.m3u8
-女性时尚,http://gongzhuling.lnott.top:58000/hls/73/index.m3u8
-环球奇观,http://gongzhuling.lnott.top:58000/hls/74/index.m3u8
-第一剧场,http://gongzhuling.lnott.top:58000/hls/75/index.m3u8
-世界地理,http://gongzhuling.lnott.top:58000/hls/76/index.m3u8
-风云足球,http://gongzhuling.lnott.top:58000/hls/77/index.m3u8
-央视台球,http://gongzhuling.lnott.top:58000/hls/78/index.m3u8
-风云音乐,http://gongzhuling.lnott.top:58000/hls/79/index.m3u8
-怀旧剧场,http://gongzhuling.lnott.top:58000/hls/80/index.m3u8
-央视文化精品,http://gongzhuling.lnott.top:58000/hls/81/index.m3u8
-兵器科技,http://gongzhuling.lnott.top:58000/hls/82/index.m3u8
 靓装,http://gongzhuling.lnott.top:58000/hls/83/index.m3u8
 汽摩,http://gongzhuling.lnott.top:58000/hls/84/index.m3u8
 国学频道,http://gongzhuling.lnott.top:58000/hls/85/index.m3u8
@@ -206,6 +196,54 @@ AMC 電影台,http://163.197.220.179/小曾/jd.php?id=live1032
 momo 综合台,http://163.197.220.179/小曾/jd.php?id=live1248
 ELEVEN SPORTS 1 ,http://163.197.220.179/小曾/jd.php?id=live1069
 ELEVEN SPORTS 2 ,http://163.197.220.179/小曾/jd.php?id=live1072
+
+#换
+
+安徽卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_ANHUIHD2658M/G_ANHUIHD2658M.m3u8
+北京卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_BEIJINGHD2658M/G_BEIJINGHD2658M.m3u8
+东方卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_DONGFANGHD2658M/G_DONGFANGHD2658M.m3u8
+东南卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_DONGNANHQ/G_DONGNANHQ.m3u8
+广东卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_GUANGDONGHD2658M/G_GUANGDONGHD2658M.m3u8
+广西卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/GXWS/GXWS.m3u8
+贵州卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_GUIZHOUCQ/G_GUIZHOUCQ.m3u8
+海南卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/LYWS/LYWS.m3u8
+河南卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_HENANCQ/G_HENANCQ.m3u8
+黑龙江卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_HEILONGJIANGHD2658M/G_HEILONGJIANGHD2658M.m3u8
+湖北卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_HUBEIHD2658M/G_HUBEIHD2658M.m3u8
+湖南卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_HUNANCQ/G_HUNANCQ.m3u8
+吉林卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_JILINCQ/G_JILINCQ.m3u8
+江苏卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_JIANGSUCQ/G_JIANGSUCQ.m3u8
+江西卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_JIANGXICQ/G_JIANGXICQ.m3u8
+辽宁卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_LIAONINGHD2658M/G_LIAONINGHD2658M.m3u8
+山东卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_SHANDONGHD2658M/G_SHANDONGHD2658M.m3u8
+深圳卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_SHENZHENHD2658M/G_SHENZHENHD2658M.m3u8
+四川卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_SICHUANCQ/G_SICHUANCQ.m3u8
+天津卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_TIANJINHD2658M/G_TIANJINHD2658M.m3u8
+云南卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_YUNNANHQ/G_YUNNANHQ.m3u8
+浙江卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_ZHEJIANGCQ/G_ZHEJIANGCQ.m3u8
+重庆卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_CHONGQINGCQ/G_CHONGQINGCQ.m3u8
+四川卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_SICHUANCQ/G_SICHUANCQ.m3u8
+河北卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_HEBEICQ/G_HEBEICQ.m3u8
+甘肃卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_GANSU/G_GANSU.m3u8
+厦门卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_XIAMEN/G_XIAMEN.m3u8
+陕西卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_SHANXI/G_SHANXI.m3u8
+山西卫视,http://jscbn.txcdn.gitv.tv/gitv_escapeS/G_SXWS/G_SXWS.m3u8
+延边卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_YANBIAN/G_YANBIAN.m3u8
+新疆卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_XINJIANG/G_XINJIANG.m3u8
+西藏卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_XIZANG/G_XIZANG.m3u8
+内蒙古卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_NEIMENGGU/G_NEIMENGGU.m3u8
+宁夏卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_NINGXIA/G_NINGXIA.m3u8
+青海卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_QINGHAI/G_QINGHAI.m3u8
+大湾区卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_NANFANG/G_NANFANG.m3u8
+安多卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_ANDUO/G_ANDUO.m3u8
+农林卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_NONGLIN/G_NONGLIN.m3u8
+兵团卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_BINGTUAN/G_BINGTUAN.m3u8
+山东教育卫视,http://jscbn.txcdn.gitv.tv/gitv_escape/G_SDETV/G_SDETV.m3u8
+卡酷少儿,http://jscbn.txcdn.gitv.tv/gitv_escape/G_KAKU/G_KAKU.m3u8
+炫动卡通,http://jscbn.txcdn.gitv.tv/gitv_escape/G_XUANDONG/G_XUANDONG.m3u8
+金鹰卡通,http://jscbn.txcdn.gitv.tv/gitv_escape/G_JINYING/G_JINYING.m3u8
+嘉佳卡通,http://jscbn.txcdn.gitv.tv/gitv_escape/G_JIAJIA/G_JIAJIA.m3u8
+优漫卡通,http://jscbn.txcdn.gitv.tv/gitv_escape/G_YOUMAN/G_YOUMAN.m3u8
 
 #1
 
@@ -371,7 +409,24 @@ CCTV15,http://219.135.208.218:8083/tsfile/live/0015_1.m3u8
 
 #shaonv
 
-
+CCTV1,http://tvphp1.rbq.plus/migu.php?id=cctv1
+CCTV2,http://tvphp1.rbq.plus/migu.php?id=cctv2
+CCTV3,http://tvphp1.rbq.plus/migu.php?id=cctv3
+CCTV4,http://tvphp1.rbq.plus/migu.php?id=cctv4
+CCTV5,http://tvphp1.rbq.plus/migu.php?id=cctv5
+CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
+CCTV6,http://tvphp1.rbq.plus/migu.php?id=cctv6
+CCTV7,http://tvphp1.rbq.plus/migu.php?id=cctv7
+CCTV8,http://tvphp1.rbq.plus/migu.php?id=cctv8
+CCTV9,http://tvphp1.rbq.plus/migu.php?id=cctv9
+CCTV10,http://tvphp1.rbq.plus/migu.php?id=cctv10
+CCTV11,http://tvphp1.rbq.plus/migu.php?id=cctv11
+CCTV12,http://tvphp1.rbq.plus/migu.php?id=cctv12
+CCTV13,http://tvphp1.rbq.plus/migu.php?id=cctv13
+CCTV14,http://tvphp1.rbq.plus/migu.php?id=cctv14
+CCTV15,http://tvphp1.rbq.plus/migu.php?id=cctv15
+CCTV16,http://v6po2.skycf.eu.org/hl2/PLTV/88888888/224/3221225893/index.m3u8
+CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
 
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
@@ -581,6 +636,20 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+
+CETV1,http://gongzhuling.lnott.top:58000/hls/70/index.m3u8
+CETV2,http://gongzhuling.lnott.top:58000/hls/71/index.m3u8
+CETV4,http://gongzhuling.lnott.top:58000/hls/72/index.m3u8
+CCTV女性时尚,http://gongzhuling.lnott.top:58000/hls/73/index.m3u8
+环球奇观,http://gongzhuling.lnott.top:58000/hls/74/index.m3u8
+CCTV第一剧场,http://gongzhuling.lnott.top:58000/hls/75/index.m3u8
+CCTV世界地理,http://gongzhuling.lnott.top:58000/hls/76/index.m3u8
+CCTV风云足球,http://gongzhuling.lnott.top:58000/hls/77/index.m3u8
+CCTV央视台球,http://gongzhuling.lnott.top:58000/hls/78/index.m3u8
+CCTV风云音乐,http://gongzhuling.lnott.top:58000/hls/79/index.m3u8
+CCTV怀旧剧场,http://gongzhuling.lnott.top:58000/hls/80/index.m3u8
+央视文化精品,http://gongzhuling.lnott.top:58000/hls/81/index.m3u8
+CCTV兵器科技,http://gongzhuling.lnott.top:58000/hls/82/index.m3u8
 
 
 #替换
