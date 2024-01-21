@@ -1,13 +1,13 @@
 #№
 
-J2,http://sz.l68.fun:9001/bysid/82
+J2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 星河台,http://113.117.74.17:8081/hls/135/index.m3u8
-翡翠台,http://210.6.4.148:8001/bysid/1/udp/1234
+翡翠台,https://epg.pw/stream/4a270ee8c19d1d45e75b3f308762be8368caddca4cab4799f0ebd49402b4e822.ctv
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -706,7 +706,7 @@ CCTV15,http://219.135.208.218:8083/tsfile/live/0015_1.m3u8
 
 #替换
 
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
+翡翠台,http://210.6.4.148:8001/bysid/1
 翡翠台,http://r.jdshipin.com/qClQf
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
