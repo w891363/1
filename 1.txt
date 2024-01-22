@@ -100,6 +100,7 @@ CCTV女性时尚,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_NVXINGSS-CQ/G_NVXINGS
 央视文化精品,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8
 CCTV世界地理,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8
 CCTV电视指南,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8
+凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
 明珠台,https://s2.pub/23i
 纬来日本,https://s2.pub/21p
 TVB 亚洲武侠台,https://s2.pub/23d
@@ -109,6 +110,7 @@ NOW 新闻台,https://s2.pub/235
 ViuTv6,http://210.6.4.148:8001/bysid/96/udp/1234
 ViuTv,http://210.6.4.148:8001/bysid/99/udp/1234
 HOY 资讯台,https://s2.pub/237
+有线32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 靓装,http://gongzhuling.lnott.top:58000/hls/83/index.m3u8
 汽摩,http://gongzhuling.lnott.top:58000/hls/84/index.m3u8
 国学频道,http://gongzhuling.lnott.top:58000/hls/85/index.m3u8
