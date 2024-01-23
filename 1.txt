@@ -1,12 +1,12 @@
 #№
 
-J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8
+J2,https://iptv543.com/xsj/xsj.php?id=j2
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-星河台,http://113.117.74.12:8081/hls/135/index.m3u8
+星河台,https://iptv543.com/xsj/xsj.php?id=tvb-xinghe
 翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
@@ -101,16 +101,57 @@ CCTV女性时尚,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_NVXINGSS-CQ/G_NVXINGS
 CCTV世界地理,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8
 CCTV电视指南,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8
 凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
-明珠台,https://s2.pub/23i
-纬来日本,https://s2.pub/21p
-TVB 亚洲武侠台,https://s2.pub/23d
-爆谷台,http://108.181.20.193:27347/livehttpplay?channel_id=13002
-星影台,http://108.181.20.193:27347/livehttpplay?channel_id=13003
-NOW 新闻台,https://s2.pub/235
-ViuTv6,http://210.6.4.148:8001/bysid/96/udp/1234
-ViuTv,http://210.6.4.148:8001/bysid/99/udp/1234
-HOY 资讯台,https://s2.pub/237
-有线32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+TVB 明珠台,https://iptv543.com/xsj/xsj.php?id=pearl
+ViuTV,https://iptv543.com/xsj/xsj.php?id=viutv
+翡翠台,https://iptv543.com/xsj/xsj.php?id=feicui
+凤凰卫视,https://iptv543.com/xsj/xsj.php?id=phtv
+澳门莲花卫视,https://iptv543.com/xsj/xsj.php?id=lotustv
+TVB 无线新闻台,https://iptv543.com/xsj/xsj.php?id=tvb-news
+TVB 无线财经体育资讯台,https://iptv543.com/xsj/xsj.php?id=tvb-finance
+ViuTV6,https://iptv543.com/xsj/xsj.php?id=viutv6
+港台电视 31,https://iptv543.com/xsj/xsj.php?id=rthk31
+港台电视 32,https://iptv543.com/xsj/xsj.php?id=rthk32
+HOY TV,https://iptv543.com/xsj/xsj.php?id=hoytv
+香港国际财经台,https://iptv543.com/xsj/xsj.php?id=hkibc
+Now 新闻台,https://iptv543.com/xsj/xsj.php?id=now-news
+TVB 经典台,https://iptv543.com/xsj/xsj.php?id=tvb-classic
+凤凰卫视 香港台,https://iptv543.com/xsj/xsj.php?id=phtv-hk
+TVB 华语剧台,https://iptv543.com/xsj/xsj.php?id=tvb-drama
+中视 HD,https://iptv543.com/xsj/xsj.php?id=ctv-hd
+公视3台,https://iptv543.com/xsj/xsj.php?id=pts3
+东森综合台,https://iptv543.com/xsj/xsj.php?id=ebc-ettv
+台视,https://iptv543.com/xsj/xsj.php?id=ttv
+纬来日本,https://iptv543.com/xsj/xsj.php?id=videoland-japan
+壹新闻 HD,https://iptv543.com/xsj/xsj.php?id=nexttv
+台视新闻,https://iptv543.com/xsj/xsj.php?id=ttv-news
+TVBS 欢乐台,https://iptv543.com/xsj/xsj.php?id=tvbs-huanle
+东森电影,https://iptv543.com/xsj/xsj.php?id=ebc-movie
+卫视电影台,https://iptv543.com/xsj/xsj.php?id=star-chinese-movies
+龙祥电影台,https://iptv543.com/xsj/xsj.php?id=lstime
+纬来电影台,https://iptv543.com/xsj/xsj.php?id=videoland-movie
+美亚电影台,https://iptv543.com/xsj/xsj.php?id=meiah-movies
+星卫娱乐台,https://iptv543.com/xsj/xsj.php?id=star-entetainment
+Astro Awani,https://iptv543.com/xsj/xsj.php?id=astro-awani
+纬来体育,https://iptv543.com/xsj/xsj.php?id=videoland-sport
+ELEVEN体育-1,https://iptv543.com/xsj/xsj.php?id=eleven-sport1
+ELEVEN体育-2,https://iptv543.com/xsj/xsj.php?id=eleven-sport2
+Eurosports-1,https://iptv543.com/xsj/xsj.php?id=eurosports-1
+ELTA体育-1,https://iptv543.com/xsj/xsj.php?id=elta-sport1
+ELTA体育-3,https://iptv543.com/xsj/xsj.php?id=elta-sport3
+国家地理 野生频道,https://iptv543.com/xsj/xsj.php?id=natgeo-wild
+动物星球频道,https://iptv543.com/xsj/xsj.php?id=animal-planet
+History-2 频道,https://iptv543.com/xsj/xsj.php?id=history-2
+TLC 旅游生活頻道,https://iptv543.com/xsj/xsj.php?id=tlc
+美食星球频道,https://iptv543.com/xsj/xsj.php?id=food-planet
+ABC News,https://iptv543.com/xsj/xsj.php?id=abc-news
+BBC World News,https://iptv543.com/xsj/xsj.php?id=bbc-world-news
+CNBC,https://iptv543.com/xsj/xsj.php?id=cnbc
+东森幼幼台,https://iptv543.com/xsj/xsj.php?id=ebc-yoyo
+Boomerang HD,https://iptv543.com/xsj/xsj.php?id=boomerang-hd
+Animax卡通,https://iptv543.com/xsj/xsj.php?id=animax-cartoon
+娱乐新闻,https://iptv543.com/xsj/xsj.php?id=TVB%20ylxw
+粤语片,https://iptv543.com/xsj/xsj.php?id=tvb-yueyu
+亚洲剧,https://iptv543.com/xsj/xsj.php?id=tvb-asia-drama
 靓装,http://gongzhuling.lnott.top:58000/hls/83/index.m3u8
 汽摩,http://gongzhuling.lnott.top:58000/hls/84/index.m3u8
 国学频道,http://gongzhuling.lnott.top:58000/hls/85/index.m3u8
