@@ -6,7 +6,7 @@ J2,https://iptv543.com/xsj/xsj.php?id=j2
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-星河台,https://iptv543.com/xsj/xsj.php?id=tvb-xinghe
+星河台,http://113.117.74.107:8081/hls/135/index.m3u8
 翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
@@ -41,7 +41,7 @@ CCTV17,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
 广东体育,http://r.jdshipin.com/Gtx1R?id=gdty
 广东珠江,http://119.130.243.111:9901/tsfile/live/0133_1.m3u8 
 广东卫视,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M.m3u8
-凤凰卫视,http://livetv.skycf.eu.org/live.m3u8?c=2
+凤凰卫视,http://113.117.74.107:8081/hls/36/index.m3u8
 北京卫视,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M.m3u8
 湖南卫视,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_HUNAN-CQ/G_HUNAN-CQ.m3u8
 东方卫视,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M.m3u8
@@ -176,6 +176,22 @@ TVBs,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 咪咕体育,http://r.jdshipin.com/ln4xk
 
+#hao
+
+宁夏卫视,http://113.117.74.107:8081/hls/18/index.m3u8
+北京卫视,http://113.117.74.107:8081/hls/45/index.m3u8
+天津卫视,http://113.117.74.107:8081/hls/48/index.m3u8
+黑龙江卫视,http://113.117.74.107:8081/hls/50/index.m3u8
+广西卫视,http://113.117.74.107:8081/hls/60/index.m3u8
+都市频道,http://113.117.74.107:8081/hls/68/index.m3u8
+体育健康,http://113.117.74.107:8081/hls/70/index.m3u8
+山东卫视,http://113.117.74.107:8081/hls/75/index.m3u8
+重庆卫视,http://113.117.74.107:8081/hls/76/index.m3u8
+河南卫视,http://113.117.74.107:8081/hls/96/index.m3u8
+新疆卫视,http://113.117.74.107:8081/hls/104/index.m3u8
+星河台,http://113.117.74.107:8081/hls/136/index.m3u8
+广东卫视,http://113.117.74.107:8081/hls/140/index.m3u8
+电视剧频道,http://113.117.74.107:8081/hls/141/index.m3u8
 
 #gzgd
 
@@ -227,9 +243,9 @@ CCTV5+体育,http://ictv.91tv.top:9901/tsfile/live/1005_1.m3u8
 山东卫视,http://ictv.91tv.top:9901/tsfile/live/0131_1.m3u8
 翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8
 明珠台,http://ictv.91tv.top:9901/tsfile/live/1007_1.m3u8
+澳亚卫视,http://ictv.91tv.top:9901/tsfile/live/1010_1.m3u8
 星空卫视,http://ictv.91tv.top:9901/tsfile/live/1008_1.m3u8
 凤凰中文,http://ictv.91tv.top:9901/tsfile/live/1009_1.m3u8
-澳亚卫视,http://ictv.91tv.top:9901/tsfile/live/1010_1.m3u8
 广东珠江,http://ictv.91tv.top:9901/tsfile/live/1011_1.m3u8
 广东民生,http://ictv.91tv.top:9901/tsfile/live/1012_1.m3u8
 广东新闻,http://ictv.91tv.top:9901/tsfile/live/1013_1.m3u8
@@ -245,6 +261,54 @@ CCTV5+体育,http://ictv.91tv.top:9901/tsfile/live/1005_1.m3u8
 优漫卡通,http://ictv.91tv.top:9901/tsfile/live/1023_1.m3u8
 嘉佳卡通,http://ictv.91tv.top:9901/tsfile/live/1024_1.m3u8
 岭南戏曲,http://ictv.91tv.top:9901/tsfile/live/1025_1.m3u8
+
+#替换
+
+凤凰卫视,http://113.117.74.107:8081/hls/37/index.m3u8
+翡翠台,hhttp://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=
+翡翠台,http://210.6.4.148:8001/bysid/1
+广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
+广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
+广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
+广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
+广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
+广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
+
+广东卫视,http://gongzhuling.lnott.top:58000/hls/39/index.m3u8
+大湾区卫视,http://91tv.top:9901/hls/18/index.m3u8
+广东珠江,http://111.180.199.137:9895/php/触电.php?id=gdzj
+广东卫视,http://111.180.199.137:9895/php/触电.php?id=gdws
+大湾区卫视,http://111.180.199.137:9895/php/触电.php?id=nfws
+广东新闻,http://111.180.199.137:9895/php/触电.php?id=gdxw
+广东4K超高清,http://111.180.199.137:9895/php/触电.php?id=gdzy
+广东民生,http://111.180.199.137:9895/php/触电.php?id=gdms
+广东体育,http://111.180.199.137:9895/php/触电.php?id=gdty
+广东影视,http://111.180.199.137:9895/php/触电.php?id=gdys
+嘉佳卡通,http://111.180.199.137:9895/php/触电.php?id=jjkt
+大湾区卫视,http://111.180.199.137:9895/php/触电.php?id=nfws
+广东经济科教,http://111.180.199.137:9895/php/触电.php?id=gdjjkj
+
+
+廈門卫视,http://163.197.220.179/小曾/jd.php?id=live1033
+CCTV4,http://163.197.220.179/小曾/jd.php?id=live1034
+海峽卫视,http://163.197.220.179/小曾/jd.php?id=live1035
+浙江卫视,http://163.197.220.179/小曾/jd.php?id=live1036
+東方卫视,http://163.197.220.179/小曾/jd.php?id=live1037
+湖南卫视,http://163.197.220.179/小曾/jd.php?id=live1038
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
+东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
+镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
+民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
+三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 
 #shaon
 
@@ -586,54 +650,6 @@ CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 
 
 
-#替换
-
-翡翠台,hhttp://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=
-翡翠台,http://210.6.4.148:8001/bysid/1
-广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
-广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
-大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
-广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
-广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
-广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
-广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
-广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
-广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
-嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
-
-广东卫视,http://gongzhuling.lnott.top:58000/hls/39/index.m3u8
-大湾区卫视,http://91tv.top:9901/hls/18/index.m3u8
-广东珠江,http://111.180.199.137:9895/php/触电.php?id=gdzj
-广东卫视,http://111.180.199.137:9895/php/触电.php?id=gdws
-大湾区卫视,http://111.180.199.137:9895/php/触电.php?id=nfws
-广东新闻,http://111.180.199.137:9895/php/触电.php?id=gdxw
-广东4K超高清,http://111.180.199.137:9895/php/触电.php?id=gdzy
-广东民生,http://111.180.199.137:9895/php/触电.php?id=gdms
-广东体育,http://111.180.199.137:9895/php/触电.php?id=gdty
-广东影视,http://111.180.199.137:9895/php/触电.php?id=gdys
-嘉佳卡通,http://111.180.199.137:9895/php/触电.php?id=jjkt
-大湾区卫视,http://111.180.199.137:9895/php/触电.php?id=nfws
-广东经济科教,http://111.180.199.137:9895/php/触电.php?id=gdjjkj
-
-
-廈門卫视,http://163.197.220.179/小曾/jd.php?id=live1033
-CCTV4,http://163.197.220.179/小曾/jd.php?id=live1034
-海峽卫视,http://163.197.220.179/小曾/jd.php?id=live1035
-浙江卫视,http://163.197.220.179/小曾/jd.php?id=live1036
-東方卫视,http://163.197.220.179/小曾/jd.php?id=live1037
-湖南卫视,http://163.197.220.179/小曾/jd.php?id=live1038
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
-台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
-TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
-中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
-公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
-东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
-镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
-民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
-三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
-
-
 
 #酒店源
 
@@ -802,6 +818,8 @@ CCTV15,http://112.91.153.50:9901/tsfile/live/0015_1.m3u8
 嘉佳卡通,http://112.91.153.50:9901/tsfile/live/0016_1.m3u8
 
 #HK
+
+星河台,https://iptv543.com/xsj/xsj.php?id=tvb-xinghe
 
 翡翠台,http://feng163.com:9000/bysid/
 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
