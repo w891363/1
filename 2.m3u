@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 ,====== № ======
-http://0/0.m3u8
 #EXTINF:-1 ,J2
 https://iptv543.com/xsj/xsj.php?id=j2
 #EXTINF:-1 ,佛山综合
@@ -306,7 +305,6 @@ https://iptv543.com/xsj/xsj.php?id=tvb-yueyu
 #EXTINF:-1 ,亚洲剧
 https://iptv543.com/xsj/xsj.php?id=tvb-asia-drama
 #EXTINF:-1 ,====== mitv ======
-http://1/1.m3u8
 #EXTINF:-1 ,民视
 mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 #EXTINF:-1 ,台视
@@ -1112,7 +1110,6 @@ mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 #EXTINF:-1 ,亚洲剧台
 mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 #EXTINF:-1 ,====== hao ======
-http://2/2.m3u8
 #EXTINF:-1 ,宁夏卫视
 http://113.117.74.107:8081/hls/18/index.m3u8
 #EXTINF:-1 ,北京卫视
@@ -1142,7 +1139,6 @@ http://113.117.74.107:8081/hls/140/index.m3u8
 #EXTINF:-1 ,电视剧频道
 http://113.117.74.107:8081/hls/141/index.m3u8
 #EXTINF:-1 ,====== 替换 ======
-http://3/3.m3u8
 #EXTINF:-1 ,凤凰卫视
 http://113.117.74.107:8081/hls/37/index.m3u8
 #EXTINF:-1 ,翡翠台
@@ -1228,7 +1224,6 @@ http://livetv.skycf.eu.org/live.m3u8?c=11
 #EXTINF:-1 ,三立新闻
 http://livetv.skycf.eu.org/live.m3u8?c=12
 #EXTINF:-1 ,====== shaon ======
-http://4/4.m3u8
 #EXTINF:-1 ,CCTV1
 http://v6po2.skycf.eu.org/hl2/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 ,CCTV2
@@ -1629,8 +1624,8 @@ https://live.goodiptv.club/api/sxg.php?id=sdjy_4000
 https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
 #EXTINF:-1 ,山西卫视
 https://live.goodiptv.club/api/sxg.php?id=sxws42_4000
-#EXTINF:-1 ,====== 陕西卫视;https://live.goodiptv.club/api/sxg.php?id=sxws_4000 ======
-http://5/5.m3u8
+#EXTINF:-1 ,陕西卫视
+https://live.goodiptv.club/api/sxg.php?id=sxws_4000
 #EXTINF:-1 ,深圳卫视
 https://live.goodiptv.club/api/sxg.php?id=szwsH265_4000
 #EXTINF:-1 ,四川卫视
@@ -1774,7 +1769,6 @@ http://gongzhuling.lnott.top:58000/hls/68/index.m3u8
 #EXTINF:-1 ,中国交通
 http://gongzhuling.lnott.top:58000/hls/69/index.m3u8
 #EXTINF:-1 ,====== IPTV ======
-http://6/6.m3u8
 #EXTINF:-1 ,CCTV1
 http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 ,CCTV2
@@ -1868,7 +1862,6 @@ http://222.223.119.21:8888/newlive/live/hls/46/live.m3u8
 #EXTINF:-1 ,山西卫视
 http://222.223.119.21:8888/newlive/live/hls/47/live.m3u8
 #EXTINF:-1 ,====== 酒店源 ======
-http://7/7.m3u8
 #EXTINF:-1 ,CCTV1
 http://183.47.37.69:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
 #EXTINF:-1 ,CCTV2
@@ -1966,7 +1959,6 @@ http://183.47.37.69:9901/tsfile/live/0132_1.m3u8?key=txiptv&url=tvzb.com
 #EXTINF:-1 ,深圳卫视
 http://183.47.37.69:9901/tsfile/live/0126_1.m3u8?key=txiptv&url=tvzb.com
 #EXTINF:-1 ,====== shaonv2 ======
-http://9/9.m3u8
 #EXTINF:-1 ,兵器科技
 http://tvphp1.rbq.plus/ysp.php?id=bqkj
 #EXTINF:-1 ,风云剧场
@@ -2032,7 +2024,6 @@ http://tvpo2.rbq.plus/p7/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/
 #EXTINF:-1 ,卡酷少儿
 http://tvpo2.rbq.plus/p9/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 #EXTINF:-1 ,====== 广东谷豆 ======
-http://10/10.m3u8
 #EXTINF:-1 ,凤凰中文
 http://47.109.29.60/php/gudo.php?id=fhzw
 #EXTINF:-1 ,翡翠台
@@ -2090,7 +2081,6 @@ http://47.109.29.60/php/gudo.php?id=fssd
 #EXTINF:-1 ,佛山南海
 http://47.109.29.60/php/gudo.php?id=fsnh
 #EXTINF:-1 ,====== 广东联通 ======
-http://11/11.m3u8
 #EXTINF:-1 ,CCTV1
 http://112.91.153.50:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 ,CCTV2
@@ -2172,7 +2162,6 @@ http://112.91.153.50:9901/tsfile/live/0109_1.m3u8
 #EXTINF:-1 ,嘉佳卡通
 http://112.91.153.50:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 ,====== HK ======
-http://12/12.m3u8
 #EXTINF:-1 ,星河台
 https://iptv543.com/xsj/xsj.php?id=tvb-xinghe
 #EXTINF:-1 ,翡翠台
@@ -2230,7 +2219,6 @@ http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 ,凤凰香港
 http://php.17186.eu.org/phtv/fhxg.m3u8
 #EXTINF:-1 ,====== GD ======
-http://13/13.m3u8
 #EXTINF:-1 ,广东体育
 https://php.17186.eu.org/gdtv/gdty.m3u8
 #EXTINF:-1 ,广东体育
@@ -2338,7 +2326,6 @@ http://php.jdshipin.com:8880/fstv.php?id=fsgm
 #EXTINF:-1 ,佛山三水
 http://php.jdshipin.com:8880/fstv.php?id=fsss
 #EXTINF:-1 ,====== Yoursmile7 ======
-http://14/14.m3u8
 #EXTINF:-1 ,CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 ,CCTV2
@@ -2776,7 +2763,6 @@ http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156405&extension=ts
 #EXTINF:-1 ,TVBs
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 ,====== 12.04 ======
-http://15/15.m3u8
 #EXTINF:-1 ,CCTV1
 http://91tv.top:9901/hls/1/index.m3u8
 #EXTINF:-1 ,CCTV2
@@ -3004,7 +2990,6 @@ http://php.jdshipin.com:8880/chudian.php?id=gdys
 #EXTINF:-1 ,嘉佳卡通
 http://php.jdshipin.com:8880/chudian.php?id=jjkt
 #EXTINF:-1 ,====== 卫视 ======
-http://16/16.m3u8
 #EXTINF:-1 ,山西卫视
 http://218.17.196.234:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 ,安徽卫视
