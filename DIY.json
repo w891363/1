@@ -1,3 +1,21 @@
 [
-{"name":"live","url":"https://raw.gitmirror.com/eR1zxNO/1/main/1.txt"},
-]
+"lives": [
+		{
+			"name": "yingshi",
+			"url": "https://raw.gitmirror.com/eR1zxNO/1/main/1.txt",
+			"type": 0,
+			"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"group": "redirect",
+			"channels": [
+				{
+					"name": "live",
+					"urls": [
+						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9lUjF6eE5PLzEvbWFpbi8xLnR4dA=="
+					]
+				}
+			]
+		}
+	]
