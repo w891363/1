@@ -9,14 +9,14 @@
     },
     {
       "name": "IJK",
-      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/2.txt",
+      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1
     },
     {
       "name": "EXO",
-      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/3.txt",
+      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
