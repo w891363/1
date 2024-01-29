@@ -160,6 +160,28 @@ Animax卡通,https://iptv543.com/xsj/xsj.php?id=animax-cartoon
 粤语片,https://iptv543.com/xsj/xsj.php?id=tvb-yueyu
 亚洲剧,https://iptv543.com/xsj/xsj.php?id=tvb-asia-drama
 
+#ysp
+
+CCTV1,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv1
+CCTV2,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv2
+CCTV3,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv3
+CCTV4,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv4
+CCTV5,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv5
+CCTV5+,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv5p
+CCTV6,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv6
+CCTV7,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv7
+CCTV8,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv8
+CCTV9,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv9
+CCTV10,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv10
+CCTV11,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv11
+CCTV12,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv12
+CCTV13,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv13
+CCTV14,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv14
+CCTV15,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv15
+CCTV16,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv16
+CCTV17,http://tvphp.skyjiang.cn:61180/ysp.php?id=cctv17
+
+
 #p2p
 
 大湾区卫视,P2p://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
