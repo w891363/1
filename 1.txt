@@ -106,59 +106,19 @@ CETV-4,https://live3.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
 证劵服务,https://live3.rxip.sc96655.com/live/jz_2000.m3u8
 中国天气,https://live3.rxip.sc96655.com/live/zgqx_4000.m3u8
 发现之旅,https://live3.rxip.sc96655.com/live/fxzl_2000.m3u8
-老故事,https://live3.rxip.sc96655.com/live/lgs_2000.m3u8
-中学生,https://live3.rxip.sc96655.com/live/zxs_4000.m3u8
 凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
-TVB 明珠台,https://iptv543.com/xsj/xsj.php?id=pearl
+TVB明珠,https://iptv543.com/xsj/xsj.php?id=pearl
 ViuTV,https://iptv543.com/xsj/xsj.php?id=viutv
 凤凰卫视,https://iptv543.com/xsj/xsj.php?id=phtv
 澳门莲花卫视,https://iptv543.com/xsj/xsj.php?id=lotustv
-TVB 无线新闻台,https://iptv543.com/xsj/xsj.php?id=tvb-news
-TVB 无线财经体育资讯台,https://iptv543.com/xsj/xsj.php?id=tvb-finance
 ViuTV6,https://iptv543.com/xsj/xsj.php?id=viutv6
-港台电视 31,https://iptv543.com/xsj/xsj.php?id=rthk31
-港台电视 32,https://iptv543.com/xsj/xsj.php?id=rthk32
 HOY TV,https://iptv543.com/xsj/xsj.php?id=hoytv
-香港国际财经台,https://iptv543.com/xsj/xsj.php?id=hkibc
 Now 新闻台,https://iptv543.com/xsj/xsj.php?id=now-news
 TVB 经典台,https://iptv543.com/xsj/xsj.php?id=tvb-classic
 凤凰卫视 香港台,https://iptv543.com/xsj/xsj.php?id=phtv-hk
-TVB 华语剧台,https://iptv543.com/xsj/xsj.php?id=tvb-drama
-中视 HD,https://iptv543.com/xsj/xsj.php?id=ctv-hd
-公视3台,https://iptv543.com/xsj/xsj.php?id=pts3
-东森综合台,https://iptv543.com/xsj/xsj.php?id=ebc-ettv
 台视,https://iptv543.com/xsj/xsj.php?id=ttv
 纬来日本,https://iptv543.com/xsj/xsj.php?id=videoland-japan
-壹新闻 HD,https://iptv543.com/xsj/xsj.php?id=nexttv
-台视新闻,https://iptv543.com/xsj/xsj.php?id=ttv-news
-TVBS 欢乐台,https://iptv543.com/xsj/xsj.php?id=tvbs-huanle
-东森电影,https://iptv543.com/xsj/xsj.php?id=ebc-movie
-卫视电影台,https://iptv543.com/xsj/xsj.php?id=star-chinese-movies
-龙祥电影台,https://iptv543.com/xsj/xsj.php?id=lstime
-纬来电影台,https://iptv543.com/xsj/xsj.php?id=videoland-movie
-美亚电影台,https://iptv543.com/xsj/xsj.php?id=meiah-movies
-星卫娱乐台,https://iptv543.com/xsj/xsj.php?id=star-entetainment
-Astro Awani,https://iptv543.com/xsj/xsj.php?id=astro-awani
-纬来体育,https://iptv543.com/xsj/xsj.php?id=videoland-sport
-ELEVEN体育-1,https://iptv543.com/xsj/xsj.php?id=eleven-sport1
-ELEVEN体育-2,https://iptv543.com/xsj/xsj.php?id=eleven-sport2
-Eurosports-1,https://iptv543.com/xsj/xsj.php?id=eurosports-1
-ELTA体育-1,https://iptv543.com/xsj/xsj.php?id=elta-sport1
-ELTA体育-3,https://iptv543.com/xsj/xsj.php?id=elta-sport3
-国家地理 野生频道,https://iptv543.com/xsj/xsj.php?id=natgeo-wild
-动物星球频道,https://iptv543.com/xsj/xsj.php?id=animal-planet
-History-2 频道,https://iptv543.com/xsj/xsj.php?id=history-2
-TLC 旅游生活頻道,https://iptv543.com/xsj/xsj.php?id=tlc
-美食星球频道,https://iptv543.com/xsj/xsj.php?id=food-planet
-ABC News,https://iptv543.com/xsj/xsj.php?id=abc-news
-BBC World News,https://iptv543.com/xsj/xsj.php?id=bbc-world-news
-CNBC,https://iptv543.com/xsj/xsj.php?id=cnbc
-东森幼幼台,https://iptv543.com/xsj/xsj.php?id=ebc-yoyo
-Boomerang HD,https://iptv543.com/xsj/xsj.php?id=boomerang-hd
-Animax卡通,https://iptv543.com/xsj/xsj.php?id=animax-cartoon
-娱乐新闻,https://iptv543.com/xsj/xsj.php?id=TVB%20ylxw
-粤语片,https://iptv543.com/xsj/xsj.php?id=tvb-yueyu
-亚洲剧,https://iptv543.com/xsj/xsj.php?id=tvb-asia-drama
+
 
 #ouhua
 
@@ -904,6 +864,36 @@ HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 
 #hao
 
+壹新闻 HD,https://iptv543.com/xsj/xsj.php?id=nexttv
+台视新闻,https://iptv543.com/xsj/xsj.php?id=ttv-news
+TVBS 欢乐台,https://iptv543.com/xsj/xsj.php?id=tvbs-huanle
+东森电影,https://iptv543.com/xsj/xsj.php?id=ebc-movie
+卫视电影台,https://iptv543.com/xsj/xsj.php?id=star-chinese-movies
+龙祥电影台,https://iptv543.com/xsj/xsj.php?id=lstime
+纬来电影台,https://iptv543.com/xsj/xsj.php?id=videoland-movie
+美亚电影台,https://iptv543.com/xsj/xsj.php?id=meiah-movies
+星卫娱乐台,https://iptv543.com/xsj/xsj.php?id=star-entetainment
+Astro Awani,https://iptv543.com/xsj/xsj.php?id=astro-awani
+纬来体育,https://iptv543.com/xsj/xsj.php?id=videoland-sport
+ELEVEN体育-1,https://iptv543.com/xsj/xsj.php?id=eleven-sport1
+ELEVEN体育-2,https://iptv543.com/xsj/xsj.php?id=eleven-sport2
+Eurosports-1,https://iptv543.com/xsj/xsj.php?id=eurosports-1
+ELTA体育-1,https://iptv543.com/xsj/xsj.php?id=elta-sport1
+ELTA体育-3,https://iptv543.com/xsj/xsj.php?id=elta-sport3
+国家地理 野生频道,https://iptv543.com/xsj/xsj.php?id=natgeo-wild
+动物星球频道,https://iptv543.com/xsj/xsj.php?id=animal-planet
+History-2 频道,https://iptv543.com/xsj/xsj.php?id=history-2
+TLC 旅游生活頻道,https://iptv543.com/xsj/xsj.php?id=tlc
+美食星球频道,https://iptv543.com/xsj/xsj.php?id=food-planet
+ABC News,https://iptv543.com/xsj/xsj.php?id=abc-news
+BBC World News,https://iptv543.com/xsj/xsj.php?id=bbc-world-news
+CNBC,https://iptv543.com/xsj/xsj.php?id=cnbc
+东森幼幼台,https://iptv543.com/xsj/xsj.php?id=ebc-yoyo
+Boomerang HD,https://iptv543.com/xsj/xsj.php?id=boomerang-hd
+Animax卡通,https://iptv543.com/xsj/xsj.php?id=animax-cartoon
+娱乐新闻,https://iptv543.com/xsj/xsj.php?id=TVB%20ylxw
+粤语片,https://iptv543.com/xsj/xsj.php?id=tvb-yueyu
+亚洲剧,https://iptv543.com/xsj/xsj.php?id=tvb-asia-drama
 宁夏卫视,http://113.117.74.107:8081/hls/18/index.m3u8
 北京卫视,http://113.117.74.107:8081/hls/45/index.m3u8
 天津卫视,http://113.117.74.107:8081/hls/48/index.m3u8
