@@ -4,21 +4,21 @@
     {
       "name": "自用直播",
       "type": 0,
-      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/1.txt",
+      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/1.txt?token=GHSAT0AAAAAACKT53AUJJRCBGEEIVYTSDT2ZN3EO5Q",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "xxx",
       "type": 0,
-      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/2.txt",
+      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/2.txt?token=GHSAT0AAAAAACKT53AVC2KJREJBP62HV73GZN3ES4A",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "原力",
       "type": 0,
-      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/3.txt",
+      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/3.txt?token=GHSAT0AAAAAACKT53AV6DPS2S4YFGA4BRSIZN3ETHA",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
