@@ -11,7 +11,7 @@
     {
       "name": "xxx",
       "type": 0,
-      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/2.txt",
+      "url": "https://raw.gitmirror.com/eR1zxNO/1/main/2.txt&8888",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
