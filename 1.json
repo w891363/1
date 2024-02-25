@@ -30,18 +30,22 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "51555",
+      "name": "xxx",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live051555.txt",
+      "url": "https://raw.githubusercontent.com/eklins/FDTV/c0ce2f434b4072b78eb1d2770dee9b3df636cf35/tv/xxx.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "5155",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05155.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "key": "csp_xBPQ_香蕉直播",
+      "name": "香蕉",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar",
+      "ext": "http://akun.work.gd/upload/xBPQ/新香蕉实时直播.json"
     },
     {
       "name": "群里扒来的",
