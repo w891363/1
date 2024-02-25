@@ -30,6 +30,20 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "51555",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live051555.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "5155",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05155.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "群里扒来的",
       "type": 0,
       "url": "https://wds.ecsxs.com/230864.json",
