@@ -1,3 +1,4 @@
+IPTV,#genre#
 J2,https://iptv543.com/xsj/xsj.php?id=j2
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
