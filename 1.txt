@@ -1,10 +1,10 @@
 IPTV,#genre#
 J2,http://rqd.mytvh.top:10121/stream/channelid/512223589?ticket=e214f01a0674725cf242e7e25c81781fc3a29b08&profile=pass
-佛山综合,http://ha.hahomes.net:9981/stream/channelid/1507084790?ticket=5090f27231f89667675e954d1bb4942a3cf304a6&profile=pass
-佛山影视,http://ha.hahomes.net:9981/stream/channelid/78415091?ticket=1986cd700424526044b36841912ca015888c311f&profile=pass
-佛山公共,http://ha.hahomes.net:9981/stream/channelid/1815241689?ticket=5807c432cc23ca2b20eba3d4d5978f76bb93b454&profile=pass
-佛山南海,http://ha.hahomes.net:9981/stream/channelid/802473806?ticket=ca82f8876eb0e013a61cf5af403c8af33be77a2a&profile=pass
-佛山顺德,http://ha.hahomes.net:9981/stream/channelid/57435491?ticket=a5120f1a6d7505c72808d0b3453fd387575d6647&profile=pass
+佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 星河台,http://113.117.74.107:8081/hls/135/index.m3u8
 翡翠台,http://rqd.mytvh.top:10121/stream/channelid/12040790?ticket=2a80fad1c714b798ea347b08e8d73ab33fbab8bb&profile=pass
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1031,11 +1031,11 @@ CCTV14,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV15,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 CCTV16,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV17,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv17.m3u8
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
+佛山综合,http://ha.hahomes.net:9981/stream/channelid/1507084790?ticket=5090f27231f89667675e954d1bb4942a3cf304a6&profile=pass
+佛山影视,http://ha.hahomes.net:9981/stream/channelid/78415091?ticket=1986cd700424526044b36841912ca015888c311f&profile=pass
+佛山公共,http://ha.hahomes.net:9981/stream/channelid/1815241689?ticket=5807c432cc23ca2b20eba3d4d5978f76bb93b454&profile=pass
+佛山南海,http://ha.hahomes.net:9981/stream/channelid/802473806?ticket=ca82f8876eb0e013a61cf5af403c8af33be77a2a&profile=pass
+佛山顺德,http://ha.hahomes.net:9981/stream/channelid/57435491?ticket=a5120f1a6d7505c72808d0b3453fd387575d6647&profile=pass
 
 #159
 凤凰中文,p3p://108.181.32.169:56808/6410229e000655dd98612e41401e3e7d
