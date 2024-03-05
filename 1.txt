@@ -1,12 +1,12 @@
 IPTV,#genre#
-J2,https://iptv543.com/xsj/xsj.php?id=j2
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
+J2,http://rqd.mytvh.top:10121/stream/channelid/512223589?ticket=e214f01a0674725cf242e7e25c81781fc3a29b08&profile=pass
+佛山综合,http://ha.hahomes.net:9981/stream/channelid/1507084790?ticket=5090f27231f89667675e954d1bb4942a3cf304a6&profile=pass
+佛山影视,http://ha.hahomes.net:9981/stream/channelid/78415091?ticket=1986cd700424526044b36841912ca015888c311f&profile=pass
+佛山公共,http://ha.hahomes.net:9981/stream/channelid/1815241689?ticket=5807c432cc23ca2b20eba3d4d5978f76bb93b454&profile=pass
+佛山南海,http://ha.hahomes.net:9981/stream/channelid/802473806?ticket=ca82f8876eb0e013a61cf5af403c8af33be77a2a&profile=pass
+佛山顺德,http://ha.hahomes.net:9981/stream/channelid/57435491?ticket=a5120f1a6d7505c72808d0b3453fd387575d6647&profile=pass
 星河台,http://113.117.74.107:8081/hls/135/index.m3u8
-翡翠台,https://iptv543.com/xsj/xsj.php?id=feicui
+翡翠台,http://rqd.mytvh.top:10121/stream/channelid/12040790?ticket=2a80fad1c714b798ea347b08e8d73ab33fbab8bb&profile=pass
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -97,6 +97,18 @@ CCTV女性时尚,http://fengqiang.press:8188/rtp/239.49.0.159:9266
 CCTV世界地理,http://fengqiang.press:8188/rtp/239.49.1.63:6000
 CCTV世界地理,http://fengqiang.press:8188/rtp/239.49.0.155:9234
 CCTV央视精品,http://fengqiang.press:8188/rtp/239.49.1.66:6000
+TVB无线新闻,http://rqd.mytvh.top:10121/stream/channelid/1703015722?ticket=c781af1552ad9f54bbea586c7ec1fca48aa3e0a3&profile=pass
+TVB明珠,http://rqd.mytvh.top:10121/stream/channelid/574938701?ticket=10612a68e70eee962808ab825a09a05f42ca965b&profile=pass
+TVB财体资讯,http://rqd.mytvh.top:10121/stream/channelid/873797716?ticket=f334b845dd59a1851d2230222f6290596180f317&profile=pass
+ViuTV6,http://rqd.mytvh.top:10121/stream/channelid/912548852?ticket=a0fe1c653aa09b2ef80fdcc4f25ad82632895a0d&profile=pass
+ViuTV,http://rqd.mytvh.top:10121/stream/channelid/685431756?ticket=3d4fb71397616cf34e4637fddbaa692062da0b29&profile=pass
+香港31台,http://rqd.mytvh.top:10121/stream/channelid/150049615?ticket=f8da9b9986adcbdf934344dc5e82b6f536d08ca2&profile=pass
+香港32台,http://rqd.mytvh.top:10121/stream/channelid/492820340?ticket=4c8a3c100ef96e4dbc3a483adf0f09fcbee4ed72&profile=pass
+CCTV1,http://rqd.mytvh.top:10121/stream/channelid/1362387629?ticket=10fbde218bf601461a168bf92096a229b9d4627f&profile=pass
+CGTN纪录频道,http://rqd.mytvh.top:10121/stream/channelid/701934426?ticket=fb0ecf4f0a1b0db59bebf4a99c2f1eee270b62d8&profile=pass
+HOY财经,http://rqd.mytvh.top:10121/stream/channelid/535693201?ticket=fd5909941e5780e551753bec3e5cbdbca004e581&profile=pass
+HOY资讯,http://rqd.mytvh.top:10121/stream/channelid/1813627494?ticket=ca96ec66b97828c86d55310c19c1f064f034008b&profile=pass
+HOY TV,http://rqd.mytvh.top:10121/stream/channelid/1161388650?ticket=0362cffba19e714263739a44ec5f3629069e252f&profile=pass
 欢笑剧场4K,http://php.jdshipin.com:8880/bst2.php?id=hxjc4k/15000000
 欢笑剧场,http://php.jdshipin.com:8880/bst.php?id=hxjc8m/8000000
 全纪实,http://php.jdshipin.com:8880/bst.php?id=qjshd8m/8000000
@@ -1019,6 +1031,11 @@ CCTV14,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV15,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 CCTV16,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV17,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 
 #159
 凤凰中文,p3p://108.181.32.169:56808/6410229e000655dd98612e41401e3e7d
