@@ -476,6 +476,12 @@ CCTV风云音乐,http://udp.gdsz.eu.org:4022/rtp/239.253.43.6:5146
 佛山影视,http://udp.gdsz.eu.org:4022/rtp/239.253.43.56:5146
 佛山综合,http://udp.gdsz.eu.org:4022/rtp/239.253.43.57:5146
 
+佛山综合,http://ha.hahomes.net:9981/stream/channelid/1507084790?ticket=5090f27231f89667675e954d1bb4942a3cf304a6&profile=pass
+佛山影视,http://ha.hahomes.net:9981/stream/channelid/78415091?ticket=1986cd700424526044b36841912ca015888c311f&profile=pass
+佛山公共,http://ha.hahomes.net:9981/stream/channelid/1815241689?ticket=5807c432cc23ca2b20eba3d4d5978f76bb93b454&profile=pass
+佛山南海,http://ha.hahomes.net:9981/stream/channelid/802473806?ticket=ca82f8876eb0e013a61cf5af403c8af33be77a2a&profile=pass
+佛山顺德,http://ha.hahomes.net:9981/stream/channelid/57435491?ticket=a5120f1a6d7505c72808d0b3453fd387575d6647&profile=pass
+
 CCTV1,http://108m64s098.yicp.fun:8808/rtp/239.77.0.241:5146
 CCTV1,http://108m64s098.yicp.fun:8808/rtp/239.77.1.144:5146
 CCTV1,http://108m64s098.yicp.fun:8808/rtp/239.77.0.86:5146
@@ -638,12 +644,6 @@ CCTV风云音乐,http://108m64s098.yicp.fun:8808/rtp/239.253.43.6:5146
 佛山顺德,http://108m64s098.yicp.fun:8808/rtp/239.253.43.55:5146
 佛山影视,http://108m64s098.yicp.fun:8808/rtp/239.253.43.56:5146
 佛山综合,http://108m64s098.yicp.fun:8808/rtp/239.253.43.57:5146
-
-佛山综合,http://ha.hahomes.net:9981/stream/channelid/1507084790?ticket=5090f27231f89667675e954d1bb4942a3cf304a6&profile=pass
-佛山影视,http://ha.hahomes.net:9981/stream/channelid/78415091?ticket=1986cd700424526044b36841912ca015888c311f&profile=pass
-佛山公共,http://ha.hahomes.net:9981/stream/channelid/1815241689?ticket=5807c432cc23ca2b20eba3d4d5978f76bb93b454&profile=pass
-佛山南海,http://ha.hahomes.net:9981/stream/channelid/802473806?ticket=ca82f8876eb0e013a61cf5af403c8af33be77a2a&profile=pass
-佛山顺德,http://ha.hahomes.net:9981/stream/channelid/57435491?ticket=a5120f1a6d7505c72808d0b3453fd387575d6647&profile=pass
 
 CCTV1,http://m0668.3322.org:4000/rtp/239.77.0.241:5146
 CCTV1,http://m0668.3322.org:4000/rtp/239.77.1.144:5146
