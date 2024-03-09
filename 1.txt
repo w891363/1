@@ -105,7 +105,7 @@ ViuTV,http://rqd.mytvh.top:10121/stream/channelid/685431756?ticket=3d4fb71397616
 香港31台,http://rqd.mytvh.top:10121/stream/channelid/150049615?ticket=f8da9b9986adcbdf934344dc5e82b6f536d08ca2&profile=pass
 香港32台,http://rqd.mytvh.top:10121/stream/channelid/492820340?ticket=4c8a3c100ef96e4dbc3a483adf0f09fcbee4ed72&profile=pass
 CCTV1,http://rqd.mytvh.top:10121/stream/channelid/1362387629?ticket=10fbde218bf601461a168bf92096a229b9d4627f&profile=pass
-CGTN纪录频道,http://rqd.mytvh.top:10121/stream/channelid/701934426?ticket=fb0ecf4f0a1b0db59bebf4a99c2f1eee270b62d8&profile=pass
+CGTN,http://rqd.mytvh.top:10121/stream/channelid/701934426?ticket=fb0ecf4f0a1b0db59bebf4a99c2f1eee270b62d8&profile=pass
 HOY财经,http://rqd.mytvh.top:10121/stream/channelid/535693201?ticket=fd5909941e5780e551753bec3e5cbdbca004e581&profile=pass
 HOY资讯,http://rqd.mytvh.top:10121/stream/channelid/1813627494?ticket=ca96ec66b97828c86d55310c19c1f064f034008b&profile=pass
 HOY TV,http://rqd.mytvh.top:10121/stream/channelid/1161388650?ticket=0362cffba19e714263739a44ec5f3629069e252f&profile=pass
