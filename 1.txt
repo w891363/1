@@ -5,7 +5,7 @@ J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszb
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-星河台,http://113.117.74.107:8081/hls/135/index.m3u8
+星河台,http://113.64.145.84:8081/hls/135/index.m3u8
 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
@@ -41,11 +41,11 @@ CCTV17,https://yang-1989.eu.org/PLTV/cctv17
 广东珠江,http://112.91.153.50:9901/tsfile/live/0109_1.m3u8
 岭南戏曲,http://108m64s098.yicp.fun:8808/rtp/239.77.0.16:5146
 广东卫视,http://125.210.152.21:9121/live/hzgq-gdwsgq-h264.m3u8
-凤凰中文,http://113.117.74.107:8081/hls/36/index.m3u8
+凤凰中文,http://113.64.145.84:8081/hls/37/index.m3u8
 北京卫视,http://125.210.152.21:9121/live/hzgq-bjgqws-h264.m3u8
 湖南卫视,http://125.210.152.21:9121/live/hzgq-hnwsgq-h264.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
+凤凰资讯,http://113.64.145.84:8081/hls/36/index.m3u8
+凤凰香港,http://113.64.145.84:8081/hls/38/index.m3u8
 东方卫视,http://125.210.152.21:9121/live/hzgq-dftvgq-h264.m3u8
 江苏卫视,http://125.210.152.21:9121/live/hzgq-jswsgq-h264.m3u8
 浙江卫视,http://125.210.152.21:9121/live/hzgq-zjwsgq-h264.m3u8
