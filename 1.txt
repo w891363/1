@@ -865,7 +865,6 @@ CCTV17,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 新疆卫视,http://91tv.x3322.net:9921/tsfile/live/0110_1.m3u8
 西藏卫视,http://91tv.x3322.net:9921/tsfile/live/0111_1.m3u8
 山东卫视,http://91tv.x3322.net:9921/tsfile/live/0131_1.m3u8
-翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
 明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8
 广东卫视,http://202212251340.iptv.z-link.cn:8800/tsfile/live/0017_1.m3u8
 广东珠江,http://202212251340.iptv.z-link.cn:8800/tsfile/live/0018_1.m3u8
