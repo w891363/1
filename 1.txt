@@ -354,8 +354,6 @@ CGTN,http://php.jdshipin.com:8880/bst2.php?id=ottcctvnews/1300000
 财富天下,http://php.jdshipin.com:8880/bst2.php?id=cftx/2500000
 
 #ZU
-CCTV1,http://108m64s098.yicp.fun:8808/rtp/239.77.0.241:5146
-CCTV1,http://108m64s098.yicp.fun:8808/rtp/239.77.1.144:5146
 CCTV1,http://108m64s098.yicp.fun:8808/rtp/239.77.0.86:5146
 CCTV1,http://108m64s098.yicp.fun:8808/rtp/239.77.0.129:5146
 CCTV2,http://108m64s098.yicp.fun:8808/rtp/239.77.1.158:5146
@@ -493,8 +491,6 @@ CCTV8K,http://108m64s098.yicp.fun:8808/rtp/239.253.43.106:5146
 佛山影视,http://108m64s098.yicp.fun:8808/rtp/239.253.43.56:5146
 佛山综合,http://108m64s098.yicp.fun:8808/rtp/239.253.43.57:5146
 
-CCTV1,http://m0668.3322.org:4000/rtp/239.77.0.241:5146
-CCTV1,http://m0668.3322.org:4000/rtp/239.77.1.144:5146
 CCTV1,http://m0668.3322.org:4000/rtp/239.77.0.86:5146
 CCTV1,http://m0668.3322.org:4000/rtp/239.77.0.129:5146
 CCTV2,http://m0668.3322.org:4000/rtp/239.77.1.158:5146
