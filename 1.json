@@ -25,7 +25,7 @@
     {
       "name": "测试1",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/75d5fcddef415077ba19b3337a07672464862528/%E5%8F%AF%E7%94%A8/TV/yunvj1.txt",
+      "url": "https://mirror.ghproxy.comhttps://raw.githubusercontent.com/asiaboke/IPTV/06860c55e92bcc90b255f4b7d3046c52411f3769/xxx/hlive.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -39,7 +39,7 @@
     {
       "name": "xxx",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/c0ce2f434b4072b78eb1d2770dee9b3df636cf35/tv/xxx.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asiaboke/IPTV/06860c55e92bcc90b255f4b7d3046c52411f3769/xxx/flzb.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
