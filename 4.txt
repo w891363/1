@@ -218,33 +218,6 @@ CHC家庭影院,http://127.0.0.1:2024/live.m3u8?js=su&id=jbtygqCHCjtyyH265_4000
 深圳卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=szwsH265_4000
 天津卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=tjwsH265_4000
 重庆卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=cqwsH265_4000
-翡翠台,http://bziyunshao.synology.me:8889/bysid/1
-ViuTV6,http://bziyunshao.synology.me:8889/bysid/96
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
-明珠台,http://bziyunshao.synology.me:8890/bysid/2
-J2,http://bziyunshao.synology.me:8890/bysid/82
-無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
-無綫財經,http://bziyunshao.synology.me:8890/bysid/85
-國際財經台,http://bziyunshao.synology.me:8891/bysid/76
-HOY TV,http://bziyunshao.synology.me:8891/bysid/77
-HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
-港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
-港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
-CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
-CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV17,http://108m64s098.yicp.fun:8808/rtp/239.77.1.121:5146
 
 #ZU
 CCTV1,http://108m64s098.yicp.fun:8808/rtp/239.77.0.86:5146
@@ -1220,6 +1193,18 @@ Cinema World SG,http://?id=63f5991400095495089793c611d61ab7
 天映频道(ID),http://?id=64e863a40000ec0abcfa63ab62e510cb
 
 #替换
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+ViuTV6,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
 CCTV1,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 CCTV2,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv2.m3u8
 CCTV3,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv3.m3u8
