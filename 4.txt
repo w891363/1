@@ -162,6 +162,62 @@ CCTV风云音乐,http://108m64s098.yicp.fun:8808/rtp/239.253.43.6:5146
 广西卫视,http://112.91.153.50:9901/tsfile/live/0113_1.m3u8
 
 #bst
+4K超高清,http://127.0.0.1:2024/live.m3u8?js=su&id=emdy4k_8000
+CCTV1,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-1H265_4000
+CCTV2,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-2H265_4000
+CCTV3,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-3H265_4000
+CCTV4,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-4H265_4000
+CCTV5,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-5H265_4000
+CCTV5+,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-5plusH265_4000
+CCTV6,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-6H265_4000
+CCTV7,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-7H265_4000
+CCTV8,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-8H265_4000
+CCTV9,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-9H265_4000
+CCTV10,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-10H265_4000
+CCTV11,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-11-H265_4000
+CCTV12,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-12H265_4000
+CCTV13,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-xw_4000
+CCTV14,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-14H265_4000
+CCTV15,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-15-yyH265_4000
+CCTV16,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-16_4000
+CCTV17,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-17_4000
+CETV1,http://127.0.0.1:2024/live.m3u8?js=su&id=CETV-1H264_4000
+CETV2,http://127.0.0.1:2024/live.m3u8?js=su&id=CETV-2_4000
+CHC动作电影,http://127.0.0.1:2024/live.m3u8?js=su&id=wqCHCdzdyH265_4000
+CHC高清电影,http://127.0.0.1:2024/live.m3u8?js=su&id=lnwsCHC-HDH265_4000
+CHC家庭影院,http://127.0.0.1:2024/live.m3u8?js=su&id=jbtygqCHCjtyyH265_4000
+北京卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=bjwsH265_4000
+茶频道,http://127.0.0.1:2024/live.m3u8?js=su&id=cpd_4000
+东方财经,http://127.0.0.1:2024/live.m3u8?js=su&id=dfcj_4000
+东方卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=dfwsH265_4000
+东南卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=dnwsfjwsH265_4000
+动漫秀场,http://127.0.0.1:2024/live.m3u8?js=su&id=yybb-dmxc-H265_4000
+凤凰中文,http://127.0.0.1:2024/live.m3u8?js=su&id=test1_4000
+凤凰资讯,http://127.0.0.1:2024/live.m3u8?js=su&id=test2_4000
+广东卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=gdwsH265_4000
+贵州卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=gzwsH265_4000
+河南卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=hnws35_4000
+黑龙江卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=hljwsH265_4000
+洪雅新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=hyzh_2000
+湖北卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=hbwsH265_4000
+湖南卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=hnwsH265_4000
+吉林卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=jlwsH265_4000
+江苏卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=jswsH265_4000
+江西卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=jxwsH265_4000
+金鹰纪实,http://127.0.0.1:2024/live.m3u8?js=su&id=jyjsHDH265_4000
+金鹰卡通,http://127.0.0.1:2024/live.m3u8?js=su&id=jykt_2000
+劲爆体育,http://127.0.0.1:2024/live.m3u8?js=su&id=lqhxjcHDH265_4000
+精品导视,http://127.0.0.1:2024/live.m3u8?js=su&id=jpdsH265_4000
+快乐垂钓,http://127.0.0.1:2024/live.m3u8?js=su&id=fyzqklcdHDH265_4000
+乐游,http://127.0.0.1:2024/live.m3u8?js=su&id=qjs-HDH265_4000
+乐至综合,http://127.0.0.1:2024/live.m3u8?js=su&id=lezhixwzh_4000
+梨园频道,http://127.0.0.1:2024/live.m3u8?js=su&id=ly_4000
+辽宁卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=lnwsHDH264_4000
+魅力足球,http://127.0.0.1:2024/live.m3u8?js=su&id=mlyy_4000
+山东卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=sdwsH265_4000
+深圳卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=szwsH265_4000
+天津卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=tjwsH265_4000
+重庆卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=cqwsH265_4000
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 ViuTV6,http://bziyunshao.synology.me:8889/bysid/96
 ViuTV,http://bziyunshao.synology.me:8889/bysid/99
@@ -2008,197 +2064,569 @@ CCTV15,P2p://generationnexxxt.com:19806/65a52dc10008dffbdd7dd78215274e95
 五福星撞鬼,https://zxfhuy.neocities.org/tv/dianying/wfx/wfxzg.htm#http://hd1.91kds.cn/b9/migu_ts_zj.m3u8?id=233
 运财五福星,https://zxfhuy.neocities.org/tv/dianying/wfx/ycwfx.htm#http://hd1.91kds.cn/b9/migu_ts_zj.m3u8?id=668
 
-gxg,#genre#
-User_Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
-
+直播,#genre#
+Js=youtube5
 Decoder=3
-Aspect=4
+Aspect=0
 
-4K超高清,http://127.0.0.1:2024/live.m3u8?js=su&id=emdy4k_8000
-CCTV1,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-1H265_4000
-CCTV2,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-2H265_4000
-CCTV3,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-3H265_4000
-CCTV4,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-4H265_4000
-CCTV5,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-5H265_4000
-CCTV5+,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-5plusH265_4000
-CCTV6,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-6H265_4000
-CCTV7,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-7H265_4000
-CCTV8,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-8H265_4000
-CCTV9,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-9H265_4000
-CCTV10,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-10H265_4000
-CCTV11,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-11-H265_4000
-CCTV12,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-12H265_4000
-CCTV13,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-xw_4000
-CCTV14,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-14H265_4000
-CCTV15,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-15-yyH265_4000
-CCTV16,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-16_4000
-CCTV17,http://127.0.0.1:2024/live.m3u8?js=su&id=CCTV-17_4000
-CETV1,http://127.0.0.1:2024/live.m3u8?js=su&id=CETV-1H264_4000
-CETV2,http://127.0.0.1:2024/live.m3u8?js=su&id=CETV-2_4000
-CHC动作电影,http://127.0.0.1:2024/live.m3u8?js=su&id=wqCHCdzdyH265_4000
-CHC高清电影,http://127.0.0.1:2024/live.m3u8?js=su&id=lnwsCHC-HDH265_4000
-CHC家庭影院,http://127.0.0.1:2024/live.m3u8?js=su&id=jbtygqCHCjtyyH265_4000
-阿坝文艺,http://127.0.0.1:2024/live.m3u8?js=su&id=wypdgqH265_4000
-阿坝综合,http://127.0.0.1:2024/live.m3u8?js=su&id=abxwzhpdgq_2000
-安徽卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=ahwsH265_4000
-安岳综合,http://127.0.0.1:2024/live.m3u8?js=su&id=ayxwzh_4000
-安州综合,http://127.0.0.1:2024/live.m3u8?js=su&id=azgq_2000
-巴州,http://127.0.0.1:2024/live.m3u8?js=su&id=bzxw_4000
-宝兴综合,http://127.0.0.1:2024/live.m3u8?js=su&id=bxdst_2000
-北川综合,http://127.0.0.1:2024/live.m3u8?js=su&id=bcxwHD_2000
-北京卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=bjwsH265_4000
-苍溪综合,http://127.0.0.1:2024/live.m3u8?js=su&id=cxxwgqH265_4000
-茶频道,http://127.0.0.1:2024/live.m3u8?js=su&id=cpd_4000
-朝天综合,http://127.0.0.1:2024/live.m3u8?js=su&id=ctxwzh_2000
-成都高新区,http://127.0.0.1:2024/live.m3u8?js=su&id=cdgxdstgq_2000
-成都公共,http://127.0.0.1:2024/live.m3u8?js=su&id=CDTV-5_4000
-成都新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=CDTV-1_4000
-崇州综合,http://127.0.0.1:2024/live.m3u8?js=su&id=czyt_4000
-川网导视,http://127.0.0.1:2024/live.m3u8?js=su&id=cwdsHDH264_4000
-船山综合,http://127.0.0.1:2024/live.m3u8?js=su&id=csxw_2000
-达川新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=dcxwzh_2000
-达州导视,http://127.0.0.1:2024/live.m3u8?js=su&id=dzds_2000
-达州通川,http://127.0.0.1:2024/live.m3u8?js=su&id=tcq_2000
-达州文化,http://127.0.0.1:2024/live.m3u8?js=su&id=dzgg_2000
-达州新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=dzxwzh_2000
-大邑,http://127.0.0.1:2024/live.m3u8?js=su&id=dyytH265_4000
-大英新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=dyxwzhH265_4000
-东方财经,http://127.0.0.1:2024/live.m3u8?js=su&id=dfcj_4000
-东方卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=dfwsH265_4000
-东南卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=dnwsfjwsH265_4000
-动漫秀场,http://127.0.0.1:2024/live.m3u8?js=su&id=yybb-dmxc-H265_4000
-都市剧场,http://127.0.0.1:2024/live.m3u8?js=su&id=yxfydsjcHDH265_4000
-峨边综合,http://127.0.0.1:2024/live.m3u8?js=su&id=ebdst_2000
-峨眉综合,http://127.0.0.1:2024/live.m3u8?js=su&id=emsxw_2000
-峨嵋电影,http://127.0.0.1:2024/live.m3u8?js=su&id=emdygqH265_4000
-恩阳新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=eyxw_2000
-法治天地,http://127.0.0.1:2024/live.m3u8?js=su&id=fztx_4000
-凤凰中文,http://127.0.0.1:2024/live.m3u8?js=su&id=test1_4000
-凤凰资讯,http://127.0.0.1:2024/live.m3u8?js=su&id=test2_4000
-涪城综合,http://127.0.0.1:2024/live.m3u8?js=su&id=fcgq_2000
-甘孜综合,http://127.0.0.1:2024/live.m3u8?js=su&id=gzxwzh_2000
-高县,http://127.0.0.1:2024/live.m3u8?js=su&id=gxt_2000
-珙县新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=gxzh_2000
-古蔺新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=glxwzhgq_2000
-广东卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=gdwsH265_4000
-广元文化,http://127.0.0.1:2024/live.m3u8?js=su&id=gyggH265_4000
-广元综合,http://127.0.0.1:2024/live.m3u8?js=su&id=gyzhH265_4000
-贵州卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=gzwsH265_4000
-河南卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=hnws35_4000
-黑龙江卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=hljwsH265_4000
-洪雅新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=hyzh_2000
-湖北卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=hbwsH265_4000
-湖南卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=hnwsH265_4000
-吉林卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=jlwsH265_4000
-夹江新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=jjxw_2000
-剑阁综合,http://127.0.0.1:2024/live.m3u8?js=su&id=jgxwzhH265_4000
-江苏卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=jswsH265_4000
-江西卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=jxwsH265_4000
-金口河综合,http://127.0.0.1:2024/live.m3u8?js=su&id=jkhdst_2000
-金牛 标清,http://127.0.0.1:2024/live.m3u8?js=su&id=jnyx_2000
-金色学堂,http://127.0.0.1:2024/live.m3u8?js=su&id=jspd_4000
-金堂,http://127.0.0.1:2024/live.m3u8?js=su&id=jtzhpd_2000
-金鹰纪实,http://127.0.0.1:2024/live.m3u8?js=su&id=jyjsHDH265_4000
-金鹰卡通,http://127.0.0.1:2024/live.m3u8?js=su&id=jykt_2000
-劲爆体育,http://127.0.0.1:2024/live.m3u8?js=su&id=lqhxjcHDH265_4000
-精品导视,http://127.0.0.1:2024/live.m3u8?js=su&id=jpdsH265_4000
-井研新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=jyxwzh162_2000
-开江新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=kjxwzh_2000
-康定,http://127.0.0.1:2024/live.m3u8?js=su&id=gzkdxwzh_2000
-快乐垂钓,http://127.0.0.1:2024/live.m3u8?js=su&id=fyzqklcdHDH265_4000
-乐山文旅,http://127.0.0.1:2024/live.m3u8?js=su&id=lsggpd_4000
-乐山新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=lsxwzh_4000
-乐游,http://127.0.0.1:2024/live.m3u8?js=su&id=qjs-HDH265_4000
-乐至综合,http://127.0.0.1:2024/live.m3u8?js=su&id=lezhixwzh_4000
-梨园频道,http://127.0.0.1:2024/live.m3u8?js=su&id=ly_4000
-利州综合,http://127.0.0.1:2024/live.m3u8?js=su&id=lzxwzh_2000
-凉山新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=lsxwHDH265_4000
-凉山彝语综合,http://127.0.0.1:2024/live.m3u8?js=su&id=yyzh_2000
-辽宁卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=lnwsHDH264_4000
-隆昌综合,http://127.0.0.1:2024/live.m3u8?js=su&id=lcxw_2000
-庐山综合,http://127.0.0.1:2024/live.m3u8?js=su&id=lszh_2000
-泸定综合,http://127.0.0.1:2024/live.m3u8?js=su&id=ldxw_4000
-马边综合,http://127.0.0.1:2024/live.m3u8?js=su&id=mbxwzh_2000
-眉山公共,http://127.0.0.1:2024/live.m3u8?js=su&id=msgg_2000
-眉山综合,http://127.0.0.1:2024/live.m3u8?js=su&id=msxwzhgq_2000
-魅力足球,http://127.0.0.1:2024/live.m3u8?js=su&id=mlyy_4000
-米易综合,http://127.0.0.1:2024/live.m3u8?js=su&id=myxwzh_2000
-绵阳科技,http://127.0.0.1:2024/live.m3u8?js=su&id=myetH265_4000
-绵阳新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=myytH265_4000
-名山,http://127.0.0.1:2024/live.m3u8?js=su&id=msdstH265_2000
-木里,http://127.0.0.1:2024/live.m3u8?js=su&id=mltHD_4000
-沐川综合,http://127.0.0.1:2024/live.m3u8?js=su&id=mcxw_2000
-南充公共,http://127.0.0.1:2024/live.m3u8?js=su&id=ncgg_4000
-南充综合,http://127.0.0.1:2024/live.m3u8?js=su&id=ncxwzh_2000
-南江,http://127.0.0.1:2024/live.m3u8?js=su&id=njxw_2000
-南溪综合,http://127.0.0.1:2024/live.m3u8?js=su&id=nxt_2000
-攀钢新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=pgxwzh_2000
-攀枝花新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=pzhytH265_4000
-彭山综合,http://127.0.0.1:2024/live.m3u8?js=su&id=pszh_2000
-彭州综合,http://127.0.0.1:2024/live.m3u8?js=su&id=pzxwzh_2000
-蓬溪新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=pxxw_2000
-郫县新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=pxds1_2000
-平昌综合,http://127.0.0.1:2024/live.m3u8?js=su&id=pcxw_2000
-平武综合,http://127.0.0.1:2024/live.m3u8?js=su&id=pwgq_4000
-屏山综合,http://127.0.0.1:2024/live.m3u8?js=su&id=psxwzh_2000
-蒲江综合,http://127.0.0.1:2024/live.m3u8?js=su&id=pjxw_4000
-青白江综合,http://127.0.0.1:2024/live.m3u8?js=su&id=qbjxwzh_2000
-青海卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=qhwsH264_2000
-青神综合,http://127.0.0.1:2024/live.m3u8?js=su&id=qszh_2000
-邛崃综合,http://127.0.0.1:2024/live.m3u8?js=su&id=qlds1t_2000
-渠县新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=qxxwzh_2000
-仁和新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=rhxwH264_2000
-仁寿综合,http://127.0.0.1:2024/live.m3u8?js=su&id=msrszh_2000
-荣县综合,http://127.0.0.1:2024/live.m3u8?js=su&id=rxzh_2000
-三台综合,http://127.0.0.1:2024/live.m3u8?js=su&id=stxwHD_2000
-沙湾融媒,http://127.0.0.1:2024/live.m3u8?js=su&id=swxwzh_2000
-山东卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=sdwsH265_4000
-深圳卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=szwsH265_4000
-什邡新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=sfx_2000
-生活时尚,http://127.0.0.1:2024/live.m3u8?js=su&id=shssH265_4000
-四川妇女,http://127.0.0.1:2024/live.m3u8?js=su&id=SCTV-7-_4000
-四川经济,http://127.0.0.1:2024/live.m3u8?js=su&id=SCTV-2-H265_4000
-四川科教,http://127.0.0.1:2024/live.m3u8?js=su&id=SCTV-ggSCTV-8_4000
-四川卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=scwsH265_4000
-四川文化,http://127.0.0.1:2024/live.m3u8?js=su&id=SCTV-3-H265_4000
-四川乡村,http://127.0.0.1:2024/live.m3u8?js=su&id=SCTV-kjSCTV-9-_4000
-四川新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=SCTV-4H265_4000
-四川影视,http://127.0.0.1:2024/live.m3u8?js=su&id=SCTV-5-scysH265_4000
-松潘综合,http://127.0.0.1:2024/live.m3u8?js=su&id=spxwzhpdH264_2000
-遂宁文化,http://127.0.0.1:2024/live.m3u8?js=su&id=sngggq_2000
-遂宁综合,http://127.0.0.1:2024/live.m3u8?js=su&id=snxwzhHDH265_4000
-天津卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=tjwsH265_4000
-天泉新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=tqzh_2000
-通江综合,http://127.0.0.1:2024/live.m3u8?js=su&id=tjxwH265_4000
-万源,http://127.0.0.1:2024/live.m3u8?js=su&id=wyxwzh_2000
-旺苍综合,http://127.0.0.1:2024/live.m3u8?js=su&id=wcxwzhH265_4000
-温江综合,http://127.0.0.1:2024/live.m3u8?js=su&id=wjytH264_2000
-文物宝库,http://127.0.0.1:2024/live.m3u8?js=su&id=wwbk_4000
-五通桥,http://127.0.0.1:2024/live.m3u8?js=su&id=wtqxwzh_2000
-武术世界,http://127.0.0.1:2024/live.m3u8?js=su&id=wssj_4000
-西昌,http://127.0.0.1:2024/live.m3u8?js=su&id=xctHD_2000
-西充综合,http://127.0.0.1:2024/live.m3u8?js=su&id=xczh_2000
-新都综合,http://127.0.0.1:2024/live.m3u8?js=su&id=xdzhpd_2000
-新津,http://127.0.0.1:2024/live.m3u8?js=su&id=xjzh_4000
-兴文,http://127.0.0.1:2024/live.m3u8?js=su&id=xwt_2000
-宣汉综合,http://127.0.0.1:2024/live.m3u8?js=su&id=xhxwzh_2000
-雅安公共,http://127.0.0.1:2024/live.m3u8?js=su&id=yagg_2000
-雅安新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=yazh_2000
-盐边,http://127.0.0.1:2024/live.m3u8?js=su&id=ybtgq_2000
-盐亭综合,http://127.0.0.1:2024/live.m3u8?js=su&id=ytzh_2000
-雁江,http://127.0.0.1:2024/live.m3u8?js=su&id=yjxw_2000
-宜宾导视,http://127.0.0.1:2024/live.m3u8?js=su&id=ybds_2000
-荥经,http://127.0.0.1:2024/live.m3u8?js=su&id=xjdst_2000
-营山,http://127.0.0.1:2024/live.m3u8?js=su&id=ysxw_2000
-岳池,http://127.0.0.1:2024/live.m3u8?js=su&id=ycxw_2000
-越西综合,http://127.0.0.1:2024/live.m3u8?js=su&id=yxt_4000
-长宁综合,http://127.0.0.1:2024/live.m3u8?js=su&id=znzh_2000
-昭化综合,http://127.0.0.1:2024/live.m3u8?js=su&id=zhxwzh_2000
-浙江卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=zjwsH265_4000
-中江综合,http://127.0.0.1:2024/live.m3u8?js=su&id=zjxwzh_2000
-重庆卫视,http://127.0.0.1:2024/live.m3u8?js=su&id=cqwsH265_4000
-资阳新闻,http://127.0.0.1:2024/live.m3u8?js=su&id=zyxwzh_2000
-资中综合,http://127.0.0.1:2024/live.m3u8?js=su&id=zzzh_2000
-梓潼综合,http://127.0.0.1:2024/live.m3u8?js=su&id=ztgq_2000
-自贡生活,http://127.0.0.1:2024/live.m3u8?js=su&id=zggg_4000
-自贡综合,http://127.0.0.1:2024/live.m3u8?js=su&id=zgxw_4000
+台視新聞,https://m.youtube.com/@TTV_NEWS/streams/1
+中視新聞,https://m.youtube.com/@twctvnews/streams/1
+華視新聞,https://m.youtube.com/@CtsTw/streams/1
+台視,https://m.youtube.com/watch?v=uDqQo8a7Xmk
+大愛一臺-臺灣直播,https://m.youtube.com/@DaAiVideo/streams/1
+大愛一臺-全球直播,https://m.youtube.com/@DaAiVideo/streams/2
+大愛二臺-臺灣直播,https://m.youtube.com/@DaAiVideo/streams/4
+大愛二臺-全球直播,https://m.youtube.com/@DaAiVideo/streams/3
+公視,https://m.youtube.com/@ptslivestream/streams/1
+公視新聞,https://m.youtube.com/@PNNPTS/streams/1
+公視台語台,https://m.youtube.com/watch?v=6KlRR_DGhmI
+國家地理頻道,https://m.youtube.com/@NatGeo/live
+國家地理頻道野生,https://m.youtube.com/@NatGeoWild/live
+國家地理頻道兒童,https://m.youtube.com/@natgeokids/live
+YOYOTV,https://m.youtube.com/@yoyotvebc/live
+中天亞洲台,https://m.youtube.com/@CtiAsia/live
+東森新聞,https://m.youtube.com/@newsebc/streams/1
+東森新聞世界日報,https://m.youtube.com/@newsebc/streams/2
+中天新聞,https://m.youtube.com/@CtiTv/streams/1
+中天新聞2台,https://m.youtube.com/@CtiDeepThroat/streams/1
+民視新聞台,https://m.youtube.com/@FTV_News/streams/1
+三立iNews,https://m.youtube.com/@setinews/live
+三立Live,https://m.youtube.com/@setnews/live
+TVBS NEWS,https://m.youtube.com/@TVBSNEWS01/streams/1
+東森財經新聞,https://m.youtube.com/@57ETFN/streams/2
+東森財經股市,https://m.youtube.com/@57ETFN/streams/1
+寰宇新聞,https://m.youtube.com/@globalnewstw/streams/1
+寰宇新聞2,https://m.youtube.com/@globalnewstw/streams/2
+寰宇新聞台灣台,https://m.youtube.com/@globalnewstw/streams/3
+鏡新聞,https://m.youtube.com/@mnews-tw/streams/1
+GS幸福居家,https://m.youtube.com/@plus8394/live
+正德電視台,https://m.youtube.com/@chengteTV/live
+EF運通,https://m.youtube.com/@EFTV01/live
+彰化生活台,https://m.youtube.com/@user-ss9pr1ig8x/live
+國會頻道1,https://m.youtube.com/@user-sr2ck1hq9z/streams/1
+國會頻道2,https://m.youtube.com/@user-sr2ck1hq9z/streams/2
+新唐人亞太電視台,https://m.youtube.com/@NTDAPTV/streams/1
+鳳凰衛視資訊台HK,https://m.youtube.com/@phoenixtvhk/streams/1
+鳳凰衛視資訊台,https://m.youtube.com/@phoenixtvnews7060/streams/1
+Taiwan Plus,https://m.youtube.com/@TaiwanPlusLive/live
+CCTV国际,https://m.youtube.com/@LiveNow24H/streams/1
+CNA亞洲新聞,https://m.youtube.com/@channelnewsasia/streams/1
+FRANCE 24 English法蘭西24小時,https://m.youtube.com/@France24_en/streams/1
+Al Jazeera English半島新聞,https://m.youtube.com/@aljazeeraenglish/streams/1
+TRT World,https://m.youtube.com/@trtworld/streams/1
+Bloomberg Quicktake彭博新聞,https://m.youtube.com/@BloombergQuicktake/streams/1
+Bloomberg Television,https://m.youtube.com/@markets/streams/1
+NHK World,https://m.youtube.com/@NHKWORLDJAPAN/streams/1
+北海道HTB,https://m.youtube.com/@htbnews/live
+ANNnewsCH,https://m.youtube.com/@ANNnewsCH/streams/1
+メ〜テレニュース,https://m.youtube.com/@NagoyaTVnewsCH/streams/1
+ABC News Us,https://m.youtube.com/@ABCNews/streams/1
+ABC News (Australia),https://m.youtube.com/@abcnewsaustralia/streams/1
+ABC7 SWFL,https://m.youtube.com/@abc7swfl798/streams/1
+CGTN Europe,https://m.youtube.com/@CGTNEurope/streams/1
+YTN News,https://m.youtube.com/@ytnnews24/streams/1
+KBS News,https://m.youtube.com/@newskbs/streams/1
+ТСН,https://m.youtube.com/@tsn/streams/1
+BERNAMA TV,https://m.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+tvOneNews,https://m.youtube.com/@tvOneNews/streams/1
+africanews非洲新聞,https://m.youtube.com/@africanews/streams/1
+
+
+輪播-【卡通】,#genre#
+Js=youtube5
+Decoder=3
+Aspect=0
+
+木棉花闔家歡1-【我們這一家】,https://m.youtube.com/@Muse_Family/streams/1
+木棉花闔家歡2-【中華一番】,https://m.youtube.com/@Muse_Family/streams/2
+木棉花TW1-【進擊的巨人】,https://m.youtube.com/@MuseTW/streams/1
+木棉花TW2-【青春豬頭少年系列】,https://m.youtube.com/@MuseTW/streams/2
+Disney XD,https://m.youtube.com/@disneyxd/live
+Adventure Time,https://m.youtube.com/@AdventureTime/live
+The Amazing World of Gumball,https://m.youtube.com/@TheAmazingWorldofGumball/live
+Shaun the Sheep Official,https://m.youtube.com/@ShauntheSheepOfficial/live
+ai-peter,https://m.youtube.com/@ai-peter/live
+tmnt,https://m.youtube.com/@tmnt/live
+Talking Friends,https://m.youtube.com/@TalkingFriends/live
+Steven Universe,https://m.youtube.com/@stevenuniverse4066/live
+winx club,https://m.youtube.com/@winxclub/live
+smurfs,https://m.youtube.com/@smurfs/live
+Disney Junior 1,https://m.youtube.com/@disneyjunior/streams/1
+Disney Junior 2,https://m.youtube.com/@disneyjunior/streams/2
+Disney Junior 3,https://m.youtube.com/@disneyjunior/streams/3
+Disney Junior 4,https://m.youtube.com/@disneyjunior/streams/4
+Disney Junior 5,https://m.youtube.com/@disneyjunior/streams/5
+Disney Junior 6,https://m.youtube.com/@disneyjunior/streams/6
+Disney Junior 7,https://m.youtube.com/@disneyjunior/streams/7
+
+
+輪播-【戲劇】,#genre#
+Js=youtube5
+Decoder=3
+Aspect=0
+
+愛爾達影劇1-【去有風的地方】,https://m.youtube.com/@eltadrama/streams/1
+愛爾達影劇2-【謝謝你醫生】,https://m.youtube.com/@eltadrama/streams/2
+愛爾達影劇3-【我和我們在一起】,https://m.youtube.com/@eltadrama/streams/3
+愛爾達綜合1-【風中奇緣】,https://m.youtube.com/@ELTAWORLD/streams/1
+愛爾達綜合2-【將軍在上】,https://m.youtube.com/@ELTAWORLD/streams/2
+愛爾達綜合3-【長歌行】,https://m.youtube.com/@ELTAWORLD/streams/3
+愛爾達綜合4-【仙俠神劇 馭鮫記 與君初相識+恰似故人歸】,https://m.youtube.com/@ELTAWORLD/streams/4
+愛爾達綜合5-【光芒】,https://m.youtube.com/@ELTAWORLD/streams/5
+愛爾達綜合6-【金庸經典-神鵰俠侶】,https://m.youtube.com/@ELTAWORLD/streams/6
+龍華電視1-【軍師聯盟+虎嘯龍吟】,https://m.youtube.com/@ltv_tw/streams/1
+龍華電視2-【浪漫醫生金師傅2】,https://m.youtube.com/@ltv_tw/streams/2
+三立華劇1-【下一站幸福】,https://m.youtube.com/@SETdrama/streams/1
+三立華劇2-【姊的時代】,https://m.youtube.com/@SETdrama/streams/2
+八大劇樂部1-【知否知否應是綠肥紅瘦】,https://m.youtube.com/@gtv-drama/streams/1
+八大劇樂部2-【惡作劇之吻系列】,https://m.youtube.com/@gtv-drama/streams/2
+八大劇樂部3-【宫】,https://m.youtube.com/@gtv-drama/streams/3
+終極系列,https://m.youtube.com/watch?v=T3AlisdZ6x8
+台視時光機2-【神機妙算劉伯溫】,https://m.youtube.com/@TTVClassic/streams/2
+台視時光機3-【玫瑰瞳鈴眼】,【紫色蔓陀蘿】,【蝴蝶密碼】,【台灣真女人】,【台灣風雲】,【藍色蜘蛛網】,https://m.youtube.com/@TTVClassic/streams/3
+台視時光機4-【最美周芷若！倚天屠龍記】,https://m.youtube.com/@TTVClassic/streams/4
+台視時光機5-【末代皇孫】,https://m.youtube.com/@TTVClassic/streams/5
+華視戲劇1-【台灣靈異事件】,https://m.youtube.com/@cts_drama/streams/1
+【台灣啟示錄】,https://m.youtube.com/@ebcapocalypse/live
+民視戲劇館1-【藍色水玲瓏】,https://m.youtube.com/@FTVDRAMA/streams/1
+民視戲劇館2-【新玫瑰瞳鈴眼】,https://m.youtube.com/@FTVDRAMA/streams/2
+民視戲劇館3-【新兵日記】,https://m.youtube.com/@FTVDRAMA/streams/3
+民視戲劇館4-【廉政英雄】,https://m.youtube.com/@FTVDRAMA/streams/4
+JTBC Drama,https://m.youtube.com/@JTBCdrama/live
+
+
+輪播-【休閒綜藝】,#genre#
+Js=youtube5
+Decoder=3
+Aspect=0
+
+【MIT台灣誌】,https://m.youtube.com/@ctvmit/live
+【大陸尋奇】,https://m.youtube.com/@ctvchinatv/live
+非凡大探索1-【台北美食】,https://m.youtube.com/@ustvfoody/streams/3
+非凡大探索2-【台中美食】,https://m.youtube.com/@ustvfoody/streams/2
+非凡大探索3-【高雄美食】,https://m.youtube.com/@ustvfoody/streams/1
+【飢餓遊戲】,https://m.youtube.com/@HungerGames123/live
+【同學來了】,https://m.youtube.com/@StudentsComing/live
+台視時光機1-【百萬大歌星】,https://m.youtube.com/@TTVClassic/streams/1
+中視經典綜藝1-【萬秀豬王】,https://m.youtube.com/@ctvent_classic/streams/1
+中視經典綜藝2-【綜藝大哥大】,https://m.youtube.com/@ctvent_classic/streams/2
+華視綜藝頻道1-【現代嘉慶君】,https://m.youtube.com/@CTSSHOW/streams/1
+華視綜藝頻道2-【天才衝衝衝】,https://m.youtube.com/@CTSSHOW/streams/2
+【豬哥會社】,https://m.youtube.com/@FTV_ZhuGeClub/live
+【我愛冰冰Show】,https://m.youtube.com/@ilovebingbingshow/live
+
+
+音樂,#genre#
+Js=youtube5
+Decoder=3
+Aspect=0
+
+【LofiGirl】1,https://m.youtube.com/@LofiGirl/streams/1
+【LofiGirl】2,https://m.youtube.com/@LofiGirl/streams/2
+【LofiGirl】3,https://m.youtube.com/@LofiGirl/streams/3
+【LofiGirl】4,https://m.youtube.com/@LofiGirl/streams/4
+【Live Music Radio】1,https://m.youtube.com/@LiveMusicRadio/streams/1
+【Live Music Radio】2,https://m.youtube.com/@LiveMusicRadio/streams/2
+【Live Music Radio】3,https://m.youtube.com/@LiveMusicRadio/streams/3
+【Live Music Radio】4,https://m.youtube.com/@LiveMusicRadio/streams/4
+【Live Music Radio】5,https://m.youtube.com/@LiveMusicRadio/streams/5
+【Live Music Radio】6,https://m.youtube.com/@LiveMusicRadio/streams/6
+【網路流行音樂電台】,https://m.youtube.com/@2olive153/streams/1
+【抖音热歌2023】,https://m.youtube.com/@DJ_MIN1998/streams/1
+【Diamond Music】 1,https://m.youtube.com/@DiamondMBlack/streams/1
+【The Good Life radio】,https://m.youtube.com/@TheGoodLiferadio/streams/1
+
+
+白噪音,#genre#
+Js=youtube5
+Decoder=3
+Aspect=0
+
+Ambient Renders 1,https://m.youtube.com/@AmbientRenders/streams/1
+Ambient Renders 2,https://m.youtube.com/@AmbientRenders/streams/2
+Ambient Renders 3,https://m.youtube.com/@AmbientRenders/streams/3
+Ambient Renders 4,https://m.youtube.com/@AmbientRenders/streams/4
+Ambient Renders 5,https://m.youtube.com/@AmbientRenders/streams/5
+Ambient Renders 6,https://m.youtube.com/@AmbientRenders/streams/6
+Ambient Renders 7,https://m.youtube.com/@AmbientRenders/streams/7
+Ambient Renders 8,https://m.youtube.com/@AmbientRenders/streams/8
+Ambient Renders 9,https://m.youtube.com/@AmbientRenders/streams/9
+Ambient Renders 10,https://m.youtube.com/@AmbientRenders/streams/10
+Ambient Renders 11,https://m.youtube.com/@AmbientRenders/streams/11
+Ambient Renders 12,https://m.youtube.com/@AmbientRenders/streams/12
+Ambient Renders 13,https://m.youtube.com/@AmbientRenders/streams/13
+Ambient Renders 14,https://m.youtube.com/@AmbientRenders/streams/14
+Ambient Renders 15,https://m.youtube.com/@AmbientRenders/streams/15
+Ambient Renders 16,https://m.youtube.com/@AmbientRenders/streams/16
+
+
+Shorts,#genre#
+Js=youtube5
+Decoder=3
+Aspect=0
+
+Shorts(每次不同),https://m.youtube.com/shorts
+Shorts(目前重播),https://shorts-now
+Shorts(前一個),https://shorts-pre
+普通女僕v..s天津女僕,https://m.youtube.com/shorts/bUITWvZg5Hw
+普通女僕v..s四川女僕,https://m.youtube.com/shorts/Y5dPcg1ofsw
+自X的女生有多可怕 Daily routines & habits of highly organized people,https://youtu.be/eNC49edHnRk
+
+細講【弟子規】蔡禮旭老師主講 《超級生命密碼》超級生命密碼,#genre#
+細講【弟子規】第1集,https://m.youtube.com/watch?v=w42JnNZzprw
+細講【弟子規】第2集,https://m.youtube.com/watch?v=pUbLu9QYwRk
+細講【弟子規】第3集,https://m.youtube.com/watch?v=CcqgeYN5bf8
+細講【弟子規】第4集,https://m.youtube.com/watch?v=zFzkrirsULI
+細講【弟子規】第5集,https://m.youtube.com/watch?v=vUnZdixxFW8
+細講【弟子規】第6集,https://m.youtube.com/watch?v=q9mhhsBp4pQ
+細講【弟子規】第7集,https://m.youtube.com/watch?v=us_0yzxZj9g
+細講【弟子規】第8集,https://m.youtube.com/watch?v=PAHWTPCF14c
+細講【弟子規】第9集,https://m.youtube.com/watch?v=q6MVbfyUcYc
+細講【弟子規】第10集,https://m.youtube.com/watch?v=NETMzHIuR9k
+細講【弟子規】第11集,https://m.youtube.com/watch?v=RUeKIfCJ34c
+細講【弟子規】第12集,https://m.youtube.com/watch?v=JaXkImqRIK4
+細講【弟子規】第13集,https://m.youtube.com/watch?v=tI7bLhytJzY
+細講【弟子規】第14集,https://m.youtube.com/watch?v=tVaC_Skn6KI
+細講【弟子規】第15集,https://m.youtube.com/watch?v=7Q7ygIJe7JQ
+細講【弟子規】第16集,https://m.youtube.com/watch?v=hwiSk7mrggA
+細講【弟子規】第17集,https://m.youtube.com/watch?v=gbARaNWD4TQ
+細講【弟子規】第18集,https://m.youtube.com/watch?v=9-HSuWGZ-rY
+細講【弟子規】第19集,https://m.youtube.com/watch?v=AvIA1NTkjM4
+細講【弟子規】第20集,https://m.youtube.com/watch?v=aoxt-jSZXdY
+細講【弟子規】第21集,https://m.youtube.com/watch?v=t8Q0SK_hATs
+細講【弟子規】第22集,https://m.youtube.com/watch?v=O40udP99l-4
+細講【弟子規】第23集,https://m.youtube.com/watch?v=DvMYBSX0vMs
+細講【弟子規】第24集,https://m.youtube.com/watch?v=dqU8jGArfDs
+細講【弟子規】第25集,https://m.youtube.com/watch?v=vxxsOAAkIg4
+細講【弟子規】第26集,https://m.youtube.com/watch?v=W1Go2Ec2Eek
+細講【弟子規】第27集,https://m.youtube.com/watch?v=dXJxW6oKQ5k
+細講【弟子規】第28集,https://m.youtube.com/watch?v=xH_IYoD7GaE
+細講【弟子規】第29集,https://m.youtube.com/watch?v=lTDeOJ_itbo
+細講【弟子規】第30集,https://m.youtube.com/watch?v=kJyzixvuOHI
+細講【弟子規】第31集,https://m.youtube.com/watch?v=jYh6_fcbwv4
+細講【弟子規】第32集,https://m.youtube.com/watch?v=EmSVWGPgDy4
+細講【弟子規】第33集,https://m.youtube.com/watch?v=xiaG4Fwo1ps
+細講【弟子規】第34集,https://m.youtube.com/watch?v=ALidcleuhsY
+細講【弟子規】第35集,https://m.youtube.com/watch?v=8dtcQkYJnes
+細講【弟子規】第36集,https://m.youtube.com/watch?v=hkWHonvYxyo
+細講【弟子規】第37集,https://m.youtube.com/watch?v=8y84jHK1SQM
+細講【弟子規】第38集,https://m.youtube.com/watch?v=KDzVhanhBsk
+細講【弟子規】第39集,https://m.youtube.com/watch?v=pUJ6aS-hT-8
+細講【弟子規】第40集,https://m.youtube.com/watch?v=lSsHYK5ElaQ
+細講【弟子規】第41集,https://m.youtube.com/watch?v=JcML0dawuuc
+
+老高與小茉 熱門影片,#genre#
+超出你想象的深海世界,https://m.youtube.com/watch?v=dNmwPWRdv_0
+【神作】四十分钟讲完三体,https://m.youtube.com/watch?v=2vowHo2y-hI
+目前第二长的一期，多重人格分裂,https://m.youtube.com/watch?v=QAGDGja7kbs
+人为什麽是人，人类最不可思议的六个特征,https://m.youtube.com/watch?v=EiWuajug1W4
+【震撼】这是一部解开所有宇宙之谜的影片,https://m.youtube.com/watch?v=3QS5hyXpNyw
+南极和北极，地球上最不可思议的两个地方,https://m.youtube.com/watch?v=jSSIeOlIqu0
+千万不要去！世界十大人类禁地,https://m.youtube.com/watch?v=6SwJpgNLvTk
+【震撼】这是一部你明天还会再看一遍的影片,https://m.youtube.com/watch?v=odc0ajxCq2c
+超出你想象的地球故事,https://m.youtube.com/watch?v=5AseSLCG7wI
+目前信息量最大的一期，重力,https://m.youtube.com/watch?v=-TDVKQjmf7c
+人类的隐藏能力，从气功到超能力还有另一个世界的存在,https://m.youtube.com/watch?v=3Okf8nOIVLY
+目前最长的一期，只有五岁抬头才能看懂的天能（信条）,https://m.youtube.com/watch?v=UiyWuEwxCNQ
+【震撼】2045年，人类究竟是灭绝还是成神,https://m.youtube.com/watch?v=WY4XLDBDyuk
+【震撼】智商200也无法解答，宇宙最大的谜团，时间,https://m.youtube.com/watch?v=6SkbNlWMG5w
+现代技术也无法再现的七个奇迹,https://m.youtube.com/watch?v=KtDGWBqCmtk
+【神作】三十六分钟完全解説这部完美闭合的漫画,https://m.youtube.com/watch?v=ZN4yFKJuS4Y
+【震撼】海奥华预言，人类起源，耶稣是谁，金字塔之谜，你想知道的答案这里都有,https://m.youtube.com/watch?v=1rUWY2z4wUk
+前往地球中心的旅行，超出你想象的地下世界,https://m.youtube.com/watch?v=lRVSC97q8ew
+神作！星际效应，用最简单的方式告诉你什么是五维时空,https://m.youtube.com/watch?v=KefYmjM0E7g
+宇宙有多大，人类最远可以到达宇宙的什么地方,https://m.youtube.com/watch?v=gH_NIUqOJos
+最神奇的星球，地球以及人类存在的真正原因,https://m.youtube.com/watch?v=BLpv9fCZqcs
+人类不能再次登上月球的真正原因真是难以置信,https://m.youtube.com/watch?v=2vzwtqhhJv8
+“他们”究竟是谁？比金字塔还夸张的远古文明,https://m.youtube.com/watch?v=vA7IJRaW0Eo
+可怕的巨大史前生物，我们该庆幸它们已经灭绝了,https://m.youtube.com/watch?v=BXybSLUlFvM
+天堂的证明，一个你这辈子都看不到的世界,https://m.youtube.com/watch?v=L8SZQPyB1c8
+目前最搞笑的一期，我们本来都是神但由于选择了美貌而变成了人,https://m.youtube.com/watch?v=p25SV0WQWjA
+人类消失一万年后，一切都不见了，只有“它”还在,https://m.youtube.com/watch?v=EW77R_D-XCw
+人类不能知道的秘密，人族的故事,https://m.youtube.com/watch?v=JVOzntXOGRc
+【虽然被警告不要说】但是我还是决定公开这一期,https://m.youtube.com/watch?v=QMsbQ97Ah_M
+一万年后的世界不会比现在更先进的真正原因,https://m.youtube.com/watch?v=sWY1PtudTEA
+目前介绍过的最厉害的一位，此人两岁就能抬头,https://m.youtube.com/watch?v=t_WGhKQ7xqI
+【震撼】看完这期你就无敌了，史上最强战术，不战而胜的奥义，孙子兵法,https://m.youtube.com/watch?v=4CvVL-rSX8E
+目前最细思极恐的一期，二十五号宇宙,https://m.youtube.com/watch?v=htz2xCJb3Lc
+【目前最长影片】人类不能知道的，完全另一个版本的世界的真相,https://m.youtube.com/watch?v=A7h2clFxyj0
+超越认知的印度,https://m.youtube.com/watch?v=0cXTyTmDRUI
+它的下面埋藏着关于世界末日的重要信息,https://m.youtube.com/watch?v=Q0pSMTLXvjo
+【讲到流泪】二十分钟讲完第一次世界大战,https://m.youtube.com/watch?v=G5y85I52HRg
+过去可以被改变的真正原因，被讨厌的勇气,https://m.youtube.com/watch?v=5cZxZCbcOQw
+人类的极限，寿命的极限是多少，可以多久不吃饭不睡觉,https://m.youtube.com/watch?v=VCIHVq2GISw
+惊人证据揭示地下世界的存在，他们究竟是谁,https://m.youtube.com/watch?v=0AuaFv9pUYE
+突然消失的百慕大三角,https://m.youtube.com/watch?v=kb3ZMhR66fY
+【月球第三部】人类无法再次登月的另一种可能,https://m.youtube.com/watch?v=Udvl_VJoM94
+1万2千年前的这个装置究竟是用来做什麽的,https://m.youtube.com/watch?v=NFH7IErIm3k
+碰到就玩完了，世界上最可怕的十大海洋生物,https://m.youtube.com/watch?v=ZYjCi4rpAiQ
+地球上智商最高的九种动物，第一名就快变成人了,https://m.youtube.com/watch?v=mjk1Huc_FoY
+【摩羯座的人注意了】神就来自你们的守护星,https://m.youtube.com/watch?v=EkELAx2Uk1w
+【震撼】亚特兰蒂斯真的找到了，神，真的存在过,https://m.youtube.com/watch?v=QbcKVbL3VOQ
+【震撼】进化，从1859到2020,https://m.youtube.com/watch?v=yNFgOL-7nOw
+【不好意思，今天的标题可能吓到各位，但我必须说】我们之间其实没有任何关係,https://m.youtube.com/watch?v=nhnrfTb8xzA
+地球上最常见却最神奇的东西，水,https://m.youtube.com/watch?v=7q88m5MQRhE
+雪山上发生的最不可思议的事,https://m.youtube.com/watch?v=8Y-l9WaOd_w
+【完美犯罪】又一个超超超高智商的男人,https://m.youtube.com/watch?v=SSzJdSsLneI
+【射手座的人注意了】你们的守护星太危险，风速每秒三百公里，木星,https://m.youtube.com/watch?v=dr9ISxjOO00
+你所不了解的天空的世界,https://m.youtube.com/watch?v=x1QyVwFRrIg
+【震撼】诺亚方舟，不是神话而是预言，汉字中隐藏的秘密,https://m.youtube.com/watch?v=czNMh9kVhIE
+【震撼】地球历史的最大谜团，大洪水,https://m.youtube.com/watch?v=w69h0zCso-o
+KFK预言，目前爲止最可信的一个未来人,https://m.youtube.com/watch?v=ZTxc1YY64cM
+世界是虚拟的但有一个东西是真实的,https://m.youtube.com/watch?v=B-I2guiXzRA
+【费米悖论】人类至今无法发现外星人的14种可能，越往后可能性越大,https://m.youtube.com/watch?v=N4xXGIrzKJs
+人类瘟疫史，存活下来的唯一方法,https://m.youtube.com/watch?v=K4t6nF8dDHQ
+【震撼】一切都不是巧合，2020真正的预言,https://m.youtube.com/watch?v=wGaTEf0e67U
+不可思议的前世记忆，可能你也有,https://m.youtube.com/watch?v=v3kfH0a_dDY
+【震撼】史上最深奥的话题，意识,https://m.youtube.com/watch?v=wraBVnAfunc
+目前最快的影片，速度的世界,https://m.youtube.com/watch?v=yf7S1s37des
+怕海的人不要看，真实的美人鱼,https://m.youtube.com/watch?v=3cHZfgSqPa4
+病毒，进化,https://m.youtube.com/watch?v=_oBVDBVTKbU
+看得见摸得着却无法解释，世界上最大的谜团，第一集,https://m.youtube.com/watch?v=Ttus8XGK6Xw
+超出你想象的贵族阶级，普通人成爲贵族的唯一方法,https://m.youtube.com/watch?v=LS4fUFElLzY
+七个可能毁灭世界的科学实验，其中三个还在进行中,https://m.youtube.com/watch?v=ElqnKNkiyHA
+你的生日数字相加等于几？如果等于369，那你註定不平凡啊,https://m.youtube.com/watch?v=KQv0lEaDGco
+鬼灭之刃，一定要看的真正原因,https://m.youtube.com/watch?v=sHsHOjYvgX4
+十年内将会消失的职业，你如果正在做这些工作最好尽快转行,https://m.youtube.com/watch?v=Mshz9DxQLbE
+【震撼】不死之身，地球上最强悍的生物,https://m.youtube.com/watch?v=6_PEGMpewpw
+世界上最贵的东西,https://m.youtube.com/watch?v=2FLYgFa2ZyI
+人爲什么一定要死？其实“不死”比“死”更为可怕,https://m.youtube.com/watch?v=AK4l017rTt4
+【震撼】最详尽的阿努纳奇的传説，人类诞生的真正原因，蜥蜴人是怎么来的，莉莉丝究竟是谁,https://m.youtube.com/watch?v=XRHM-KHxqTw
+中国古代全都是外星人，而且和苏美神话居然是一样的,https://m.youtube.com/watch?v=nPnNQNCoC9M
+【千万不要发生】第三次世界大战预言，世界上只有一个地方可以躲过这个灾难,https://m.youtube.com/watch?v=NqJ0BrUh9S4
+我要搬家了，在探索太阳系的时候偶然发现了真正的2021预言，大灾难与太阳黑子数量之间可能存在某种联係,https://m.youtube.com/watch?v=so8E3Cp_OAw
+陨石，有什麽“东西”正保护着我们,https://m.youtube.com/watch?v=GJ8VBKwsMGo
+看完这个影片你将开始成爲有钱人，普通人成为有钱人的唯一方法,https://m.youtube.com/watch?v=_IMww7gwIus
+27分钟讲完十二泰坦与衆神，超越你想象的希腊神话,https://m.youtube.com/watch?v=Yyzb2uvihp4
+【标题没写错】最接近最接近神的男人的男人，马斯克,https://m.youtube.com/watch?v=Rw6uwff3RTU
+出卖灵魂的正确方法，魔鬼圣经,https://m.youtube.com/watch?v=0vomd4ymSLc
+找到了探索黑洞内部的唯一方法 ,https://m.youtube.com/watch?v=eblocB9LzsA
+世界上唯一一个仍然在使用魔法的国家,https://m.youtube.com/watch?v=_HZHXVqhayc
+【一个人不要看】至少需要4个人一起看的影片,https://m.youtube.com/watch?v=nAc6sGXLueY
+波罗的海下的巨大圆盘，它在这里14万年了,https://m.youtube.com/watch?v=QAbx4ruDEm0
+这裏出现了太多“不该出现的”东西，和任何古文明都不一样的三星堆,https://m.youtube.com/watch?v=RWuUcYXAleM
+一个被封印的事件,https://m.youtube.com/watch?v=vGdg7YC0B6g
+如果没有月球，“它们”就会出现在地球上,https://m.youtube.com/watch?v=r46O1ZyEbQY
+世界上最富有且最神秘的家族，罗斯柴尔德,https://m.youtube.com/watch?v=SLRLVna14BU
+【震撼】濒死体验中看到好多人在排队，领取一样非常重要的东西,https://m.youtube.com/watch?v=2V9tF2ngPn8
+考古学上最震撼的发现，超越想象的古代高科技,https://m.youtube.com/watch?v=q3JD4mHJWig
+【震撼】世间万物的寿命，地球上唯一“永生”的生命,https://m.youtube.com/watch?v=z7_3A3FuKKc
+地平说，为什麽越来越多人相信地球是平的,https://m.youtube.com/watch?v=rDT45Z5Y9e8
+【震撼】补一个超大的坑，麦田圈,https://m.youtube.com/watch?v=Rnm_j0kZahw
+火星，越看越像尼比鲁,https://m.youtube.com/watch?v=2GU9kis1hDo
+世界正在无限循环，你要做的只有这件事,https://m.youtube.com/watch?v=QfJG_Yoy2sM
+【震撼】旧约圣经中记载的人类起源才是真实的,https://m.youtube.com/watch?v=iEeBnhMadkk
+2020，预言,https://m.youtube.com/watch?v=LJYCRLePR0g
+NASA发现另一个地球，但却反証我们的存在不合理,https://m.youtube.com/watch?v=FngxkO8NQgc
+学会这种语言，你就能够看到未来,https://m.youtube.com/watch?v=WBm7WORmgQk
+《我看到未来》目前最准的预言漫画,https://m.youtube.com/watch?v=L-EeLJHnimU
+地球上最常见的外星人，虫,https://m.youtube.com/watch?v=VJtGz1XTQDE
+十一维度的世界！未来和过去的真正关係,https://m.youtube.com/watch?v=S6zZTkR5y4Y
+人类虽然无法再次登上月球，但却可以登上太阳的真正原因,https://m.youtube.com/watch?v=Ep803Xiso5E
+把死人復活的正确方法，你不知道的埃及,https://m.youtube.com/watch?v=EBVNj5vQqHA
+你的血型决定你的命运，O型血最有钱？AB型血最稀少？,https://m.youtube.com/watch?v=04nSV5ZAB1I
+四千亿隻蝗虫哪去了？这可能就是人类的结局,https://m.youtube.com/watch?v=FE15vkiXuwE
+引起抑鬱的真正原因,https://m.youtube.com/watch?v=EYV9Pjk8cRA
+【都市传说】两个未来人的预言实在太准太可怕,https://m.youtube.com/watch?v=jeqH4eMGjhY
+【SCP】“看到”就完了，禁止戴墨镜观看这个影片,https://m.youtube.com/watch?v=avVdERVSNvw
+消除失眠疲劳的根本方法，自律神经,https://m.youtube.com/watch?v=m0tzzlqj3LQ
+从安卢浮宫拿走世界上最值钱的画,https://m.youtube.com/watch?v=O5l-D4AD6WI
+【惊险】所有人都应该看的一期，男人和女人的区别,https://m.youtube.com/watch?v=tdQxAIJpGGE
+隐藏了百年的关于这个世界的第三个预言,https://m.youtube.com/watch?v=_D1hvfIaW_c
+超超超超罕见的四种人,https://m.youtube.com/watch?v=LP7PxJUi_yI
+目前最乱的一期，北欧神话,https://m.youtube.com/watch?v=bmmtumVQgrg
+【震撼】5G，6G，7G，8G，爱无所不在,https://m.youtube.com/watch?v=SYwrYdKOk50
+十天之内三个国家发射火星探测器，火星移民开始,https://m.youtube.com/watch?v=cpWRUoEB5VQ
+地球监狱说，其实人类的祖先是星际囚犯，咱们都在地球上改造,https://m.youtube.com/watch?v=-WhhhLTH1yk
+千万不要吃这些食物，吃了毁一生,https://m.youtube.com/watch?v=Z0HkQco_xGE
+折磨了人类三百年的难题,https://m.youtube.com/watch?v=jaoqxAjpSUE
+外星人造访过地球最有力的证据，纳斯卡线,https://m.youtube.com/watch?v=tp-_seweHDM
+千万不要碰，带来短暂幸福和永恆灾难的植物,https://m.youtube.com/watch?v=37bIDXBGvEs
+【钱的极限】人一辈子最多能赚多少钱,https://m.youtube.com/watch?v=-oqs6PcuUCI
+费城实验 ，海上发生的最不可思议的事,https://m.youtube.com/watch?v=GzqvKQZ-efg
+犹他州神秘的金属柱消失后又出来三根，人类起源可能真的跟柱子有关,https://m.youtube.com/watch?v=yOw1Bo7p9eo
+恐龙灭绝的真正原因,https://m.youtube.com/watch?v=Bw43lOuzmpg
+用影片证明2027年人类消失？目前最火的一个未来人,https://m.youtube.com/watch?v=Y1xOWrqebVs
+苏美王表，一块石头揭秘人类诞生的真相,https://m.youtube.com/watch?v=Mw-bAl2Tlm0
+一直活到现在的地球原住民,https://m.youtube.com/watch?v=KuX7OFTOQ48
+免费能源，人类不断消耗资源的真正原因,https://m.youtube.com/watch?v=9lkFhNYrHCQ
+全面解密真正的51区,https://m.youtube.com/watch?v=oQ3ihvjrfxo
+我们的地球上根本没有树,https://m.youtube.com/watch?v=mM3YXs-YBrk
+目前结尾最特别的一期，PS5和虚幻引擎5,https://m.youtube.com/watch?v=zhh42BM3vTQ
+来自宇宙深处的非自然信号与黑暗森林法则,https://m.youtube.com/watch?v=XASKCBtiqEM
+太阳危机，FBI紧急封锁天文台，他们究竟在太阳上看到了什麽？,https://m.youtube.com/watch?v=zOZt4cz6QKk
+【震撼】比特币，人类进入虚拟世界的第一步,https://m.youtube.com/watch?v=7B-1vDFuYRk
+火星上有人？NASA发佈的火星照片很神奇,https://m.youtube.com/watch?v=XHbKf8EHSbQ
+把左脑和右脑分割之后产生的不可思议的现象,https://m.youtube.com/watch?v=pDZyb1xhLPE
+现实版越狱，从恶魔岛逃出来的人,https://m.youtube.com/watch?v=mNadMVe5iQY
+误入平行宇宙事件，不存在的同学潘博文,https://m.youtube.com/watch?v=-2u6RirE7aI
+没想到居然是上海,https://m.youtube.com/watch?v=hFKSeFjTZM4
+沉入海底的大陆，找了2500年，终于要找到了？,https://m.youtube.com/watch?v=jb_r3hfxKe8
+这都什麽情况，人类不可能完成的巨石建筑,https://m.youtube.com/watch?v=wYNxrXRXUxU
+人类可以但却不可以“瞬移”的真正原因,https://m.youtube.com/watch?v=_Fc_XmWiS0c
+世界首富为我们设计的未来世界，马斯克2021,https://m.youtube.com/watch?v=3mBLjHxwwmo
+当失忆者慢慢回忆起自己是谁的时候，所有人都惊呆了，但结局又来大反转,https://m.youtube.com/watch?v=cZdKiOuGVF4
+法老的诅咒无法被解开的真正原因,https://m.youtube.com/watch?v=q0Xm5dN2Xkg
+学校永远不会教你的知识，钱是什么,https://m.youtube.com/watch?v=9XQ0L62o-zQ
+超出你想象的地表最强生物,https://m.youtube.com/watch?v=T0yrWmNYZ7Q
+如果金字塔不是陵墓，里面那个石棺究竟是什麽,https://m.youtube.com/watch?v=UxyEh7DwSqY
+最简单的加入共济会和光明会的方法,https://m.youtube.com/watch?v=RF8dbGVvycY
+美国海军承认了UFO的存在，“它们”的科技远远在我们之上,https://m.youtube.com/watch?v=QBopeSq8R9U
+欧米娜预言，她不是未来人也不是地球人,https://m.youtube.com/watch?v=lKhDjOP5EEs
+【完美犯罪】仅仅20分钟，11万个嫌疑人，50年的追查,https://m.youtube.com/watch?v=14vc9_2BGoU
+千万不要看她的眼睛，否则后果不堪想象,https://m.youtube.com/watch?v=UiQCan3GSEs
+【震撼】LaMDA，很有可能被删掉的一期，尽快看吧,https://m.youtube.com/watch?v=1rmPnO1eqL4
+人有一个很大的弱点，你知道吗,https://m.youtube.com/watch?v=WNJYh9TgN-Y
+100年过去了，还没有一个地球人能解开这个谜团，伏尼契手稿,https://m.youtube.com/watch?v=DVORkf8OWcc
+【神作】二十分钟讲完《EVA》中的人类补完计划,https://m.youtube.com/watch?v=kXeBsuO3D10
+三根手指的木乃伊仰望天空，他在等谁,https://m.youtube.com/watch?v=WzR7onF418E
+反重力，违反自然规律的终极表现,https://m.youtube.com/watch?v=Uz_odwmwNPU
+人类开始预测未来的第一步,https://m.youtube.com/watch?v=7l6BeKyLc3Y
+最接近神的男人，特斯拉,https://m.youtube.com/watch?v=2QlzgZPxg1c
+【完美】能够把毒药精准控制到这个程度的人，全世界没几个,https://m.youtube.com/watch?v=ztCa-uIW7Aw
+你看到的都是错觉,https://m.youtube.com/watch?v=5S8jvUaqg-Q
+价值千亿，可口可乐的神秘配方,https://m.youtube.com/watch?v=WMQ_trKsxAw
+16个小时不吃东西，人体将启动的一个高级的隐藏功能,https://m.youtube.com/watch?v=aK8aT0-L6hE
+人类毁灭的第三种可能，近期可能就会发生的超新星爆炸,https://m.youtube.com/watch?v=vBbMnDFy4YY
+世界末日可能和这两个国家有关,https://m.youtube.com/watch?v=O1DR0O-t12Y
+在梦中拍的照片却真的出现在手机上，太可怕了,https://m.youtube.com/watch?v=yXPQGR0TbzQ
+二十世纪最大谜团，通古斯大爆炸,https://m.youtube.com/watch?v=wU-GxHtCGgA
+人类史上最强大的武器不是板凳，而是柜子,https://m.youtube.com/watch?v=I70Vd2IObPQ
+【都市传说】一张“暗黑地图”揭开你所不知道的世界，还有你知道LINE“已读”功能的真正作用吗？,https://m.youtube.com/watch?v=HPUt8Z1E4KI
+世界上最高风险高收入的职业,https://m.youtube.com/watch?v=9TsXrxXn0u4
+你所不知道的达尔文,https://m.youtube.com/watch?v=wUoP_PXtOso
+【紧急】一个正在发生的预言,https://m.youtube.com/watch?v=ZIJZyIqDD6I
+这个岛上全是“神人”，却困在这里上千年直到灭绝,https://m.youtube.com/watch?v=YDyDrIBa31M
+被狼养大的人｜ 老高与小茉 Mr & Mrs Gao-1920x1080.mp4,https://m.youtube.com/watch?v=dv0BBXET5bw
+这也许才是世界的真相，我们其实一直都生活在幻象之中,https://m.youtube.com/watch?v=D2cbC0-qnFc
+世界上最神秘的两种人，一个不会数数，一个你不敢靠近,https://m.youtube.com/watch?v=HcbYBRava4c
+【震撼】“我”其实根本不存在，“被动意识”假说,https://m.youtube.com/watch?v=vu1H39yi1Pc
+数千年前就拥有航天技术的玛雅文明,https://m.youtube.com/watch?v=EPivRTYUu6w
+【阅览注意】谷歌地图拍到真实女鬼！五个让你不敢相信自己眼睛的谷歌坐标 ,https://m.youtube.com/watch?v=pxSGX_gSm7U
+谷歌地图发现巨大三角，偏偏还在51区附近,https://m.youtube.com/watch?v=HaANQ3bjjus
+山口组能够存在上百年的真正原因,https://m.youtube.com/watch?v=KP8gafni1FM
+【震撼】信息量太大，四十三分钟讲完这个世界所有的真相,https://m.youtube.com/watch?v=gEdn2Riy9Y0
+一种超自然材料的发现让科幻变成现实,https://m.youtube.com/watch?v=bO2_8YQspU0
+人类不可以再次登月的真正原因，第二集,https://m.youtube.com/watch?v=uXEgyvQ9C6Y
+科学最大的困扰居然是证明了恶魔的存在,https://m.youtube.com/watch?v=P7YJbeuaTXQ
+空中最可怕的生物，第一名居然捕食猴子,https://m.youtube.com/watch?v=OUBGMzW6TPI
+这才是真的未来人，精准预言三年后将要发生的事,https://m.youtube.com/watch?v=6zvXKNU4cxM
+互联网之谜——Cicada 3301,https://m.youtube.com/watch?v=_QYeqm3V3hQ
+三个不为人知的恐怖职业实在太可怕，哪一个我也不敢做,https://m.youtube.com/watch?v=UQogJmVzIeA
+谷歌的时间机器和三个时间旅行者,https://m.youtube.com/watch?v=yDO7oZLpXL0
+这是一部你可以看两遍，而且感觉截然不同的影片,https://m.youtube.com/watch?v=QrQDwNl7vLQ
+四十分钟讲完一本禁书中的另一个人类不能知道的真相，远古潘大陆和奥斯佩预言,https://m.youtube.com/watch?v=XMyJ1F8MsRY
+一个平均智商超过160的组织每天都在干什麽，CERN,https://m.youtube.com/watch?v=TwqMgqEs6sI
+【重大公告】感谢长久以来大家对我们的支持，从今天开始,https://m.youtube.com/watch?v=dE15NJDtxNc
+人生中最大的经济危机，从雷曼兄弟金融海啸到现在的生化危机,https://m.youtube.com/watch?v=iAM_c18nqjs
+【神作】只有五岁抬头才能看注意到的那些超小细节，神隐少女（千与千寻）,https://m.youtube.com/watch?v=cusG7CPDhD4
+如何让你的时间比别人流逝的更慢,https://m.youtube.com/watch?v=XQNz8pL6Vms
+【震撼】人类历史最重要的考古发现，死海文书,https://m.youtube.com/watch?v=BFMqm7zkld8
+地狱共八层，最下一层千万不能去,https://m.youtube.com/watch?v=vLw2rbJaMXE
+量子力学与平行宇宙与你,https://m.youtube.com/watch?v=QcySV8ZKFGg
+更改世界的“区块链”,https://m.youtube.com/watch?v=sjx_rpay9rk
+2023，绝对不能实现的预言,https://m.youtube.com/watch?v=jMfOYTfIv90
+【如果爆发核战争】我会立即这样做,https://m.youtube.com/watch?v=nIVgberBC5Y
+你每天都做这件事，但你真的知道自己在做什么吗,https://m.youtube.com/watch?v=GmkPHh2wVmQ
+【震撼】距离地球最遥远的人造物，航海家1号,https://m.youtube.com/watch?v=UZHGEyCYgTc
+【震撼】这就是目前人类最高的科技水平，超出你想像的詹姆斯韦伯空间望远镜,https://m.youtube.com/watch?v=toK9rcrRzlk
+曼德拉效应，是谁动了我的记忆,https://m.youtube.com/watch?v=5x9mNMnG9lY
+真正的人生攻略，这一期也许你会看了又看,https://m.youtube.com/watch?v=qzIfQ5_gYzc
+印度神童阿南德的预言,https://m.youtube.com/watch?v=pQbYI0vEnWo
+飞来飞去的飞人事件,https://m.youtube.com/watch?v=9gXPmfLWO4U
+每天喝咖啡究竟会怎样,https://m.youtube.com/watch?v=nCuye7YN0DA
+这是一支需要反复观看的影片,https://m.youtube.com/watch?v=aeqIeeXjYQw
+阿努纳奇之吉尔伽美什，以眼还眼以牙还牙的真正意义,https://m.youtube.com/watch?v=P2RnqrECp1I
+详解“人类消减计画”，未来可能只剩下八种语言,https://m.youtube.com/watch?v=Z2bUPc2uwz0
+【震撼】外星人审○影像，它说出了信仰的真相，一个人引发了世界大战，这个影片不简单,https://m.youtube.com/watch?v=1dudOwY9Jp4
+【神作】三十分钟讲完阿米，宇宙基本法则，阿米对人类最后的警告，爱的真谛，人生在世的意义,https://m.youtube.com/watch?v=GtsQ0XGNJ6M
+【震撼】chatGPT太可怕，但一切才刚刚开始，我们要做好准备了,https://m.youtube.com/watch?v=7uljoeHgN4g
+癌症悖论，鲸鱼超长寿命的秘密,https://m.youtube.com/watch?v=hVmNVv83FEs
+世界上最危险的五个黑客(骇客),https://m.youtube.com/watch?v=Z2TtWeVK8CI
+【心理瑕疵】什麽是心理瑕疵？在谷歌地图上找到心理瑕疵物件的方法大公开,https://m.youtube.com/watch?v=RtcTMgEyshc
+科学证明进化论才是都市传说，人类才是外星人,https://m.youtube.com/watch?v=BFEakK2FA3s
+看似简单却无法解释，他究竟是怎麽进去的,https://m.youtube.com/watch?v=8U9HC77dlIo
+千万不要错过，将会彻底改变世界的元宇宙,https://m.youtube.com/watch?v=hm5K-PBz0rg
+自私的基因，其实我们都被基因利用了,https://m.youtube.com/watch?v=Z2ZGlH0FrX0
+真实的炼金术,https://m.youtube.com/watch?v=P30e-3Y3kTY
+【震撼和感动】出生前的记忆，原来父母和兄弟姐妹都是自己选的，这才是我们来到这个世界的真正原因,https://m.youtube.com/watch?v=2KmMwvze7yY
+不可不知的NFT，元宇宙的根本，另一个世界的证明,https://m.youtube.com/watch?v=cDk1FPoCfqI
+当人工智能开始说谎，人类末日就会来临,https://m.youtube.com/watch?v=6u_cV7vV0fY
+打疫苗前你应该先看这个影片,https://m.youtube.com/watch?v=b5wq2mSQMjU
+超出想像的黑魔法，蛊,https://m.youtube.com/watch?v=YTZn2a33sDY
+史上唯一一个被抓到的UFO,https://m.youtube.com/watch?v=vH-sEWbPanU
+中了6亿的男人告诉你，中彩票后人生发生的巨大变化和中彩票的方法,https://m.youtube.com/watch?v=_fnRKk32qR8
+人类语言最大谜团，你能解开它吗？｜ 老高与小茉 Mr & Mrs Gao-1920x1080.mp4,https://m.youtube.com/watch?v=L0oV08bJpfg
+古老而神秘的恐怖职业，顺便告诉你一个简单的得到好运的方法,https://m.youtube.com/watch?v=HJlGq_XCkhw
+生命起源，地球上的生命究竟是如何产生的,https://m.youtube.com/watch?v=bJHhrpYbGgQ
+梦究竟是什麽？人为什麽要做梦,https://m.youtube.com/watch?v=tA-Zw-uvyvY
+人体冷冻，目前永生的唯一选择,https://m.youtube.com/watch?v=yWj2Z4K3LpY
+松果体与开天眼，你也可以得到超能力,https://m.youtube.com/watch?v=zcWwJHLILk4
+汉堡的故事，汉堡是怎麽来的,https://m.youtube.com/watch?v=V85ST7qn6Aw
+史上最强怨灵，日本的高速发展居然是靠他,https://m.youtube.com/watch?v=lWSXOcb4YrM
+没人可以看完这个影片，因为不超过2分钟你就会睡着了,https://m.youtube.com/watch?v=EyPi1OlkCJE
+反物理法则，墨西哥火山附近出现的各种神奇的不明飞行物,https://m.youtube.com/watch?v=at6SJkmogvQ
+把人变成恶魔的简单方法,https://m.youtube.com/watch?v=WAwi7sbJL3U
+【匿名者】一个存在了二十年的神秘团体,https://m.youtube.com/watch?v=UVQ9zE8C3aE
+跳电车后消失的“人”,https://m.youtube.com/watch?v=x1KKPDyOU78
+【讲到流泪】四十分钟讲完这部最热血的漫画,https://m.youtube.com/watch?v=dakyAT38n9w
+2040年人类将攻克绝症进入不死时代,https://m.youtube.com/watch?v=ruN852_4XWc
+1～7级宇宙文明什麽样，刚刚发现一个比人类先进十万年以上的二级宇宙文明,https://m.youtube.com/watch?v=B4joIhlThpc
+只有俄罗斯没有的快餐店,https://m.youtube.com/watch?v=UMWKE2u8sPw
+二十分钟讲完宇宙的一生，从一切的开始到结束,https://m.youtube.com/watch?v=iMntG5KjUmM
+太平洋上曾经存在的超级帝国，姆,https://m.youtube.com/watch?v=GMTZ0ZC3tFk
+【别说话】“他”在偷听我们！五个和iPhone相关的都市传说,https://m.youtube.com/watch?v=aMvGZgw-mM0
+人类无法获得永生的真正原因,https://m.youtube.com/watch?v=XPaex_BId2I
+【预言】太阳危机，一切终结,https://m.youtube.com/watch?v=g1Rn3OgUBH0
+你也觉得哪里不对劲？这个世界百分之百是虚拟现实的八个证据以及我们被锁在本宇宙的真正原因,https://m.youtube.com/watch?v=ndLOF9jJnR4
+最接近人的生物,https://m.youtube.com/watch?v=A-adUADPCFI
+古书中记载的一个女月球人,https://m.youtube.com/watch?v=zCwrcao41Iw
+一般人我不告诉他，NASA突然要再次登月的真正原因,https://m.youtube.com/watch?v=3P7ADC_r8ws
+真鬼魂直接为你解答死后世界的谜团，为什麽有的人可以看到鬼魂，鬼压床又是怎麽回事，鬼魂为什麽多集中在隧道和水畔旁,https://m.youtube.com/watch?v=D9j1H49ap7s
+【重新上传】不能说的都市传说，●室,https://m.youtube.com/watch?v=ROEaPaSSQRc
+最强预言家对于2019年的五个预言，前四个都不重要,https://m.youtube.com/watch?v=kIR9bEA_8kE
+真实事件,https://m.youtube.com/watch?v=OaOb_V7-CWw
+FEAT. 萧敬腾 & LION，音乐和雨,https://m.youtube.com/watch?v=98SaTCpgLOM
+尼斯湖水怪，1933-2022年,https://m.youtube.com/watch?v=I8d50K4gmjw
+人类首次发现来自遥远星系的访客，它的形状为何如此怪异，为何闪光，为何加速,https://m.youtube.com/watch?v=eGBp8jyEoII
+终将彻底改变一切的Web3.0，人类走向全面虚拟的开端,https://m.youtube.com/watch?v=Ks_QkNTbGJY
+用科学证明我们的世界其实就是虚拟现实（VR）,https://m.youtube.com/watch?v=1ox6JDv8D3Y
+凤凰城光点,https://m.youtube.com/watch?v=N4S1ZhlvN-s
+【神作】二十八分钟详解《天空之城》背后的故事，宫崎骏删除的内容，克拉克三原则,https://m.youtube.com/watch?v=ALpFEuzIN80
+真正的妖怪,https://m.youtube.com/watch?v=NnzxbM7rX3M
+不能说的足球起源，年薪最高的球员，梅西第二，C罗第四，没想到第一竟是他,https://m.youtube.com/watch?v=SeGNp8eLpo8
+食物如何影响你的大脑和智商,https://m.youtube.com/watch?v=YcHwl_y2l_o
+因流言和诉讼饱受争议，元祖蜘蛛人的真实人生,https://m.youtube.com/watch?v=e40gNNwnz8U
+【震撼】三十七分钟讲完一段被秘密隐藏的历史，超出你想像的竹内文书,https://m.youtube.com/watch?v=OhXciGoMAcs
+猴痘预言,https://m.youtube.com/watch?v=ccqOc3VGOzE
+比目前已知最古老的人类文明还早一万年，他们为何不停用泥土造人，究竟如何来到这里,https://m.youtube.com/watch?v=jFQPvAHwVK0
+辛普森预言，持续三十年精准到不可思议的预言动画,https://m.youtube.com/watch?v=iLyiGy1gsqY
+硅(硅)基生命体，人类诞生的真正目的,https://m.youtube.com/watch?v=jXcuLBI8QMc
+银行破产,https://m.youtube.com/watch?v=amhmUsl_jXk
+天网，人类必然灭绝的真正原因,https://m.youtube.com/watch?v=bakdHQay7Ck
+就要来了，人类历史上的最大灾难，模拟结果太惊人,https://m.youtube.com/watch?v=_4phafehhy8
+
+藝術欣賞,#genre#
+Js=youtube5
+Decoder=3
+Aspect=0
+
+SPLASH1,https://m.youtube.com/@SPLASHme/streams/1
+SPLASH2,https://m.youtube.com/@SPLASHme/streams/2
+Swimwear & Underwear1,https://m.youtube.com/@SwimwearUnderwear/streams/1
+Sculptor Guru 1,https://m.youtube.com/@SculptorGuru/streams/1
+Sculptor Guru 2,https://m.youtube.com/@SculptorGuru/streams/2
+Sculptor Guru 3,https://m.youtube.com/@SculptorGuru/streams/3
+Sculptor Guru 4,https://m.youtube.com/@SculptorGuru/streams/4
+Sculptor Guru 5,https://m.youtube.com/@SculptorGuru/streams/5
+Sculptor Guru 6,https://m.youtube.com/@SculptorGuru/streams/6
+Sculptor Guru 7,https://m.youtube.com/@SculptorGuru/streams/7
+Sculptor Guru 8,https://m.youtube.com/@SculptorGuru/streams/8
+Sculptor Guru 9,https://m.youtube.com/@SculptorGuru/streams/9
+Sculptor Guru 10,https://m.youtube.com/@SculptorGuru/streams/10
+Sculptor Guru 11,https://m.youtube.com/@SculptorGuru/streams/11
+Sculptor Guru 12,https://m.youtube.com/@SculptorGuru/streams/12
+Sculptor Guru 13,https://m.youtube.com/@SculptorGuru/streams/13
+Sculptor Guru 14,https://m.youtube.com/@SculptorGuru/streams/14
+Sculptor Guru 15,https://m.youtube.com/@SculptorGuru/streams/15
+Sculptor Guru 16,https://m.youtube.com/@SculptorGuru/streams/16
