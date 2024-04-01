@@ -2134,8 +2134,6 @@ africanews非洲新聞,https://m.youtube.com/@africanews/streams/1
 
 輪播-【卡通】,#genre#
 Js=youtube5
-Decoder=3
-Aspect=0
 
 木棉花闔家歡1-【我們這一家】,https://m.youtube.com/@Muse_Family/streams/1
 木棉花闔家歡2-【中華一番】,https://m.youtube.com/@Muse_Family/streams/2
@@ -2162,8 +2160,6 @@ Disney Junior 7,https://m.youtube.com/@disneyjunior/streams/7
 
 輪播-【戲劇】,#genre#
 Js=youtube5
-Decoder=3
-Aspect=0
 
 愛爾達影劇1-【去有風的地方】,https://m.youtube.com/@eltadrama/streams/1
 愛爾達影劇2-【謝謝你醫生】,https://m.youtube.com/@eltadrama/streams/2
@@ -2262,8 +2258,6 @@ Ambient Renders 16,https://m.youtube.com/@AmbientRenders/streams/16
 
 Shorts,#genre#
 Js=youtube5
-Decoder=3
-Aspect=0
 
 Shorts(每次不同),https://m.youtube.com/shorts
 Shorts(目前重播),https://shorts-now
@@ -2316,6 +2310,8 @@ Shorts(前一個),https://shorts-pre
 細講【弟子規】第41集,https://m.youtube.com/watch?v=JcML0dawuuc
 
 老高與小茉 熱門影片,#genre#
+Js=youtube5
+
 超出你想象的深海世界,https://m.youtube.com/watch?v=dNmwPWRdv_0
 【神作】四十分钟讲完三体,https://m.youtube.com/watch?v=2vowHo2y-hI
 目前第二长的一期，多重人格分裂,https://m.youtube.com/watch?v=QAGDGja7kbs
