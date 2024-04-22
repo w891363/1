@@ -246,11 +246,11 @@ CHC家庭影院,http://127.0.0.1/live.m3u8?js=gehua&id=CHCHD_2000
 三沙卫视,http://127.0.0.1/live.m3u8?js=gehua&id=SanShaSD_800
 三沙卫视,http://127.0.0.1/live.m3u8?js=gehua&id=SanShaHD_2000
 三沙卫视,http://127.0.0.1/live.m3u8?js=gehua&id=SanShaHD2_6000
-足球频道HD,http://127.0.0.1/live.m3u8?js=gehua&id=ZuQiuHD_6000
-北京文艺HD,http://127.0.0.1/live.m3u8?js=gehua&id=BTVwenyiSD_1200
-北京文艺HD,http://127.0.0.1/live.m3u8?js=gehua&id=BTVwenyiHD_6000
+足球频道,http://127.0.0.1/live.m3u8?js=gehua&id=ZuQiuHD_6000
+北京文艺,http://127.0.0.1/live.m3u8?js=gehua&id=BTVwenyiSD_1200
+北京文艺,http://127.0.0.1/live.m3u8?js=gehua&id=BTVwenyiHD_6000
 北京纪实科教,http://127.0.0.1/live.m3u8?js=gehua&id=BTV3SD_800
-北京纪实科教2,http://127.0.0.1/live.m3u8?js=gehua&id=BTV3HD_2000
+北京纪实科教,http://127.0.0.1/live.m3u8?js=gehua&id=BTV3HD_2000
 北京影视,http://127.0.0.1/live.m3u8?js=gehua&id=BTV4SD_1200
 北京影视,http://127.0.0.1/live.m3u8?js=gehua&id=BTV4HD_6000
 北京财经,http://127.0.0.1/live.m3u8?js=gehua&id=BTV5SD_800
