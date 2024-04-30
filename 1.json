@@ -7,6 +7,7 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eR1zxNO/1/main/1.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "jar": "./5p6B6Ie0/js/jizhi.js"
     },
     {
       "name": "2",
