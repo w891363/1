@@ -1098,10 +1098,70 @@ CCTV8K,http://dl.lck.xyz:4000/udp/239.253.43.106:5146
 
 #jizhi
 Js=jizhi
-翡翠台,http://?s=ouhau&id=653e4c02000ea0440c8c63fd3e5d709d
 翡翠台,http://?s=ouhau&id=653e4c6d000965ef0c8e049f4be34103
-J2,http://?s=ouhau&id=653e4cda0007743f0c8fade86d132b26
+翡翠台,http://?s=ouhau&id=653e4c02000ea0440c8c63fd3e5d709d
+TVB明珠,http://?s=ouhau&id=602f1ba9000814efa6f2970333d309d9
+TVB明珠,http://?s=ouhau&id=611d99f3000116024a845bb9627404c9
 J2,http://?s=ouhau&id=653e4d3e000b344f0c91357e73163f82
+J2,http://?s=focus&id=641021800006a527985cd1244315142d
+J2,http://?s=ouhau&id=611d989d0005244a4a7f24d111282ffb
+J2,http://?s=ouhau&id=5ffbee4900066c0ddf0b8b84423c06f3
+NOW体育台,http://?s=focus&id=6410211d00048968985b4de16d6e5b6a
+NOW体育台,http://?s=focus&id=64b8f92b000089e02be334b114c32320
+NOW新闻台,http://?s=focus&id=6410254c0006df63986ba60f292a7500
+NOW直播台,http://?s=ouhau&id=655fa52d000c3fc98ed0353c0e327e63
+NOW直播台,http://?s=focus&id=6417e77b0007feb1b6b9f4ca25bc6e04
+NOW爆谷台,http://?s=ouhau&id=65423beb00082fd01bed887e0ae23bbf
+NOW爆谷台,http://?s=ouhau&id=657db17a000c6768042fc38047b34ee4
+NOW财经台,http://?s=ouhau&id=6256e47a0007a6bb0665fa1971252f50
+NOW财经台,http://?s=focus&id=641020d00004bf91985a212731011c3c
+NOW华剧台,http://?s=ouhau&id=64d26915000887bf671ffe127ecd0115
+NOW华剧台,http://?s=ouhau&id=6519bc200001e7b37dbb01f124075086
+NOW剧集台,http://?s=ouhau&id=63ed3e1500077d30e7f449055a0846ce
+NOW剧集台,http://?s=ouhau&id=657dcad9000eebf80492df3c33e35790
+NOW新闻台,http://?s=ouhau&id=653e4f3d0003bdbf0c98ffaf583a6e3a
+NOW新闻台,http://?s=focus&id=6410254c0006df63986ba60f292a7500
+NOW星影台,http://?s=ouhau&id=65423b7b00047dbb1bebd20b45f374d2
+NOW星影台,http://?s=ouhau&id=657db120000499e9042e61f04c0d03cb
+NOW星影台,http://?s=ouhau&id=5fed31e7000736e2a57c8f4c14d55d36
+NOW星影台,http://?s=focus&id=64312ace000b3d0b196880d9185f2371
+NOW紫金台,http://?s=ouhau&id=6427e42c00084703cd0c176f58dd37f1
+NOW紫金台,http://?s=ouhau&id=657dbdbc0000dc5e045fa25a2ac54c31
+NOW爆谷台,http://?s=focus&id=641af90c000328bac2b691f11db2274a
+NOW星影台,http://?s=focus&id=641af926000cc2b9c2b6f9f75c8d2b97
+MYTV SUPER,http://?s=focus&id=64124d230009d2bba0d746ad78416db2
+MYTV SUPER,http://?s=focus&id=6410219e0000704b985d44bd2a501d47
+MYTV SUPER,http://?s=ouhau&id=645f6a3a0006360ca5eec1c509a8654f
+TVB 1,http://?s=ouhau&id=63efe0de000858baf2402a646c573e1b
+TVB 1,http://?s=ouhau&id=63efe07e000c1db2f23eb46a4e00518a
+TVBｅ,http://?s=ouhau&id=63efe2e2000d23b5f2480b4125294b9a
+TVB J2,http://?s=ouhau&id=63efe1bd00026ea1f2438ffa60320a60
+TVB J2111,http://?s=ouhau&id=653e4cda0007743f0c8fade86d132b26
+TVB无线新闻,http://?s=ouhau&id=63efe2a100034c82f2470ad419e43975
+TVB无线新闻,http://?s=ouhau&id=653e4818000b73240c7d19181340415e
+TVB无线新闻,http://?s=ouhau&id=653e4703000daead0c78dfb07723484e
+TVB娱乐新闻,http://?s=focus&id=64124d81000ccc51a0d8b69f1a1a762b
+TVB娱乐新闻,http://?s=focus&id=64102219000c6f74985f28485a5a5799
+TVB娱乐新闻,http://?s=ouhau&id=5fe7f68d000e73d9910d2a86341258f7
+TVB功夫台,http://?s=focus&id=6411291b0004b01b9c62861646d00929
+TVB功夫台,http://?s=ouhau&id=653e4a3f000b1abb0c85815c35fa0803
+TVB华语剧,http://?s=ouhau&id=653e4acf0006e0e80c87b2c8194d5791
+TVB华语剧,http://?s=focus&id=643361e10003610a220f68773c0b4c78
+TVB黃金翡翠台,http://?s=focus&id=64206c63000c3a90d801201c5fe2483a
+TVB黃金翡翠台,http://?s=ouhau&id=653e49c20006c60f0c8397f7771b1b7b
+TVB千禧经典台,http://?s=ouhau&id=5fdee1a2000b5fba6d93e51308cb7ddf
+TVB戏曲台,http://?s=ouhau&id=63108bd0000e4a9cdb92aa6820e833d5
+TVB戏曲台,http://?s=focus&id=64336236000b18a12210b67722665e99
+TVB星河(国),http://?s=ouhau&id=6563174f0002ffaf9c45dd927c7d6df1
+星河台,http://?s=ouhau&id=5fdee23d000b670a6d96428e4c334643
+TVB星河(国),http://?s=focus&id=641021e900026b0f985e6a374d7d56bb
+TVB星河(国),http://?s=focus&id=64124d490002f20da0d7d95b4dbe6256
+星河台,http://?s=focus&id=641021c50003c5af985dddf037af353c
+星河台,http://?s=focus&id=64124d6a00062ff8a0d85b176a3f19bd
+TVB亚洲剧,http://?s=ouhau&id=6284685e00039b52b82eeeca7a785fda
+TVB亚洲综艺,http://?s=ouhau&id=63108c86000a543bdb95705579fa26ad
+TVB粤语片,http://?s=ouhau&id=653e4b8d00001a450c8a973c06325101
+TVB粵語片,http://?s=focus&id=643361c7000d4bee220f05703b541d41
 TVB无线新闻,http://?s=ouhau&id=653e4703000daead0c78dfb07723484e
 TVB无线新闻,http://?s=ouhau&id=653e4818000b73240c7d19181340415e
 TVB财体资讯,http://?s=ouhau&id=5ffbee4900066c0ddf0b8b84423c06f3
@@ -1129,12 +1189,6 @@ TVB星河(国),http://?s=ouhau&id=654aa426000823873cc48521786400fb
 TVB亚洲综艺,http://?s=ouhau&id=63108c86000a543bdb95705579fa26ad
 TVB戏曲,http://?s=ouhau&id=63108bd0000e4a9cdb92aa6820e833d5
 Cinemax HK,http://?s=ouhau&id=6519bda7000d8e137dc0fc4756be5188
-Now新闻,http://?s=ouhau&id=653e4f3d0003bdbf0c98ffaf583a6e3a
-Now财经,http://?s=ouhau&id=6256e47a0007a6bb0665fa1971252f50
-Now华剧,http://?s=ouhau&id=6519bc200001e7b37dbb01f124075086
-Now剧集,http://?s=ouhau&id=63ed3e1500077d30e7f449055a0846ce
-Now星影,http://?s=ouhau&id=65423b7b00047dbb1bebd20b45f374d2
-Now爆谷,http://?s=ouhau&id=65423beb00082fd01bed887e0ae23bbf
 黄金华剧台,http://?s=ouhau&id=652970de00011277bb14dcd76e301cc0
 HBO(粤),http://?s=ouhau&id=650ff8190006c7355795739f3c0b7500
 美亚电影(粤),http://?s=ouhau&id=64be58dd0007fb8d18c11148736701af
@@ -2780,100 +2834,12 @@ CCTV15,http://ftxz.7766.org:808/hls/15/index.m3u8
 CR_8888,#genre#
 Js=jizhi
 潘多拉完美,http://?s=ouhau&id=5fe4450c000c918b829fca233c845311
-香蕉,http://?s=ouhau&id=60626a760005067e6f5bbecb5816771e
 松视1,http://?s=ouhau&id=5fe445280008a40682a0367c343436bb
 松视2,http://?s=ouhau&id=60232b5f00007bc37850649979e379df
 松视3,http://?s=ouhau&id=6109e9590001f40bfd9b661109395f3b
-惊艳,http://?s=ouhau&id=60626a1b00010e3e6f5a5a4f018e5ebe
-LOOK,http://?s=ouhau&id=606271190002a1266f75aaee0463186a
-HAPPY,http://?s=ouhau&id=616b79be000a35b17ab2f7b84c325eeb
-彩虹e,http://?s=ouhau&id=6062716c0008efc86f76f0c44d55329f
-彩虹K,http://?s=ouhau&id=63fd56ec000b5f0d26d4fe1b07963493
-彩虹电影,http://?s=ouhau&id=6253066c00049259f74b05224cf375e6
-彩虹频道,http://?s=ouhau&id=63fd589300099ff426db7203798a21f9
-极限电影,http://?s=ouhau&id=6109e9bb0005fd87fd9ce5ea2c1f18d3
-西方OFFICE场景,http://?s=ouhau&id=6403cb9f0003a839400cad904b301253
-西方黑白大战,http://?s=ouhau&id=6403cc0d0000f97a400e5a9115f012f3
-中字有码1,http://?s=ouhau&id=5fe790790005783d8f7e6a1d2f8774e6
-中字有码2,http://?s=ouhau&id=5fea645500007b7e9a898b3d6ea244cf
-日本j-girl,http://?s=ouhau&id=5fe6d5ab000d6dc38ca4b77276be2f75
-上原亚衣,http://?s=ouhau&id=5fed670a00074c56a64c200b26e62c10
-日本PPV-1,http://?s=ouhau&id=5fed5578000e28fba6077f774fba6950
-奥体金丝雀,http://?s=ouhau&id=5febb68d000c74979fb2b90c461f0bfb
-日本VR精品,http://?s=ouhau&id=5fea649900057d369a8a9626665058f0
-日本加勒比无码,http://?s=ouhau&id=5fe6d4c0000ea3178ca121c83d4b0a39
-日本东京热无码,http://?s=ouhau&id=5fe6d4f10006c6ec8ca1df2d4bd07a2d
-韩国演艺圈潜规则,http://?s=ouhau&id=5fe6d643000a32ae8ca7085f68304b38
-日本一本道无码,http://?s=ouhau&id=5fe6d4d8000a01508ca17e596611121f
-日本CATWALK POISON,http://?s=ouhau&id=5fe7fe14000bbbb1912a91354e4b5706
-日本J-Girl,http://?s=ouhau&id=5fe6d5ab000d6dc38ca4b77276be2f75
-Playboy KR,http://?s=ouhau&id=646fa54000041fa7e554fbe50f3b3077
-Midnight KR,http://?s=ouhau&id=646fa5d10004a256e557326f0b8b5682
-Miami TV,http://?s=ouhau&id=64eefc5700067df3d6beb4ce0b4d4a5d
-MiamiTVJennyForYou,http://?s=ouhau&id=64ef02c100057c77d6d7c2942a8e0343
-大神猫先生,http://?s=ouhau&id=5fed7efe000093e8a6a9af6f691c7583
-麻豆天美传媒,http://?s=ouhau&id=61bff85e00029535c4bd1c4f47fb5400
-七天极品探花,http://?s=ouhau&id=62ca5692000275f2c95644b27e04396b
-苍井空,http://?s=ouhau&id=5fea6483000512cf9a8a401a24db1f4e
-波多野结衣,http://?s=ouhau&id=5fe6d96b000d95298cb35d8161902e91
-Heyzo无码,http://?s=ouhau&id=5fe8014b0007228691371ed44a517e44
-人妻斩,http://?s=ouhau&id=5fe7fd63000e253a9127de6a777d49b4
-猫步毒药,http://?s=ouhau&id=5fe7fe14000bbbb1912a91354e4b5706
-人妻熟女,http://?s=ouhau&id=5fe8019000071e4f91382c5b7fef4506
-素人动画,http://?s=ouhau&id=5fe7ff6e0001271f912fd60179236471
-XXXAV,http://?s=ouhau&id=5fe80214000d2ec8913a3189085b6434
-黑珍珠,p3p://fccsen.dyndns.tv:29706/5e17adad000be87d05e8384a1be757b6
-色情世界,p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
-人妻出轨,p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
-日本天热素人,http://?s=ouhau&id=5fe6d51e0009f6db8ca28fc66a750553
-FC2PPV-1,http://?s=ouhau&id=5fed5578000e28fba6077f774fba6950
-Play boy,p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
-古川伊织,http://?s=ouhau&id=5ff7430900000f8fcccf091c30805ccb
-日本无码破解,http://?s=ouhau&id=5fef580000022fb6ade15fa160a61ae1
-迷奸无码,http://?s=ouhau&id=5ff201c40003b7e3b8481485121959a6
-经典三级片1,http://?s=ouhau&id=62dac52e00087a70098570f12b7962e5
-日本情色动漫1,http://?s=ouhau&id=5ff742d8000bbabbccce4cb0100a31ff
-麻豆大番,http://?s=ouhau&id=5fee099a000e4a8da8c7244c6ff632e3
-麻豆导演,http://?s=ouhau&id=5fee723900074e31aa5fcfa0561f1b95
-麻豆外番,http://?s=ouhau&id=5fee86ee0006ce80aab0b2811d842258
-麻豆台湾,http://?s=ouhau&id=5fef5ed40002a464adfc0be76180670f
-91沈先生,http://?s=ouhau&id=5fee5d4500060214aa0df631581d3164
-鸭总探花,http://?s=ouhau&id=5fee5d6300022e98aa0e6a660e9f6d9f
-金三角猎艳,http://?s=ouhau&id=5fedf9d60007fb5ca8898d0b546620cc
-黑人干翻天,http://?s=ouhau&id=5fedfa1c00068347a88a9e1b1b517e42
-千人斩,http://?s=ouhau&id=5fee93e80000c61aaae361853fd36c1f
-小宝寻花,http://?s=ouhau&id=5fee940f000cad40aae3fce963f95891
-午夜寻花,http://?s=ouhau&id=5ff22f59000ea2d6b8fa255a1d4c635c
-男爵探花,http://?s=ouhau&id=62bf9f8c000c9a4c9f7bcb53499c786f
-大陆迷奸,http://?s=ouhau&id=5ff395d60009ac7fbe727c5c77ee33a8
-SM西贡女,http://?s=ouhau&id=5ff92d000005f07cd448f7774faa47bd
-PsychopornTW,http://?s=ouhau&id=5ff399460003af78be7fe8571735593d
-俄罗斯毛子,http://?s=ouhau&id=5fef89a7000537fcaea354cc0cff353a
-美国家庭,http://?s=ouhau&id=5ff7341b000bdc38cc94ba7e6b763297
-欧美艺术,http://?s=ouhau&id=607e1f9f0004af8edb961118303e4935
-果冻传媒,http://?s=ouhau&id=5ff5420900039286c4fb220f4b133915
-利哥探花 1,http://?s=ouhau&id=61b4e9970009588e998c4b9532e01f5f
-利哥探花 2,http://?s=ouhau&id=64ebf4ae0000f1c2cae8c73738a337d4
-精东影业,http://?s=ouhau&id=6135966100022f18a83512374f864fd8
-香港三级2,http://?s=ouhau&id=607e0dca0005cd6ddb506963435f6f5a
-中文有码3,http://?s=ouhau&id=5ff70064000178a1cbcab4ef4f5f0bd9
-天台素人约啪,http://?s=ouhau&id=5fea646c000b95d79a89e7ed2c483b7a
-日本强奸迷奸无码,http://?s=ouhau&id=5ff201c40003b7e3b8481485121959a6
-Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
-sky angel blue,http://?s=ouhau&id=6135967b0008b0e7a83579725d7b7ab3
-IBIZA 巨乳控,http://?s=ouhau&id=644ecb5f000ca4ee650265db655d0248
-Dorcel XXX,p3p://fccsen.dyndns.tv:29706/5e5f0e09000182301cb87c94194b43d6
-Vivid red,p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
-松視1台,http://?s=focus&id=650b87f1000d765a8f12ea107fd81201
-松視3台,http://?s=focus&id=650b8a0e000007df8f1b27da75d42f65
-松視2台,http://?s=focus&id=650b8a51000ac6568f1c30530c503d72
-HAPPY,http://?s=focus&id=650b8915000b1a1b8f175e0765017f8a
-彩虹K,http://?s=focus&id=650b896a000407bf8f18a840011e789a
-玩美台,http://?s=focus&id=650b8a9900047f038f1d47f730bd5b7c
-ATV 香蕉台,http://?s=focus&id=650b8ae60005f36b8f1e751f68bd1c14
-ATV 驚艷台,http://?s=focus&id=650b8b37000c4e8a8f1fb328756e4077
-极限台HOT,http://?s=focus&id=650b8b700004037d8f208fb144ea7e3f
-彩虹电影,http://?s=focus&id=650b89c6000280318f1a0f3c30b74958
+松视1,http://?s=focus&id=650b87f1000d765a8f12ea107fd81201
+松视2,http://?s=focus&id=650b8a51000ac6568f1c30530c503d72
+松视3,http://?s=focus&id=650b8a0e000007df8f1b27da75d42f65
 日本中字1,http://?s=focus&id=64fa7d1c000a26144c810f6c2a1b709b
 日本中字2,http://?s=focus&id=64fa7d0d000bf15a4c80d54a58b706d0
 日本中字3,http://?s=focus&id=64fa7cf60009a5b24c807adb63ff467e
@@ -2885,51 +2851,139 @@ ATV 驚艷台,http://?s=focus&id=650b8b37000c4e8a8f1fb328756e4077
 日本中字9,http://?s=focus&id=64fa7c7500015e0e4c7e80d46b241ea2
 日本中字10,http://?s=focus&id=64fa7c5c000d2a334c7e22315fb62b36
 日本中字11,http://?s=focus&id=64fa7bf40004098c4c7c899b60d519f9
+91沈先生,http://?s=ouhau&id=5fee5d4500060214aa0df631581d3164
+ATV 惊艷台,http://?s=focus&id=650b8b37000c4e8a8f1fb328756e4077
+ATV 香蕉台,http://?s=focus&id=650b8ae60005f36b8f1e751f68bd1c14
+Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
+Dorcel XXX,p3p://fccsen.dyndns.tv:29706/5e5f0e09000182301cb87c94194b43d6
+素人动画,http://?s=ouhau&id=5fe7ff6e0001271f912fd60179236471
+太子神探,http://?s=focus&id=643f46600000aa455083be767ecc30be
+探花1,http://?s=focus&id=643f4a720003177e5093a56b35103bec
+探花2,http://?s=focus&id=643f4689000560ce50845fd32f1e3642
+天台素人约啪,http://?s=ouhau&id=5fea646c000b95d79a89e7ed2c483b7a
+偷拍,http://?s=focus&id=64487f82000255b1748ab189692e4233
+玩美台,http://?s=focus&id=650b8a9900047f038f1d47f730bd5b7c
+午夜寻花,http://?s=ouhau&id=5ff22f59000ea2d6b8fa255a1d4c635c
+西方OFFICE场景,http://?s=ouhau&id=6403cb9f0003a839400cad904b301253
+西方黑白大战,http://?s=ouhau&id=6403cc0d0000f97a400e5a9115f012f3
+香港三级2,http://?s=ouhau&id=607e0dca0005cd6ddb506963435f6f5a
+香蕉,http://?s=ouhau&id=60626a760005067e6f5bbecb5816771e
+小宝神探,http://?s=focus&id=643f4651000e995c5083877078e11741
+小宝寻花,http://?s=ouhau&id=5fee940f000cad40aae3fce963f95891
+鸭总探花,http://?s=ouhau&id=5fee5d6300022e98aa0e6a660e9f6d9f
+张总,http://?s=focus&id=64487f750009511b748a808a27984fac
+直播1,http://?s=focus&id=643f4642000eba1250834ce0704e60b0
+直播2,http://?s=focus&id=643f462a0001fb665082ebdc599b5e74
+直播3,http://?s=focus&id=64487f5100084a5c7489f3a771c078c4
+中字有码1,http://?s=ouhau&id=5fe790790005783d8f7e6a1d2f8774e6
+中字有码2,http://?s=ouhau&id=5fea645500007b7e9a898b3d6ea244cf
+中文有码3,http://?s=ouhau&id=5ff70064000178a1cbcab4ef4f5f0bd9
+三级,http://?s=focus&id=643f46e90005e4b65085d6f66e8430d7
+色情世界,p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
+上原亚衣,http://?s=ouhau&id=5fed670a00074c56a64c200b26e62c10
+沈先生1,http://?s=focus&id=643f461b00047d7c5082b1e9785e07d1
+沈先生2,http://?s=focus&id=643f4606000b30f85082619878c7475e
+七天极品探花,http://?s=ouhau&id=62ca5692000275f2c95644b27e04396b
+千人斩,http://?s=ouhau&id=5fee93e80000c61aaae361853fd36c1f
+热舞,http://?s=focus&id=643f467d0007d02950843193582d157f
+人妻,http://?s=focus&id=64487f210008fc287489385479a92810
+人妻出轨,p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
+人妻熟女,http://?s=ouhau&id=5fe8019000071e4f91382c5b7fef4506
+人妻斩,http://?s=ouhau&id=5fe7fd63000e253a9127de6a777d49b4
+日本CATWALK POISON,http://?s=ouhau&id=5fe7fe14000bbbb1912a91354e4b5706
+日本jgirl,http://?s=ouhau&id=5fe6d5ab000d6dc38ca4b77276be2f75
+日本JGirl,http://?s=ouhau&id=5fe6d5ab000d6dc38ca4b77276be2f75
+日本PPV1,http://?s=ouhau&id=5fed5578000e28fba6077f774fba6950
+日本VR精品,http://?s=ouhau&id=5fea649900057d369a8a9626665058f0
+日本东京热无码,http://?s=ouhau&id=5fe6d4f10006c6ec8ca1df2d4bd07a2d
+日本加勒比无码,http://?s=ouhau&id=5fe6d4c0000ea3178ca121c83d4b0a39
+日本强奸迷奸无码,http://?s=ouhau&id=5ff201c40003b7e3b8481485121959a6
+日本情色动漫1,http://?s=ouhau&id=5ff742d8000bbabbccce4cb0100a31ff
+日本天热素人,http://?s=ouhau&id=5fe6d51e0009f6db8ca28fc66a750553
+日本无码破解,http://?s=ouhau&id=5fef580000022fb6ade15fa160a61ae1
+日本一本道无码,http://?s=ouhau&id=5fe6d4d8000a01508ca17e596611121f
+彩虹频道,http://?s=ouhau&id=63fd589300099ff426db7203798a21f9
+苍井空,http://?s=ouhau&id=5fea6483000512cf9a8a401a24db1f4e
+传媒2赌博网勿信,http://?s=focus&id=643c4554000bc4ba44c7aa6c52af6d13
+传媒3赌博网勿信,http://?s=focus&id=643c454300039d1b44c765ee65b91ba8
+传媒4,http://?s=focus&id=643f470a000467b05086577a5049739d
+大陆迷奸,http://?s=ouhau&id=5ff395d60009ac7fbe727c5c77ee33a8
+大神猫先生,http://?s=ouhau&id=5fed7efe000093e8a6a9af6f691c7583
+俄罗斯毛子,http://?s=ouhau&id=5fef89a7000537fcaea354cc0cff353a
+粉红台,http://?s=focus&id=641a800b00087defc0dde7672f891ee4
+古川伊织,http://?s=ouhau&id=5ff7430900000f8fcccf091c30805ccb
+果冻传媒,http://?s=ouhau&id=5ff5420900039286c4fb220f4b133915
+韩国演艺圈,http://?s=focus&id=64487f44000009c47489bec26ba13f81
+韩国演艺圈潜规则,http://?s=ouhau&id=5fe6d643000a32ae8ca7085f68304b38
+黑人干翻天,http://?s=ouhau&id=5fedfa1c00068347a88a9e1b1b517e42
+黑珍珠,p3p://fccsen.dyndns.tv:29706/5e17adad000be87d05e8384a1be757b6
+换妻1赌博网勿信,http://?s=focus&id=643c45330007748c44c728716e235ede
+极限电影,http://?s=ouhau&id=6109e9bb0005fd87fd9ce5ea2c1f18d3
+极限台HOT,http://?s=focus&id=650b8b700004037d8f208fb144ea7e3f
+金三角猎艳,http://?s=ouhau&id=5fedf9d60007fb5ca8898d0b546620cc
+经典三级片1,http://?s=ouhau&id=62dac52e00087a70098570f12b7962e5
+惊艳,http://?s=ouhau&id=60626a1b00010e3e6f5a5a4f018e5ebe
+精东影业,http://?s=ouhau&id=6135966100022f18a83512374f864fd8
+酒店偷拍2,http://?s=focus&id=643f466e000109ae5083f53f78515fe0
+酒店偷拍赌博网勿信,http://?s=focus&id=643c456e0008fdf744c80f46561f2529
+剧情1赌博网勿信,http://?s=focus&id=643b3804000d529540abe3af535f7949
+剧情2赌博网勿信,http://?s=focus&id=643c452200057d4e44c6e5886a9d1abe
+利哥探花 1,http://?s=ouhau&id=61b4e9970009588e998c4b9532e01f5f
+利哥探花 2,http://?s=ouhau&id=64ebf4ae0000f1c2cae8c73738a337d4
+良家,http://?s=focus&id=643f46fa00003df4508617eb220234bd
+轮播1,http://?s=focus&id=64487f5d000b5491748a234e7ced2478
+轮播2,http://?s=focus&id=64487f69000cb436748a5288486852e5
+麻豆大番,http://?s=ouhau&id=5fee099a000e4a8da8c7244c6ff632e3
+麻豆导演,http://?s=ouhau&id=5fee723900074e31aa5fcfa0561f1b95
+麻豆赌博网勿信,http://?s=focus&id=643ad82100025d323f355232416654c2
+麻豆台湾,http://?s=ouhau&id=5fef5ed40002a464adfc0be76180670f
+麻豆天美传媒,http://?s=ouhau&id=61bff85e00029535c4bd1c4f47fb5400
+麻豆外番,http://?s=ouhau&id=5fee86ee0006ce80aab0b2811d842258
+猫步毒药,http://?s=ouhau&id=5fe7fe14000bbbb1912a91354e4b5706
+美国家庭,http://?s=ouhau&id=5ff7341b000bdc38cc94ba7e6b763297
+迷奸无码,http://?s=ouhau&id=5ff201c40003b7e3b8481485121959a6
+男爵探花,http://?s=ouhau&id=62bf9f8c000c9a4c9f7bcb53499c786f
+欧美艺术,http://?s=ouhau&id=607e1f9f0004af8edb961118303e4935
+彩虹K,http://?s=focus&id=650b896a000407bf8f18a840011e789a
+彩虹K,http://?s=ouhau&id=63fd56ec000b5f0d26d4fe1b07963493
+彩虹电影,http://?s=focus&id=650b89c6000280318f1a0f3c30b74958
+彩虹电影,http://?s=ouhau&id=6253066c00049259f74b05224cf375e6
+Heyzo无码,http://?s=ouhau&id=5fe8014b0007228691371ed44a517e44
+IBIZA 巨乳控,http://?s=ouhau&id=644ecb5f000ca4ee650265db655d0248
+LOOK,http://?s=ouhau&id=606271190002a1266f75aaee0463186a
+Miami TV,http://?s=ouhau&id=64eefc5700067df3d6beb4ce0b4d4a5d
+Miami TV,http://?s=ouhau&id=64ef02c100057c77d6d7c2942a8e0343
+Midnight KR,http://?s=ouhau&id=646fa5d10004a256e557326f0b8b5682
+Play boy,p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
+Play boy,http://?s=ouhau&id=646fa54000041fa7e554fbe50f3b3077
+PsychopornTW,http://?s=ouhau&id=5ff399460003af78be7fe8571735593d
+short video1,http://?s=focus&id=64231f800006c5b7e28c8f791462113b
+short video2,http://?s=focus&id=64231f8a0006c438e28cb688051704fb
+sky angel blue,http://?s=ouhau&id=6135967b0008b0e7a83579725d7b7ab3
+SM西贡女,http://?s=ouhau&id=5ff92d000005f07cd448f7774faa47bd
 vip01wuma,http://?s=focus&id=642316230005e319e267fc00076e6e77
 vip02wuma,http://?s=focus&id=642319860005a2bce275369f096d68b2
 vip03wuma,http://?s=focus&id=64231a180004ee7de27770c263dc6c5c
 vip04wuma,http://?s=focus&id=64231a2700022f77e277aaa6349f3b6c
 vip05wuma,http://?s=focus&id=64231a33000d8e7de277dc6f4f9a18e6
-热舞,http://?s=focus&id=643f467d0007d02950843193582d157f
-探花1,http://?s=focus&id=643f4a720003177e5093a56b35103bec
-探花2,http://?s=focus&id=643f4689000560ce50845fd32f1e3642
-三级,http://?s=focus&id=643f46e90005e4b65085d6f66e8430d7
-良家,http://?s=focus&id=643f46fa00003df4508617eb220234bd
-人妻,http://?s=focus&id=64487f210008fc287489385479a92810
-张总,http://?s=focus&id=64487f750009511b748a808a27984fac
-轮播1,http://?s=focus&id=64487f5d000b5491748a234e7ced2478
-轮播2,http://?s=focus&id=64487f69000cb436748a5288486852e5
-韩国演艺圈,http://?s=focus&id=64487f44000009c47489bec26ba13f81
-沈先生1,http://?s=focus&id=643f461b00047d7c5082b1e9785e07d1
-沈先生2,http://?s=focus&id=643f4606000b30f85082619878c7475e
-直播1,http://?s=focus&id=643f4642000eba1250834ce0704e60b0
-直播2,http://?s=focus&id=643f462a0001fb665082ebdc599b5e74
-直播3,http://?s=focus&id=64487f5100084a5c7489f3a771c078c4
-小宝神探,http://?s=focus&id=643f4651000e995c5083877078e11741
-太子神探,http://?s=focus&id=643f46600000aa455083be767ecc30be
-偷拍,http://?s=focus&id=64487f82000255b1748ab189692e4233
-剧情1赌博网勿信,http://?s=focus&id=643b3804000d529540abe3af535f7949
-剧情2赌博网勿信,http://?s=focus&id=643c452200057d4e44c6e5886a9d1abe
-换妻1赌博网勿信,http://?s=focus&id=643c45330007748c44c728716e235ede
-传媒2赌博网勿信,http://?s=focus&id=643c4554000bc4ba44c7aa6c52af6d13
-传媒3赌博网勿信,http://?s=focus&id=643c454300039d1b44c765ee65b91ba8
-传媒4,http://?s=focus&id=643f470a000467b05086577a5049739d
-酒店偷拍赌博网勿信,http://?s=focus&id=643c456e0008fdf744c80f46561f2529
-酒店偷拍2,http://?s=focus&id=643f466e000109ae5083f53f78515fe0
-麻豆赌博网勿信,http://?s=focus&id=643ad82100025d323f355232416654c2
-粉紅台,http://?s=focus&id=641a800b00087defc0dde7672f891ee4
+Vivid red,p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
+XXXAV,http://?s=ouhau&id=5fe80214000d2ec8913a3189085b6434
+奥体金丝雀,http://?s=ouhau&id=5febb68d000c74979fb2b90c461f0bfb
+波多野结衣,http://?s=ouhau&id=5fe6d96b000d95298cb35d8161902e91
 彩虹E,http://?s=focus&id=641a802000061354c0de38d050782a5d
-short video1,http://?s=focus&id=64231f800006c5b7e28c8f791462113b
-short video2,http://?s=focus&id=64231f8a0006c438e28cb688051704fb
-English1,http://?s=focus&id=64231a4200010d06e27813d404c6258d
-English2,http://?s=focus&id=64231a510001a320e2784e927fb73712
-English3,http://?s=focus&id=64231a5e0004e407e27882302c8b31e1
-English4,http://?s=focus&id=64231a730008e6bde278d53e721a5725
-English5,http://?s=focus&id=64231a7f0003d911e27902d3411850e7
-English6,http://?s=focus&id=64231a8b0002615ee2793152059606bd
-English7,http://?s=focus&id=64231b27000855e1e27b94397bf80b92
-English8,http://?s=focus&id=64231b31000b2fa3e27bbc0401b41502
-English9,http://?s=focus&id=64231b3d000ccc38e27beb4e0c6761a2
+彩虹E,http://?s=ouhau&id=6062716c0008efc86f76f0c44d55329f
+FC2PPV1,http://?s=ouhau&id=5fed5578000e28fba6077f774fba6950
+HAPPY,http://?s=focus&id=650b8915000b1a1b8f175e0765017f8a
+HAPPY,http://?s=ouhau&id=616b79be000a35b17ab2f7b84c325eeb
+English01,http://?s=focus&id=64231a4200010d06e27813d404c6258d
+English02,http://?s=focus&id=64231a510001a320e2784e927fb73712
+English03,http://?s=focus&id=64231a5e0004e407e27882302c8b31e1
+English04,http://?s=focus&id=64231a730008e6bde278d53e721a5725
+English05,http://?s=focus&id=64231a7f0003d911e27902d3411850e7
+English06,http://?s=focus&id=64231a8b0002615ee2793152059606bd
+English07,http://?s=focus&id=64231b27000855e1e27b94397bf80b92
+English08,http://?s=focus&id=64231b31000b2fa3e27bbc0401b41502
+English09,http://?s=focus&id=64231b3d000ccc38e27beb4e0c6761a2
 English10,http://?s=focus&id=64231b4a000de8afe27c1e5f78545a2d
 English11,http://?s=focus&id=64231b6a00041098e27c98db39615346
 English.13,http://?s=focus&id=64231b78000add51e27cd14927255d3f
@@ -2947,6 +3001,7 @@ English.24,http://?s=focus&id=64231e860007ac07e288bf3061103b0d
 English.25,http://?s=focus&id=64231e91000587aae288e99916e46fdd
 English.26,http://?s=focus&id=64231e9c0007a45ee289151c0c8f60ca
 English.27,http://?s=focus&id=64231eaa000cc687e2894d1c6445706e
+
 
 
 p2p,#genre#
