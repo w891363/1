@@ -840,7 +840,7 @@ Js=jizhi
 翡翠台,http://?s=ouhau&id=653e4c02000ea0440c8c63fd3e5d709d
 TVB明珠,http://?s=ouhau&id=602f1ba9000814efa6f2970333d309d9
 TVB明珠,http://?s=ouhau&id=611d99f3000116024a845bb9627404c9
-J2,http://?s=ouhau&id=653e4d3e000b344f0c91357e73163f82
+MYTV SUPER,http://?s=ouhau&id=653e4d3e000b344f0c91357e73163f82
 J2,http://?s=focus&id=641021800006a527985cd1244315142d
 J2,http://?s=ouhau&id=611d989d0005244a4a7f24d111282ffb
 J2,http://?s=ouhau&id=5ffbee4900066c0ddf0b8b84423c06f3
