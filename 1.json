@@ -11,7 +11,7 @@
     {
       "name": "2",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eR1zxNO/1/main/2.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eR1zxNO/1/main/3.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
