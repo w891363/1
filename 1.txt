@@ -6,7 +6,7 @@ J2,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b5344
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 星河台,http://120.196.171.138:9901/tsfile/live/1005_1.m3u8
-翡翠台,http://119.125.130.138:9901/tsfile/live/1007_1.m3u8
+翡翠台,http://119.125.129.46:9901/tsfile/live/1007_1.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -110,7 +110,6 @@ CCTV风云音乐,http://szlyric.fun:4022/udp/239.253.43.6:5146
 星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 翡翠台,http://113.64.94.201:9901/tsfile/live/1006_1.m3u8
-翡翠台,http://59.32.97.85:9901/tsfile/live/1013_1.m3u8
 
 #ZU
 CGTN,http://www.8700956.top:18888/rtp/239.81.1.020:4056
