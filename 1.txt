@@ -1728,7 +1728,7 @@ SETI 三立国际,http://?s=focus&id=64124e4200057913a0dba6a76ebf248c
 
 
 
-#替换
+替换,#genre#
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 ViuTV6,http://bziyunshao.synology.me:8889/bysid/96
 ViuTV,http://bziyunshao.synology.me:8889/bysid/99
