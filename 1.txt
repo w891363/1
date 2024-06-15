@@ -13,24 +13,24 @@ J2,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b5344
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 CCTV4K,http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
-CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
-CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
-CCTV3,http://www.8700956.top:18888/rtp/239.81.1.004:4056
-CCTV4,http://www.8700956.top:18888/rtp/239.81.1.005:4056
-CCTV5,http://www.8700956.top:18888/rtp/239.81.1.006:4056
-CCTV5+,http://www.8700956.top:18888/rtp/239.81.1.018:4056
-CCTV6,http://www.8700956.top:18888/rtp/239.81.1.007:4056
-CCTV7,http://www.8700956.top:18888/rtp/239.81.1.008:4056
-CCTV8,http://www.8700956.top:18888/rtp/239.81.1.009:4056
-CCTV9,http://www.8700956.top:18888/rtp/239.81.1.010:4056
-CCTV10,http://www.8700956.top:18888/rtp/239.81.1.011:4056
-CCTV11,http://www.8700956.top:18888/rtp/239.81.1.012:4056
-CCTV12,http://www.8700956.top:18888/rtp/239.81.1.013:4056
-CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
-CCTV14,http://www.8700956.top:18888/rtp/239.81.1.015:4056
-CCTV15,http://www.8700956.top:18888/rtp/239.81.1.016:4056
-CCTV16,http://www.8700956.top:18888/rtp/239.81.1.017:4056
-CCTV17,http://www.8700956.top:18888/rtp/239.81.1.019:4056
+CCTV1,http://php.jdshipin.com:8880/xsj.php?id=cctv1
+CCTV2,http://php.jdshipin.com:8880/xsj.php?id=cctv2
+CCTV3,http://php.jdshipin.com:8880/xsj.php?id=cctv3
+CCTV4,http://php.jdshipin.com:8880/xsj.php?id=cctv4
+CCTV5,http://php.jdshipin.com:8880/xsj.php?id=cctv5
+CCTV5+,http://php.jdshipin.com:8880/xsj.php?id=cctv5plus
+CCTV6,http://php.jdshipin.com:8880/xsj.php?id=cctv6
+CCTV7,http://php.jdshipin.com:8880/xsj.php?id=cctv7
+CCTV8,http://php.jdshipin.com:8880/xsj.php?id=cctv8
+CCTV9,http://php.jdshipin.com:8880/xsj.php?id=cctv9
+CCTV10,http://php.jdshipin.com:8880/xsj.php?id=cctv10
+CCTV11,http://php.jdshipin.com:8880/xsj.php?id=cctv11
+CCTV12,http://php.jdshipin.com:8880/xsj.php?id=cctv12
+CCTV13,http://php.jdshipin.com:8880/xsj.php?id=cctv13
+CCTV14,http://php.jdshipin.com:8880/xsj.php?id=cctv14
+CCTV15,http://php.jdshipin.com:8880/xsj.php?id=cctv15
+CCTV16,http://php.jdshipin.com:8880/xsj.php?id=cctv16
+CCTV17,http://php.jdshipin.com:8880/xsj.php?id=cctv17
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
@@ -78,6 +78,9 @@ CCTV17,http://www.8700956.top:18888/rtp/239.81.1.019:4056
 兵团卫视,http://125.210.152.21:9121/live/hszx-bttv-h264.m3u8
 新疆卫视,http://125.210.152.21:9121/live/hszx-xjtv-h264.m3u8
 三沙卫视,http://125.210.152.21:9121/live/hzgq-ssws-h264.m3u8
+CHC家庭影院,http://php.jdshipin.com:8880/xsj.php?id=chcjtyy
+CHC动作电影,http://php.jdshipin.com:8880/xsj.php?id=chcdzdy
+CHC高清电影,http://php.jdshipin.com:8880/xsj.php?id=chcgqdy
 CCTV兵器科技,http://szlyric.fun:4022/udp/239.253.43.18:5146
 CCTV兵器科技,http://szlyric.fun:4022/udp/239.253.43.9:5146
 CCTV电视指南,http://szlyric.fun:4022/udp/239.253.43.19:5146
@@ -168,6 +171,42 @@ CCTV-NEWS,http://27.40.16.69:8114/GD_CUCC/G_CCTV-NEWS.m3u8?Authinfo=F8UQ%2BEevMm
 青海卫视,http://58.248.112.229:8114/GD_CUCC/G_QINGHAI.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtPONYs6QtaHPseT96s%2FID0CJK8A3PYAgbxQETLpGrgj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183368940&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e641325baf208&FvSeid=77fd5578ee7c278e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18141&Fsv_chan_hls_se_idx=61&Fsv_TBt=2287408&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_QINGHAI&Fsv_CMSID=GD_CUCC
 厦门卫视,http://58.248.112.230:8114/GD_CUCC/G_XIAMEN.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKqGN1tBE%2F%2B5MsxIjF3XUVlNwwU2%2BP7Se%2BeLJsHpsPerh&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183457815&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e64c4e841b5c2&FvSeid=77fd5578ee7d88ff&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18142&Fsv_chan_hls_se_idx=61&Fsv_TBt=2287232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XIAMEN&Fsv_CMSID=GD_CUCC
 家庭理财,http://27.40.16.70:8114/GD_CUCC/G_JIATINGLC.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKilQCt8UNdp2j4bWP1whhmyYALEMJsenYKuPmAGEn4fP&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183276123&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e63597ecd0e10&FvSeid=77fd5578ee7ab368&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3154&Fsv_chan_hls_se_idx=39&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_JIATINGLC&Fsv_CMSID=GD_CUCC
+
+大湾区卫视,http://php.jdshipin.com:8880/xsj.php?id=testdwqws
+湖南卫视,http://php.jdshipin.com:8880/xsj.php?id=hunan
+浙江卫视,http://php.jdshipin.com:8880/xsj.php?id=zhejiang
+东方卫视,http://php.jdshipin.com:8880/xsj.php?id=dongfang
+江苏卫视,http://php.jdshipin.com:8880/xsj.php?id=jiangsu
+北京卫视,http://php.jdshipin.com:8880/xsj.php?id=beijing
+深圳卫视,http://php.jdshipin.com:8880/xsj.php?id=shenzhen
+广东卫视,http://php.jdshipin.com:8880/xsj.php?id=guangdong
+大湾区卫视,http://php.jdshipin.com:8880/xsj.php?id=gdwqws
+重庆卫视,http://php.jdshipin.com:8880/xsj.php?id=chongqing
+东南卫视,http://php.jdshipin.com:8880/xsj.php?id=dongnan
+广西卫视,http://php.jdshipin.com:8880/xsj.php?id=guangxi
+贵州卫视,http://php.jdshipin.com:8880/xsj.php?id=guizhou
+海南卫视,http://php.jdshipin.com:8880/xsj.php?id=hainan
+河北卫视,http://php.jdshipin.com:8880/xsj.php?id=hebei
+黑龙江卫视,http://php.jdshipin.com:8880/xsj.php?id=heilongjiang
+湖北卫视,http://php.jdshipin.com:8880/xsj.php?id=hubei
+江西卫视,http://php.jdshipin.com:8880/xsj.php?id=jiangxi
+吉林卫视,http://php.jdshipin.com:8880/xsj.php?id=jilin
+辽宁卫视,http://php.jdshipin.com:8880/xsj.php?id=liaoning
+内蒙古卫视,http://php.jdshipin.com:8880/xsj.php?id=neimenggu
+宁夏卫视,http://php.jdshipin.com:8880/xsj.php?id=ningxia
+陕西卫视,http://php.jdshipin.com:8880/xsj.php?id=shaanxi
+山东卫视,http://php.jdshipin.com:8880/xsj.php?id=shandong
+山西卫视,http://php.jdshipin.com:8880/xsj.php?id=shanxi
+四川卫视,http://php.jdshipin.com:8880/xsj.php?id=sichuan
+天津卫视,http://php.jdshipin.com:8880/xsj.php?id=tianjin
+厦门卫视,http://php.jdshipin.com:8880/xsj.php?id=xiamen
+新疆卫视,http://php.jdshipin.com:8880/xsj.php?id=xinjiang
+西藏卫视,http://php.jdshipin.com:8880/xsj.php?id=xizang
+云南卫视,http://php.jdshipin.com:8880/xsj.php?id=yunnan
+安徽卫视,http://php.jdshipin.com:8880/xsj.php?id=anhui
+河南卫视,http://php.jdshipin.com:8880/xsj.php?id=henan
+青海卫视,http://php.jdshipin.com:8880/xsj.php?id=qinghai
+甘肃卫视,http://php.jdshipin.com:8880/xsj.php?id=gansu
 
 #ZU
 
@@ -2048,6 +2087,206 @@ CCTV15,http://ftxz.7766.org:808/hls/15/index.m3u8
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
+
+🇨🇳 Star HK,#genre#
+TVB 翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
+TVB 无线新闻台,http://php.jdshipin.com:8880/xsj.php?id=tvbnews
+TVB PLUS,http://php.jdshipin.com:8880/xsj.php?id=tvbplus
+TVB 黄金翡翠台,http://php.jdshipin.com:8880/xsj.php?id=goldenjade
+TVB 黄金华剧台,http://php.jdshipin.com:8880/xsj.php?id=goldenchinesedrama
+TVB 千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvbclassic
+TVB 粤语片台,http://php.jdshipin.com:8880/xsj.php?id=tvbyueyu
+TVB 星河台,http://php.jdshipin.com:8880/xsj.php?id=tvbxinghe
+TVB 亚洲剧台,http://php.jdshipin.com:8880/xsj.php?id=tvbasiadrama
+TVB 娱乐新闻台,http://php.jdshipin.com:8880/xsj.php?id=TVB%20ylxw
+J2,http://php.jdshipin.com:8880/xsj.php?id=j2
+TVB 明珠台,http://php.jdshipin.com:8880/xsj.php?id=pearl
+TVB 华语剧台,http://php.jdshipin.com:8880/xsj.php?id=tvbdrama
+凤凰卫视 资讯台,http://php.jdshipin.com:8880/xsj.php?id=phtvinfo
+凤凰卫视 中文台,http://php.jdshipin.com:8880/xsj.php?id=phtvcn
+凤凰卫视 香港台,http://php.jdshipin.com:8880/xsj.php?id=phtvhk
+HOY 资讯台,http://php.jdshipin.com:8880/xsj.php?id=hoyinfo
+HOY TV,http://php.jdshipin.com:8880/xsj.php?id=hoytv
+HOY国际财经,http://php.jdshipin.com:8880/xsj.php?id=hoyibc
+ViuTV,http://php.jdshipin.com:8880/xsj.php?id=viutv
+ViuTV6,http://php.jdshipin.com:8880/xsj.php?id=viutv6
+天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
+天映经典,http://php.jdshipin.com:8880/xsj.php?id=cccm
+Thrill,http://php.jdshipin.com:8880/xsj.php?id=thrill
+星空卫视,http://php.jdshipin.com:8880/xsj.php?id=starxingkong
+香港卫视,http://php.jdshipin.com:8880/xsj.php?id=hks
+澳亚卫视,http://php.jdshipin.com:8880/xsj.php?id=mastv
+澳门卫视,http://php.jdshipin.com:8880/xsj.php?id=mstv
+澳门莲花卫视,http://php.jdshipin.com:8880/xsj.php?id=lotustv
+澳门资讯,http://php.jdshipin.com:8880/xsj.php?id=tdminformation
+澳视澳门,http://php.jdshipin.com:8880/xsj.php?id=tdm
+HKC 18台,http://php.jdshipin.com:8880/xsj.php?id=hkc18
+港台电视 31,http://php.jdshipin.com:8880/xsj.php?id=rthk31
+港台电视 32,http://php.jdshipin.com:8880/xsj.php?id=rthk32
+Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=nowsports618
+Now 财经台,http://php.jdshipin.com:8880/xsj.php?id=nowfinance
+Now 爆谷台,http://php.jdshipin.com:8880/xsj.php?id=baogumovies
+Now 星影台,http://php.jdshipin.com:8880/xsj.php?id=nowbaogusuperstars
+Now 新闻台,http://php.jdshipin.com:8880/xsj.php?id=nownews
+Now 直播台,http://php.jdshipin.com:8880/xsj.php?id=nowdirect
+Now报价台,http://php.jdshipin.com:8880/xsj.php?id=nowdata
+Now jelli紫金国际台,http://php.jdshipin.com:8880/xsj.php?id=nowjelli
+Now华剧台,http://php.jdshipin.com:8880/xsj.php?id=nowchinesedrama
+HBO Now115,http://php.jdshipin.com:8880/xsj.php?id=NowHBO
+Now HBO Hits,http://php.jdshipin.com:8880/xsj.php?id=nowhbohits
+Now HBO Family,http://php.jdshipin.com:8880/xsj.php?id=nowhbofamily
+Now HBO Signature,http://php.jdshipin.com:8880/xsj.php?id=nowhbosignature
+MovieMovie,http://php.jdshipin.com:8880/xsj.php?id=moviemovie
+NowViu剧集台,http://php.jdshipin.com:8880/xsj.php?id=nowviudrama
+Now Sports 641,http://php.jdshipin.com:8880/xsj.php?id=nowsports641
+Now NBA,http://php.jdshipin.com:8880/xsj.php?id=nownba
+Now Sports精选,http://php.jdshipin.com:8880/xsj.php?id=nowsportsprime
+Now Sports 1,http://php.jdshipin.com:8880/xsj.php?id=nowsports1
+Now Sports 2,http://php.jdshipin.com:8880/xsj.php?id=nowsports2
+Now Sports 3,http://php.jdshipin.com:8880/xsj.php?id=nowsports3
+Now Sports 4,http://php.jdshipin.com:8880/xsj.php?id=nowsports4
+Now Sports 5,http://php.jdshipin.com:8880/xsj.php?id=nowsports5
+Now Sports 6,http://php.jdshipin.com:8880/xsj.php?id=nowsports6
+Now Sports 7,http://php.jdshipin.com:8880/xsj.php?id=nowsports7
+Now Sports Plus,http://php.jdshipin.com:8880/xsj.php?id=nowsportsplus
+Now Sports 英超1,http://php.jdshipin.com:8880/xsj.php?id=nowsportspremierleague1
+Now beIN SPORTS 1,http://php.jdshipin.com:8880/xsj.php?id=nowbeinsports1
+Now beIN SPORTS 2,http://php.jdshipin.com:8880/xsj.php?id=nowbeinsports2
+Now beIN SPORTS 3,http://php.jdshipin.com:8880/xsj.php?id=nowbeinsports3
+Now 668,http://php.jdshipin.com:8880/xsj.php?id=now668
+Now Golf 2,http://php.jdshipin.com:8880/xsj.php?id=nowgolf2
+Now Golf 3,http://php.jdshipin.com:8880/xsj.php?id=nowgolf3
+
+🇨🇳 Star TW,#genre#
+民视,http://php.jdshipin.com:8880/xsj.php?id=ftv
+民视台湾台,http://php.jdshipin.com:8880/xsj.php?id=ftvtw
+民视第一台,http://php.jdshipin.com:8880/xsj.php?id=ftvone
+纬来日本,http://php.jdshipin.com:8880/xsj.php?id=videolandjapan
+纬来综合,http://php.jdshipin.com:8880/xsj.php?id=videoland
+八大综合,http://php.jdshipin.com:8880/xsj.php?id=gtv28
+八大第一,http://php.jdshipin.com:8880/xsj.php?id=gtv27
+TVBS 精采台,http://php.jdshipin.com:8880/xsj.php?id=tvbsjc
+TVBS 欢乐台,http://php.jdshipin.com:8880/xsj.php?id=tvbshuanle
+TVBS Asia,http://php.jdshipin.com:8880/xsj.php?id=tvbsasia
+三立台湾台,http://php.jdshipin.com:8880/xsj.php?id=settvtaiwan
+三立综合台,http://php.jdshipin.com:8880/xsj.php?id=settvzonghe
+台视,http://php.jdshipin.com:8880/xsj.php?id=ttv
+东森超视,http://php.jdshipin.com:8880/xsj.php?id=ebcsuper
+东森综合台,http://php.jdshipin.com:8880/xsj.php?id=ebcettv
+中视,http://php.jdshipin.com:8880/xsj.php?id=ctv
+中视菁采台,http://php.jdshipin.com:8880/xsj.php?id=bravo
+中天亚洲,http://php.jdshipin.com:8880/xsj.php?id=ctiasia
+中天综合,http://php.jdshipin.com:8880/xsj.php?id=ctitv36
+华视,http://php.jdshipin.com:8880/xsj.php?id=cts
+LiveABC 互动英语频道,http://php.jdshipin.com:8880/xsj.php?id=liveabc
+好消息,http://php.jdshipin.com:8880/xsj.php?id=goodtv
+KLT靖天国际台,http://php.jdshipin.com:8880/xsj.php?id=jtgj
+ELTA综合台,http://php.jdshipin.com:8880/xsj.php?id=eltazonghe
+公视,http://php.jdshipin.com:8880/xsj.php?id=pts
+公视3台,http://php.jdshipin.com:8880/xsj.php?id=pts3
+公视台语台,http://php.jdshipin.com:8880/xsj.php?id=ptsty
+靖天综合台,http://php.jdshipin.com:8880/xsj.php?id=jtzh
+靖天日本台,http://php.jdshipin.com:8880/xsj.php?id=jtrb
+客家电视台,http://php.jdshipin.com:8880/xsj.php?id=hakkatv
+大爱一台,http://php.jdshipin.com:8880/xsj.php?id=daai1
+大爱二台,http://php.jdshipin.com:8880/xsj.php?id=daai2
+ARIRANG 阿里郎频道,http://php.jdshipin.com:8880/xsj.php?id=arirang
+中天新闻,http://php.jdshipin.com:8880/xsj.php?id=ctinews
+TVBS 新闻台,http://php.jdshipin.com:8880/xsj.php?id=tvbsnews
+TVBS HD,http://php.jdshipin.com:8880/xsj.php?id=tvbshd
+东森新闻,http://php.jdshipin.com:8880/xsj.php?id=ebcnews
+东森财经新闻,http://php.jdshipin.com:8880/xsj.php?id=ebcfinance
+寰宇新闻台,http://php.jdshipin.com:8880/xsj.php?id=globalnews
+寰宇财经台,http://php.jdshipin.com:8880/xsj.php?id=globalfinance
+寰宇新闻台湾台,http://php.jdshipin.com:8880/xsj.php?id=globalnewstw
+壹新闻 HD,http://php.jdshipin.com:8880/xsj.php?id=nexttv
+三立新闻,http://php.jdshipin.com:8880/xsj.php?id=settvnews
+三立iNews,http://php.jdshipin.com:8880/xsj.php?id=settvinews
+中视新闻,http://php.jdshipin.com:8880/xsj.php?id=ctvnews
+非凡新闻,http://php.jdshipin.com:8880/xsj.php?id=uniquebusinessnews
+年代新闻,http://php.jdshipin.com:8880/xsj.php?id=eranews
+民视新闻台,http://php.jdshipin.com:8880/xsj.php?id=ftvnews
+台视新闻,http://php.jdshipin.com:8880/xsj.php?id=ttvnews
+镜电视新闻台,http://php.jdshipin.com:8880/xsj.php?id=mnews
+华视新闻,http://php.jdshipin.com:8880/xsj.php?id=ctsnews
+半岛国际新闻台,http://php.jdshipin.com:8880/xsj.php?id=aljazeera
+SBN 全球财经台,http://php.jdshipin.com:8880/xsj.php?id=sbn
+靖天资讯台,http://php.jdshipin.com:8880/xsj.php?id=jtzx
+纬来电影台,http://php.jdshipin.com:8880/xsj.php?id=videolandmovie
+纬来戏剧,http://php.jdshipin.com:8880/xsj.php?id=videolanddrama
+TVBS综艺台,http://php.jdshipin.com:8880/xsj.php?id=tvbszongyi
+TVBS台剧台,http://php.jdshipin.com:8880/xsj.php?id=tvbstaiju
+龙祥电影台,http://php.jdshipin.com:8880/xsj.php?id=lstime
+龙华电影台,http://php.jdshipin.com:8880/xsj.php?id=ltvmovies
+龙华戏剧台,http://php.jdshipin.com:8880/xsj.php?id=ltvxiju
+龙华日韩台,http://php.jdshipin.com:8880/xsj.php?id=ltvrihan
+东森电影,http://php.jdshipin.com:8880/xsj.php?id=ebcmovie
+东森戏剧,http://php.jdshipin.com:8880/xsj.php?id=ebcdrama
+东森洋片,http://php.jdshipin.com:8880/xsj.php?id=ebcemovie
+八大精彩台,http://php.jdshipin.com:8880/xsj.php?id=gtvjct
+八大戏剧,http://php.jdshipin.com:8880/xsj.php?id=gtv41
+八大娱乐,http://php.jdshipin.com:8880/xsj.php?id=gtv86
+八大综艺,http://php.jdshipin.com:8880/xsj.php?id=grt
+采昌影剧台,http://php.jdshipin.com:8880/xsj.php?id=caichang
+美亚电影台,http://php.jdshipin.com:8880/xsj.php?id=meiahmovies
+猪哥亮歌厅秀,http://php.jdshipin.com:8880/xsj.php?id=zglgtx
+民视综艺,http://php.jdshipin.com:8880/xsj.php?id=ftvreality
+民视影剧,http://php.jdshipin.com:8880/xsj.php?id=ftvdrama
+三立都会台,http://php.jdshipin.com:8880/xsj.php?id=settvcity
+三立戏剧台,http://php.jdshipin.com:8880/xsj.php?id=settvdrama
+中视经典台,http://php.jdshipin.com:8880/xsj.php?id=ctvclassic
+中天娱乐,http://php.jdshipin.com:8880/xsj.php?id=ctiyule
+靖洋戏剧台,http://php.jdshipin.com:8880/xsj.php?id=jyxj
+靖天映画,http://php.jdshipin.com:8880/xsj.php?id=jtyh
+靖天电影台,http://php.jdshipin.com:8880/xsj.php?id=jtdy
+靖天戏剧台,http://php.jdshipin.com:8880/xsj.php?id=jtxjt
+韩国娱乐台 KMTV,http://php.jdshipin.com:8880/xsj.php?id=kmtv
+公视戏剧,http://php.jdshipin.com:8880/xsj.php?id=gsxj
+影迷数位纪实台,http://php.jdshipin.com:8880/xsj.php?id=ymswjst
+影迷数字电影台,http://php.jdshipin.com:8880/xsj.php?id=fanscinema
+视纳华仁纪实频道,http://php.jdshipin.com:8880/xsj.php?id=cnex
+MTV Live HD 频道,http://php.jdshipin.com:8880/xsj.php?id=mtv
+ELTA 娱乐台,http://php.jdshipin.com:8880/xsj.php?id=eltaylt
+
+🇨🇳 Star Sport,#genre#
+beIN Sports,http://php.jdshipin.com:8880/xsj.php?id=beinsports
+beIN Sports 2,http://php.jdshipin.com:8880/xsj.php?id=beinsports2
+beIN Sports 3,http://php.jdshipin.com:8880/xsj.php?id=beinsports3
+ELTA 体育1,http://php.jdshipin.com:8880/xsj.php?id=eltasport1
+ELTA 体育2,http://php.jdshipin.com:8880/xsj.php?id=eltasport2
+ELTA 体育3,http://php.jdshipin.com:8880/xsj.php?id=eltasport3
+ELTA体育4台,http://php.jdshipin.com:8880/xsj.php?id=eltasport4
+博斯网球,http://php.jdshipin.com:8880/xsj.php?id=sportcasttennis
+博斯运动1,http://php.jdshipin.com:8880/xsj.php?id=sportcast1
+博斯运动2,http://php.jdshipin.com:8880/xsj.php?id=sportcast2
+博斯无限,http://php.jdshipin.com:8880/xsj.php?id=sportcastwx
+博斯高球1,http://php.jdshipin.com:8880/xsj.php?id=sportcastgolf1
+博斯高球2,http://php.jdshipin.com:8880/xsj.php?id=sportcastgolf2
+博斯魅力,http://php.jdshipin.com:8880/xsj.php?id=sportcastmeili
+ESPN,http://php.jdshipin.com:8880/xsj.php?id=espn
+ESPN 2,http://php.jdshipin.com:8880/xsj.php?id=espn2
+ESPN 3,http://php.jdshipin.com:8880/xsj.php?id=espn3
+ESPN 4,http://php.jdshipin.com:8880/xsj.php?id=espn4
+myTV SUPER直播足球1台,http://php.jdshipin.com:8880/xsj.php?id=mytvsupersoccer1
+myTV SUPER直播足球2台,http://php.jdshipin.com:8880/xsj.php?id=mytvsupersoccer2
+myTV SUPER直播足球3台,http://php.jdshipin.com:8880/xsj.php?id=mytvsupersoccer3
+myTV SUPER直播足球4台,http://php.jdshipin.com:8880/xsj.php?id=mytvsupersoccer4
+myTV SUPER 18,http://php.jdshipin.com:8880/xsj.php?id=mytvsuper18
+纬来体育,http://php.jdshipin.com:8880/xsj.php?id=videolandsport
+NBA,http://php.jdshipin.com:8880/xsj.php?id=nba
+WWE,http://php.jdshipin.com:8880/xsj.php?id=wwe
+DAZN 1,http://php.jdshipin.com:8880/xsj.php?id=elevensport1
+DAZN 2,http://php.jdshipin.com:8880/xsj.php?id=elevensport2
+Eurosports1,http://php.jdshipin.com:8880/xsj.php?id=eurosports1
+SPOTV,http://php.jdshipin.com:8880/xsj.php?id=spotv
+SPOTV2,http://php.jdshipin.com:8880/xsj.php?id=spotv2
+时尚运动 X,http://php.jdshipin.com:8880/xsj.php?id=ssydx
+GINX Esports TV,http://php.jdshipin.com:8880/xsj.php?id=ginxesports
+Tech Storm,http://php.jdshipin.com:8880/xsj.php?id=techstorm
+TRACE Sport Stars,http://php.jdshipin.com:8880/xsj.php?id=tracesportstars
+WSport,http://php.jdshipin.com:8880/xsj.php?id=wsport
+PremierSports,http://php.jdshipin.com:8880/xsj.php?id=premiersports
+智林体育台,http://php.jdshipin.com:8880/xsj.php?id=zlsports
 
 
 CR_8888,#genre#
